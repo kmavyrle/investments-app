@@ -477,7 +477,7 @@ xlwings @ file:///C:/b/abs_1ejhh6s00l/croot/xlwings_1677024180629/work
 xyzservices==2024.9.0
 yapf @ file:///tmp/build/80754af9/yapf_1615749224965/work
 yarl==1.20.0
-yfinance==0.2.58
+yfinance>=0.2.61
 zict==2.1.0
 zipp @ file:///C:/b/abs_b9jfdr908q/croot/zipp_1672387552360/work
 zope.interface @ file:///C:/ci_310/zope.interface_1642113633904/work
