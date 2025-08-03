@@ -43,6 +43,7 @@ Date,value,Name
 2024-10-30,2.8,SAAR GDP Growth
 2025-01-30,2.3,SAAR GDP Growth
 2025-04-30,-0.3,SAAR GDP Growth
+2025-07-30,3.0,SAAR GDP Growth
 1972-07-21,124.79,US Consumer Prices
 1972-08-22,125.31,US Consumer Prices
 1972-09-22,125.62,US Consumer Prices
@@ -1783,6 +1784,7 @@ Date,value,Name
 2025-04-22,18560.8,M1 Money Supply
 2025-05-27,18668.0,M1 Money Supply
 2025-06-24,18712.6,M1 Money Supply
+2025-07-22,18803.0,M1 Money Supply
 1980-02-08,1523.9,M2 Money Supply
 1980-02-15,1532.7,M2 Money Supply
 1980-03-14,1546.6,M2 Money Supply
@@ -2329,6 +2331,7 @@ Date,value,Name
 2025-04-22,21762.5,M2 Money Supply
 2025-05-27,21862.5,M2 Money Supply
 2025-06-24,21942.0,M2 Money Supply
+2025-07-22,22020.8,M2 Money Supply
 1955-05-06,48849.0,NFP
 1955-06-07,49184.0,NFP
 1955-07-08,49330.0,NFP
@@ -3172,6 +3175,7 @@ Date,value,Name
 2025-05-02,159517.0,NFP
 2025-06-06,159561.0,NFP
 2025-07-03,159724.0,NFP
+2025-08-01,159539.0,NFP
 2009-05-28,623000.0,Initial Jobless Claims
 2009-06-04,621000.0,Initial Jobless Claims
 2009-06-11,601000.0,Initial Jobless Claims
@@ -4014,6 +4018,8 @@ Date,value,Name
 2025-07-03,233000.0,Initial Jobless Claims
 2025-07-10,227000.0,Initial Jobless Claims
 2025-07-17,221000.0,Initial Jobless Claims
+2025-07-24,217000.0,Initial Jobless Claims
+2025-07-31,218000.0,Initial Jobless Claims
 2018-07-17,100.17982309789,OECD US Leading Indicator
 2018-09-05,99.9608433063184,OECD US Leading Indicator
 2018-09-13,99.8244816043643,OECD US Leading Indicator
@@ -4334,3 +4340,22 @@ Date,value,Name
 2025-05-02,251026.0,Manufacturer New Orders
 2025-06-03,243446.0,Manufacturer New Orders
 2025-07-03,243518.0,Manufacturer New Orders
+2021-02-23,21219742.01,Federal Reserve Balance Sheet
+2021-05-10,21883869.343,Federal Reserve Balance Sheet
+2021-05-26,22564200.133,Federal Reserve Balance Sheet
+2021-09-08,22789003.236,Federal Reserve Balance Sheet
+2021-11-30,23251659.062,Federal Reserve Balance Sheet
+2022-03-01,23719316.218,Federal Reserve Balance Sheet
+2022-05-24,23973339.415,Federal Reserve Balance Sheet
+2022-09-08,23718485.898,Federal Reserve Balance Sheet
+2022-12-01,23631743.095,Federal Reserve Balance Sheet
+2023-02-28,23600013.705,Federal Reserve Balance Sheet
+2023-06-01,23719546.51,Federal Reserve Balance Sheet
+2023-09-07,23465090.424,Federal Reserve Balance Sheet
+2023-11-29,23408839.466,Federal Reserve Balance Sheet
+2024-03-07,23668802.145,Federal Reserve Balance Sheet
+2024-05-29,23957713.568,Federal Reserve Balance Sheet
+2024-09-05,23887133.275,Federal Reserve Balance Sheet
+2024-12-12,24209934.948,Federal Reserve Balance Sheet
+2025-02-25,24098064.929,Federal Reserve Balance Sheet
+2025-05-28,24098064.929,Federal Reserve Balance Sheet
