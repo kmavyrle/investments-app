@@ -69,10 +69,10 @@ if page == "Price Monitor":
 elif page == "Macro":
     macro_tabs = st.tabs(['Global Macro','Interest Rates'])
     
-    with tabs[0]:
+    with macro_tabs[0]:
             #st.header("Global Macro")
         #Create columns
-        tabs = st.tabs(["Macro Monitor"])
+        #tabs = st.tabs(["Macro Monitor"])
 
 
         macro_df = pd.read_csv('fred_data.csv',index_col = 0)
