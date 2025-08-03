@@ -1,0 +1,4336 @@
+Date,value,Name
+2014-09-26,4.6,SAAR GDP Growth
+2014-10-30,3.5,SAAR GDP Growth
+2015-01-30,2.6,SAAR GDP Growth
+2015-04-29,0.2,SAAR GDP Growth
+2015-07-30,2.3,SAAR GDP Growth
+2015-10-29,1.5,SAAR GDP Growth
+2016-01-29,0.7,SAAR GDP Growth
+2016-04-28,0.5,SAAR GDP Growth
+2016-07-29,1.2,SAAR GDP Growth
+2016-10-28,2.9,SAAR GDP Growth
+2017-01-27,1.9,SAAR GDP Growth
+2017-04-28,0.7,SAAR GDP Growth
+2017-07-28,2.6,SAAR GDP Growth
+2017-10-27,3.0,SAAR GDP Growth
+2018-01-26,2.6,SAAR GDP Growth
+2018-04-27,2.3,SAAR GDP Growth
+2018-07-27,4.1,SAAR GDP Growth
+2018-10-26,3.5,SAAR GDP Growth
+2019-02-28,2.6,SAAR GDP Growth
+2019-04-26,3.2,SAAR GDP Growth
+2019-07-26,2.1,SAAR GDP Growth
+2019-10-30,1.9,SAAR GDP Growth
+2020-01-30,2.1,SAAR GDP Growth
+2020-04-29,-4.8,SAAR GDP Growth
+2020-07-30,-32.9,SAAR GDP Growth
+2020-10-29,33.1,SAAR GDP Growth
+2021-01-28,4.0,SAAR GDP Growth
+2021-04-29,6.4,SAAR GDP Growth
+2021-07-29,6.5,SAAR GDP Growth
+2021-10-28,2.0,SAAR GDP Growth
+2022-01-27,6.9,SAAR GDP Growth
+2022-04-28,-1.4,SAAR GDP Growth
+2022-07-28,-0.9,SAAR GDP Growth
+2022-10-27,2.6,SAAR GDP Growth
+2023-01-26,2.9,SAAR GDP Growth
+2023-04-27,1.1,SAAR GDP Growth
+2023-07-27,2.4,SAAR GDP Growth
+2023-10-26,4.9,SAAR GDP Growth
+2024-01-25,3.3,SAAR GDP Growth
+2024-04-25,1.6,SAAR GDP Growth
+2024-07-25,2.8,SAAR GDP Growth
+2024-10-30,2.8,SAAR GDP Growth
+2025-01-30,2.3,SAAR GDP Growth
+2025-04-30,-0.3,SAAR GDP Growth
+1972-07-21,124.79,US Consumer Prices
+1972-08-22,125.31,US Consumer Prices
+1972-09-22,125.62,US Consumer Prices
+1972-10-20,126.2,US Consumer Prices
+1972-11-21,126.59,US Consumer Prices
+1972-12-22,126.93,US Consumer Prices
+1973-01-23,127.2,US Consumer Prices
+1973-02-22,127.87,US Consumer Prices
+1973-03-21,128.87,US Consumer Prices
+1973-04-20,129.9,US Consumer Prices
+1973-05-22,130.7,US Consumer Prices
+1973-06-21,131.47,US Consumer Prices
+1973-07-20,132.21,US Consumer Prices
+1973-08-21,132.51,US Consumer Prices
+1973-09-21,135.06,US Consumer Prices
+1973-10-19,135.49,US Consumer Prices
+1973-11-21,136.61,US Consumer Prices
+1973-12-21,137.68,US Consumer Prices
+1974-01-22,138.43,US Consumer Prices
+1974-02-22,139.88,US Consumer Prices
+1974-03-21,141.67,US Consumer Prices
+1974-04-19,143.19,US Consumer Prices
+1974-05-21,144.01,US Consumer Prices
+1974-06-21,145.54,US Consumer Prices
+1974-07-19,146.94,US Consumer Prices
+1974-08-21,148.05,US Consumer Prices
+1974-09-20,150.04,US Consumer Prices
+1974-10-22,151.9,US Consumer Prices
+1974-11-21,153.2,US Consumer Prices
+1974-12-20,154.38,US Consumer Prices
+1975-01-21,155.4,US Consumer Prices
+1975-02-21,156.4,US Consumer Prices
+1975-03-20,157.4,US Consumer Prices
+1975-04-22,157.89,US Consumer Prices
+1975-05-21,158.71,US Consumer Prices
+1975-06-20,159.27,US Consumer Prices
+1975-07-22,160.5,US Consumer Prices
+1975-08-21,162.35,US Consumer Prices
+1975-09-19,162.62,US Consumer Prices
+1975-10-22,163.37,US Consumer Prices
+1975-11-20,164.44,US Consumer Prices
+1975-12-19,165.57,US Consumer Prices
+1976-01-21,166.38,US Consumer Prices
+1976-02-20,167.1,US Consumer Prices
+1976-03-19,167.3,US Consumer Prices
+1976-04-21,167.6,US Consumer Prices
+1976-05-21,168.3,US Consumer Prices
+1976-06-22,169.3,US Consumer Prices
+1976-07-21,170.1,US Consumer Prices
+1976-08-20,170.9,US Consumer Prices
+1976-09-21,171.8,US Consumer Prices
+1976-10-21,172.5,US Consumer Prices
+1976-11-19,173.1,US Consumer Prices
+1976-12-21,173.6,US Consumer Prices
+1977-01-19,174.3,US Consumer Prices
+1977-02-18,175.6,US Consumer Prices
+1977-03-18,177.3,US Consumer Prices
+1977-04-21,178.4,US Consumer Prices
+1977-05-20,179.8,US Consumer Prices
+1977-06-21,180.9,US Consumer Prices
+1977-07-21,181.9,US Consumer Prices
+1977-08-19,182.6,US Consumer Prices
+1977-09-21,183.2,US Consumer Prices
+1977-10-21,183.8,US Consumer Prices
+1977-11-22,184.3,US Consumer Prices
+1977-12-21,185.2,US Consumer Prices
+1978-01-20,185.9,US Consumer Prices
+1978-02-27,187.5,US Consumer Prices
+1978-03-28,188.7,US Consumer Prices
+1978-04-28,190.2,US Consumer Prices
+1978-05-31,191.8,US Consumer Prices
+1978-06-30,193.6,US Consumer Prices
+1978-07-28,195.3,US Consumer Prices
+1978-08-29,196.3,US Consumer Prices
+1978-09-26,197.4,US Consumer Prices
+1978-10-26,198.8,US Consumer Prices
+1978-11-28,200.4,US Consumer Prices
+1978-12-22,201.5,US Consumer Prices
+1979-01-24,202.8,US Consumer Prices
+1979-02-23,205.2,US Consumer Prices
+1979-03-23,207.7,US Consumer Prices
+1979-04-26,209.9,US Consumer Prices
+1979-05-25,212.2,US Consumer Prices
+1979-06-26,214.4,US Consumer Prices
+1979-07-26,216.6,US Consumer Prices
+1979-08-24,218.7,US Consumer Prices
+1979-09-25,220.9,US Consumer Prices
+1979-10-26,223.4,US Consumer Prices
+1979-11-27,225.4,US Consumer Prices
+1979-12-21,227.7,US Consumer Prices
+1980-01-25,230.3,US Consumer Prices
+1980-02-22,234.0,US Consumer Prices
+1980-03-25,237.2,US Consumer Prices
+1980-04-22,240.5,US Consumer Prices
+1980-05-23,242.8,US Consumer Prices
+1980-06-24,244.9,US Consumer Prices
+1980-07-23,247.1,US Consumer Prices
+1980-08-22,247.2,US Consumer Prices
+1980-09-23,248.9,US Consumer Prices
+1980-10-24,251.5,US Consumer Prices
+1980-11-25,254.0,US Consumer Prices
+1980-12-23,256.6,US Consumer Prices
+1981-01-23,259.4,US Consumer Prices
+1981-02-25,261.4,US Consumer Prices
+1981-03-24,263.9,US Consumer Prices
+1981-04-23,265.5,US Consumer Prices
+1981-05-22,266.6,US Consumer Prices
+1981-06-23,268.4,US Consumer Prices
+1981-07-23,270.3,US Consumer Prices
+1981-08-25,273.5,US Consumer Prices
+1981-09-24,275.8,US Consumer Prices
+1981-10-23,279.0,US Consumer Prices
+1981-11-24,280.0,US Consumer Prices
+1981-12-22,281.4,US Consumer Prices
+1982-01-22,282.6,US Consumer Prices
+1982-02-25,283.4,US Consumer Prices
+1982-03-23,284.1,US Consumer Prices
+1982-04-23,283.3,US Consumer Prices
+1982-05-21,284.0,US Consumer Prices
+1982-06-22,286.7,US Consumer Prices
+1982-07-23,289.7,US Consumer Prices
+1982-08-24,291.4,US Consumer Prices
+1982-09-23,292.2,US Consumer Prices
+1982-10-26,292.7,US Consumer Prices
+1982-11-23,294.1,US Consumer Prices
+1982-12-21,294.3,US Consumer Prices
+1983-01-21,293.5,US Consumer Prices
+1983-02-25,293.8,US Consumer Prices
+1983-03-23,293.2,US Consumer Prices
+1983-04-22,293.6,US Consumer Prices
+1983-05-24,295.3,US Consumer Prices
+1983-06-22,296.9,US Consumer Prices
+1983-07-22,297.5,US Consumer Prices
+1983-08-23,298.7,US Consumer Prices
+1983-09-23,300.0,US Consumer Prices
+1983-10-25,301.4,US Consumer Prices
+1983-11-23,302.7,US Consumer Prices
+1983-12-21,303.6,US Consumer Prices
+1984-01-24,304.4,US Consumer Prices
+1984-02-24,305.8,US Consumer Prices
+1984-03-23,306.9,US Consumer Prices
+1984-04-24,307.6,US Consumer Prices
+1984-05-22,309.0,US Consumer Prices
+1984-06-22,309.6,US Consumer Prices
+1984-07-24,310.1,US Consumer Prices
+1984-08-22,311.0,US Consumer Prices
+1984-09-21,312.4,US Consumer Prices
+1984-10-24,313.5,US Consumer Prices
+1984-11-21,314.6,US Consumer Prices
+1984-12-20,315.3,US Consumer Prices
+1985-01-23,315.9,US Consumer Prices
+1985-02-26,316.6,US Consumer Prices
+1985-03-22,317.7,US Consumer Prices
+1985-04-23,319.2,US Consumer Prices
+1985-05-21,320.4,US Consumer Prices
+1985-06-20,321.1,US Consumer Prices
+1985-07-23,321.8,US Consumer Prices
+1985-08-22,322.4,US Consumer Prices
+1985-09-24,323.0,US Consumer Prices
+1985-10-23,323.6,US Consumer Prices
+1985-11-22,324.6,US Consumer Prices
+1985-12-20,326.4,US Consumer Prices
+1986-01-22,327.8,US Consumer Prices
+1986-02-25,329.0,US Consumer Prices
+1986-03-25,327.7,US Consumer Prices
+1986-04-22,326.3,US Consumer Prices
+1986-05-21,325.4,US Consumer Prices
+1986-06-20,326.0,US Consumer Prices
+1986-07-23,327.5,US Consumer Prices
+1986-08-21,327.6,US Consumer Prices
+1986-09-23,328.2,US Consumer Prices
+1986-10-23,329.3,US Consumer Prices
+1986-11-25,329.8,US Consumer Prices
+1986-12-19,330.7,US Consumer Prices
+1987-01-21,331.5,US Consumer Prices
+1987-02-27,333.6,US Consumer Prices
+1987-03-27,335.0,US Consumer Prices
+1987-04-24,336.4,US Consumer Prices
+1987-05-22,337.9,US Consumer Prices
+1987-06-23,339.0,US Consumer Prices
+1987-07-22,340.2,US Consumer Prices
+1987-08-21,341.0,US Consumer Prices
+1987-09-23,342.6,US Consumer Prices
+1987-10-23,343.2,US Consumer Prices
+1987-11-20,344.5,US Consumer Prices
+1987-12-18,345.5,US Consumer Prices
+1988-01-20,345.9,US Consumer Prices
+1988-02-26,115.9,US Consumer Prices
+1988-03-23,116.1,US Consumer Prices
+1988-04-20,116.7,US Consumer Prices
+1988-05-20,117.2,US Consumer Prices
+1988-06-21,117.6,US Consumer Prices
+1988-07-22,118.0,US Consumer Prices
+1988-08-23,118.5,US Consumer Prices
+1988-09-21,119.0,US Consumer Prices
+1988-10-21,119.4,US Consumer Prices
+1988-11-22,119.9,US Consumer Prices
+1988-12-20,120.2,US Consumer Prices
+1989-01-19,120.6,US Consumer Prices
+1989-02-22,121.4,US Consumer Prices
+1989-03-21,121.9,US Consumer Prices
+1989-04-18,122.5,US Consumer Prices
+1989-05-18,123.3,US Consumer Prices
+1989-06-16,124.0,US Consumer Prices
+1989-07-19,124.2,US Consumer Prices
+1989-08-18,124.5,US Consumer Prices
+1989-09-19,124.5,US Consumer Prices
+1989-10-19,124.7,US Consumer Prices
+1989-11-21,125.3,US Consumer Prices
+1989-12-19,125.8,US Consumer Prices
+1990-01-18,126.3,US Consumer Prices
+1990-02-21,127.7,US Consumer Prices
+1990-03-20,128.3,US Consumer Prices
+1990-04-17,128.9,US Consumer Prices
+1990-05-16,129.1,US Consumer Prices
+1990-06-15,129.3,US Consumer Prices
+1990-07-18,130.0,US Consumer Prices
+1990-08-16,130.5,US Consumer Prices
+1990-09-18,131.5,US Consumer Prices
+1990-10-18,132.5,US Consumer Prices
+1990-11-16,133.3,US Consumer Prices
+1990-12-18,133.7,US Consumer Prices
+1991-01-16,134.1,US Consumer Prices
+1991-02-20,134.8,US Consumer Prices
+1991-03-19,135.1,US Consumer Prices
+1991-04-12,135.0,US Consumer Prices
+1991-05-14,135.3,US Consumer Prices
+1991-06-14,135.7,US Consumer Prices
+1991-07-17,136.0,US Consumer Prices
+1991-08-14,136.3,US Consumer Prices
+1991-09-13,136.6,US Consumer Prices
+1991-10-17,137.1,US Consumer Prices
+1991-11-14,137.2,US Consumer Prices
+1991-12-13,137.8,US Consumer Prices
+1992-01-16,138.2,US Consumer Prices
+1992-02-19,138.3,US Consumer Prices
+1992-03-17,138.7,US Consumer Prices
+1992-04-10,139.4,US Consumer Prices
+1992-05-13,139.7,US Consumer Prices
+1992-06-12,139.9,US Consumer Prices
+1992-07-14,140.3,US Consumer Prices
+1992-08-13,140.5,US Consumer Prices
+1992-09-15,140.9,US Consumer Prices
+1992-10-15,141.2,US Consumer Prices
+1992-11-13,141.8,US Consumer Prices
+1992-12-13,142.1,US Consumer Prices
+1993-01-15,142.2,US Consumer Prices
+1993-02-18,142.9,US Consumer Prices
+1993-03-17,143.4,US Consumer Prices
+1993-04-09,143.6,US Consumer Prices
+1993-05-13,144.2,US Consumer Prices
+1993-06-15,144.4,US Consumer Prices
+1993-07-14,144.4,US Consumer Prices
+1993-08-13,144.5,US Consumer Prices
+1993-09-14,144.9,US Consumer Prices
+1993-10-15,144.9,US Consumer Prices
+1993-11-10,145.5,US Consumer Prices
+1993-12-10,145.8,US Consumer Prices
+1994-01-13,146.1,US Consumer Prices
+1994-02-17,146.3,US Consumer Prices
+1994-03-16,146.7,US Consumer Prices
+1994-04-13,147.2,US Consumer Prices
+1994-05-13,147.4,US Consumer Prices
+1994-06-14,147.7,US Consumer Prices
+1994-07-13,148.1,US Consumer Prices
+1994-08-12,148.6,US Consumer Prices
+1994-09-13,149.1,US Consumer Prices
+1994-10-14,149.4,US Consumer Prices
+1994-11-16,149.5,US Consumer Prices
+1994-12-14,149.9,US Consumer Prices
+1995-01-11,150.2,US Consumer Prices
+1995-02-15,150.6,US Consumer Prices
+1995-03-16,151.0,US Consumer Prices
+1995-04-12,151.3,US Consumer Prices
+1995-05-12,151.9,US Consumer Prices
+1995-06-13,152.3,US Consumer Prices
+1995-07-14,152.5,US Consumer Prices
+1995-08-11,152.8,US Consumer Prices
+1995-09-13,153.0,US Consumer Prices
+1995-10-13,153.2,US Consumer Prices
+1995-11-15,153.7,US Consumer Prices
+1995-12-14,153.7,US Consumer Prices
+1996-02-01,154.0,US Consumer Prices
+1996-02-28,154.7,US Consumer Prices
+1996-03-15,155.0,US Consumer Prices
+1996-04-12,155.6,US Consumer Prices
+1996-05-14,156.2,US Consumer Prices
+1996-06-12,156.7,US Consumer Prices
+1996-07-16,156.8,US Consumer Prices
+1996-08-13,157.2,US Consumer Prices
+1996-09-13,157.4,US Consumer Prices
+1996-10-16,157.8,US Consumer Prices
+1996-11-14,158.3,US Consumer Prices
+1996-12-12,158.7,US Consumer Prices
+1997-01-14,159.1,US Consumer Prices
+1997-02-19,159.4,US Consumer Prices
+1997-03-19,159.8,US Consumer Prices
+1997-04-15,159.9,US Consumer Prices
+1997-05-15,160.0,US Consumer Prices
+1997-06-17,160.1,US Consumer Prices
+1997-07-16,160.3,US Consumer Prices
+1997-08-14,160.6,US Consumer Prices
+1997-09-16,160.9,US Consumer Prices
+1997-10-16,161.3,US Consumer Prices
+1997-11-18,161.6,US Consumer Prices
+1997-12-16,161.8,US Consumer Prices
+1998-01-13,161.9,US Consumer Prices
+1998-02-24,161.9,US Consumer Prices
+1998-03-19,162.0,US Consumer Prices
+1998-04-14,162.0,US Consumer Prices
+1998-05-14,162.4,US Consumer Prices
+1998-06-16,162.9,US Consumer Prices
+1998-07-14,163.0,US Consumer Prices
+1998-08-18,163.3,US Consumer Prices
+1998-09-17,163.6,US Consumer Prices
+1998-10-16,163.6,US Consumer Prices
+1998-11-17,164.0,US Consumer Prices
+1998-12-15,164.3,US Consumer Prices
+1999-01-14,164.5,US Consumer Prices
+1999-02-19,164.6,US Consumer Prices
+1999-03-18,164.7,US Consumer Prices
+1999-04-13,165.0,US Consumer Prices
+1999-05-14,166.2,US Consumer Prices
+1999-06-16,166.2,US Consumer Prices
+1999-07-15,166.2,US Consumer Prices
+1999-08-17,166.7,US Consumer Prices
+1999-09-15,167.2,US Consumer Prices
+1999-10-19,167.9,US Consumer Prices
+1999-11-17,168.2,US Consumer Prices
+1999-12-14,168.4,US Consumer Prices
+2000-01-14,168.8,US Consumer Prices
+2000-02-18,169.1,US Consumer Prices
+2000-03-17,170.0,US Consumer Prices
+2000-04-14,171.2,US Consumer Prices
+2000-05-16,171.2,US Consumer Prices
+2000-06-14,171.3,US Consumer Prices
+2000-07-18,172.3,US Consumer Prices
+2000-08-16,172.7,US Consumer Prices
+2000-09-15,172.6,US Consumer Prices
+2000-10-18,173.6,US Consumer Prices
+2000-11-16,173.9,US Consumer Prices
+2000-12-15,174.2,US Consumer Prices
+2001-01-17,174.5,US Consumer Prices
+2001-02-21,175.7,US Consumer Prices
+2001-03-21,176.2,US Consumer Prices
+2001-04-17,176.3,US Consumer Prices
+2001-05-16,176.8,US Consumer Prices
+2001-06-15,177.5,US Consumer Prices
+2001-07-18,177.9,US Consumer Prices
+2001-08-16,177.4,US Consumer Prices
+2001-09-18,177.5,US Consumer Prices
+2001-10-19,178.2,US Consumer Prices
+2001-11-16,177.6,US Consumer Prices
+2001-12-14,177.6,US Consumer Prices
+2002-01-16,177.3,US Consumer Prices
+2002-02-20,177.6,US Consumer Prices
+2002-03-21,178.0,US Consumer Prices
+2002-04-16,178.6,US Consumer Prices
+2002-05-15,179.5,US Consumer Prices
+2002-06-18,179.5,US Consumer Prices
+2002-07-19,179.7,US Consumer Prices
+2002-08-16,179.9,US Consumer Prices
+2002-09-18,180.5,US Consumer Prices
+2002-10-18,180.8,US Consumer Prices
+2002-11-19,181.3,US Consumer Prices
+2002-12-17,181.5,US Consumer Prices
+2003-01-16,181.6,US Consumer Prices
+2003-02-21,182.2,US Consumer Prices
+2003-03-21,183.3,US Consumer Prices
+2003-04-16,183.9,US Consumer Prices
+2003-05-16,183.3,US Consumer Prices
+2003-06-17,183.3,US Consumer Prices
+2003-07-16,183.6,US Consumer Prices
+2003-08-15,183.9,US Consumer Prices
+2003-09-16,184.5,US Consumer Prices
+2003-10-16,185.0,US Consumer Prices
+2003-11-18,185.0,US Consumer Prices
+2003-12-16,184.6,US Consumer Prices
+2004-01-15,185.0,US Consumer Prices
+2004-02-20,185.8,US Consumer Prices
+2004-03-17,186.3,US Consumer Prices
+2004-04-14,187.2,US Consumer Prices
+2004-05-14,187.6,US Consumer Prices
+2004-06-15,188.8,US Consumer Prices
+2004-07-16,189.4,US Consumer Prices
+2004-08-17,189.3,US Consumer Prices
+2004-09-16,189.4,US Consumer Prices
+2004-10-19,189.7,US Consumer Prices
+2004-11-17,190.9,US Consumer Prices
+2004-12-17,191.2,US Consumer Prices
+2005-01-19,191.1,US Consumer Prices
+2005-02-23,191.3,US Consumer Prices
+2005-03-23,192.0,US Consumer Prices
+2005-04-20,193.2,US Consumer Prices
+2005-05-18,194.2,US Consumer Prices
+2005-06-15,194.1,US Consumer Prices
+2005-07-14,194.1,US Consumer Prices
+2005-08-16,195.1,US Consumer Prices
+2005-09-15,196.1,US Consumer Prices
+2005-10-14,198.5,US Consumer Prices
+2005-11-16,198.9,US Consumer Prices
+2005-12-15,197.8,US Consumer Prices
+2006-01-18,197.7,US Consumer Prices
+2006-02-22,199.0,US Consumer Prices
+2006-03-16,199.1,US Consumer Prices
+2006-04-19,199.8,US Consumer Prices
+2006-05-17,201.0,US Consumer Prices
+2006-06-14,201.9,US Consumer Prices
+2006-07-19,202.3,US Consumer Prices
+2006-08-16,203.2,US Consumer Prices
+2006-09-15,203.7,US Consumer Prices
+2006-10-18,202.7,US Consumer Prices
+2006-11-16,201.7,US Consumer Prices
+2006-12-15,201.7,US Consumer Prices
+2007-01-18,202.8,US Consumer Prices
+2007-02-21,203.153,US Consumer Prices
+2007-03-16,203.906,US Consumer Prices
+2007-04-17,205.146,US Consumer Prices
+2007-05-15,205.999,US Consumer Prices
+2007-06-15,207.387,US Consumer Prices
+2007-07-18,207.784,US Consumer Prices
+2007-08-15,208.028,US Consumer Prices
+2007-09-19,207.738,US Consumer Prices
+2007-10-17,208.292,US Consumer Prices
+2007-11-15,208.903,US Consumer Prices
+2007-12-14,210.565,US Consumer Prices
+2008-01-16,211.16,US Consumer Prices
+2008-02-20,212.516,US Consumer Prices
+2008-03-14,212.571,US Consumer Prices
+2008-04-16,213.301,US Consumer Prices
+2008-05-14,213.743,US Consumer Prices
+2008-06-13,215.132,US Consumer Prices
+2008-07-16,217.403,US Consumer Prices
+2008-08-14,219.181,US Consumer Prices
+2008-09-16,218.88,US Consumer Prices
+2008-10-16,218.813,US Consumer Prices
+2008-11-19,216.71,US Consumer Prices
+2008-12-16,213.06,US Consumer Prices
+2009-01-16,211.49,US Consumer Prices
+2009-02-20,212.174,US Consumer Prices
+2009-03-18,213.007,US Consumer Prices
+2009-04-15,212.714,US Consumer Prices
+2009-05-15,212.671,US Consumer Prices
+2009-06-17,212.876,US Consumer Prices
+2009-07-15,214.459,US Consumer Prices
+2009-08-14,214.469,US Consumer Prices
+2009-09-16,215.428,US Consumer Prices
+2009-10-15,215.791,US Consumer Prices
+2009-11-18,216.385,US Consumer Prices
+2009-12-16,217.25,US Consumer Prices
+2010-01-15,217.541,US Consumer Prices
+2010-02-19,217.587,US Consumer Prices
+2010-03-18,217.591,US Consumer Prices
+2010-04-14,217.729,US Consumer Prices
+2010-05-19,217.579,US Consumer Prices
+2010-06-17,217.224,US Consumer Prices
+2010-07-16,216.929,US Consumer Prices
+2010-08-13,217.597,US Consumer Prices
+2010-09-17,218.15,US Consumer Prices
+2010-10-15,218.372,US Consumer Prices
+2010-11-17,218.879,US Consumer Prices
+2010-12-15,219.146,US Consumer Prices
+2011-01-14,220.252,US Consumer Prices
+2011-02-17,221.062,US Consumer Prices
+2011-03-17,222.27,US Consumer Prices
+2011-04-15,223.49,US Consumer Prices
+2011-05-13,224.433,US Consumer Prices
+2011-06-15,224.804,US Consumer Prices
+2011-07-15,224.304,US Consumer Prices
+2011-08-18,225.425,US Consumer Prices
+2011-09-15,226.268,US Consumer Prices
+2011-10-19,226.955,US Consumer Prices
+2011-11-16,226.763,US Consumer Prices
+2011-12-16,226.72,US Consumer Prices
+2012-01-19,226.747,US Consumer Prices
+2012-02-17,227.505,US Consumer Prices
+2012-03-16,228.433,US Consumer Prices
+2012-04-13,229.098,US Consumer Prices
+2012-05-15,229.177,US Consumer Prices
+2012-06-14,228.527,US Consumer Prices
+2012-07-17,228.618,US Consumer Prices
+2012-08-15,228.723,US Consumer Prices
+2012-09-14,230.102,US Consumer Prices
+2012-10-16,231.414,US Consumer Prices
+2012-11-15,231.751,US Consumer Prices
+2012-12-14,231.025,US Consumer Prices
+2013-01-16,230.979,US Consumer Prices
+2013-02-21,231.198,US Consumer Prices
+2013-03-15,232.77,US Consumer Prices
+2013-04-16,232.34,US Consumer Prices
+2013-05-16,231.485,US Consumer Prices
+2013-06-18,231.831,US Consumer Prices
+2013-07-16,232.944,US Consumer Prices
+2013-08-15,233.318,US Consumer Prices
+2013-09-17,233.526,US Consumer Prices
+2013-10-30,233.947,US Consumer Prices
+2013-11-20,233.808,US Consumer Prices
+2013-12-17,233.887,US Consumer Prices
+2014-01-16,234.582,US Consumer Prices
+2014-02-20,234.933,US Consumer Prices
+2014-03-18,235.169,US Consumer Prices
+2014-04-15,235.64,US Consumer Prices
+2014-05-15,236.254,US Consumer Prices
+2014-06-17,237.083,US Consumer Prices
+2014-07-22,237.693,US Consumer Prices
+2014-08-19,237.909,US Consumer Prices
+2014-09-17,237.428,US Consumer Prices
+2014-10-22,237.633,US Consumer Prices
+2014-11-20,237.642,US Consumer Prices
+2014-12-17,237.032,US Consumer Prices
+2015-01-16,236.149,US Consumer Prices
+2015-02-26,234.677,US Consumer Prices
+2015-03-24,235.186,US Consumer Prices
+2015-04-17,235.74,US Consumer Prices
+2015-05-22,235.982,US Consumer Prices
+2015-06-18,237.031,US Consumer Prices
+2015-07-17,237.786,US Consumer Prices
+2015-08-19,238.099,US Consumer Prices
+2015-09-16,237.931,US Consumer Prices
+2015-10-15,237.566,US Consumer Prices
+2015-11-17,238.042,US Consumer Prices
+2015-12-15,238.111,US Consumer Prices
+2016-01-20,237.847,US Consumer Prices
+2016-02-19,238.107,US Consumer Prices
+2016-03-16,237.707,US Consumer Prices
+2016-04-14,237.92,US Consumer Prices
+2016-05-17,238.89,US Consumer Prices
+2016-06-16,239.41,US Consumer Prices
+2016-07-15,239.927,US Consumer Prices
+2016-08-16,239.828,US Consumer Prices
+2016-09-16,240.305,US Consumer Prices
+2016-10-18,241.002,US Consumer Prices
+2016-11-17,241.863,US Consumer Prices
+2016-12-15,242.348,US Consumer Prices
+2017-01-18,243.032,US Consumer Prices
+2017-02-15,244.158,US Consumer Prices
+2017-03-15,244.456,US Consumer Prices
+2017-04-14,243.752,US Consumer Prices
+2017-05-12,244.158,US Consumer Prices
+2017-06-14,243.846,US Consumer Prices
+2017-07-14,243.79,US Consumer Prices
+2017-08-11,244.048,US Consumer Prices
+2017-09-14,245.03,US Consumer Prices
+2017-10-13,246.373,US Consumer Prices
+2017-11-15,246.639,US Consumer Prices
+2017-12-13,247.592,US Consumer Prices
+2018-01-12,247.963,US Consumer Prices
+2018-02-14,249.245,US Consumer Prices
+2018-03-13,249.619,US Consumer Prices
+2018-04-11,249.462,US Consumer Prices
+2018-05-10,250.013,US Consumer Prices
+2018-06-12,250.535,US Consumer Prices
+2018-07-12,250.857,US Consumer Prices
+2018-08-10,251.286,US Consumer Prices
+2018-09-13,251.846,US Consumer Prices
+2018-10-11,251.994,US Consumer Prices
+2018-11-14,252.827,US Consumer Prices
+2018-12-12,252.876,US Consumer Prices
+2019-01-11,252.733,US Consumer Prices
+2019-02-13,252.673,US Consumer Prices
+2019-03-12,253.113,US Consumer Prices
+2019-04-10,254.148,US Consumer Prices
+2019-05-10,254.958,US Consumer Prices
+2019-06-12,255.155,US Consumer Prices
+2019-07-11,255.305,US Consumer Prices
+2019-08-13,256.161,US Consumer Prices
+2019-09-12,256.3,US Consumer Prices
+2019-10-10,256.358,US Consumer Prices
+2019-11-13,257.271,US Consumer Prices
+2019-12-11,257.936,US Consumer Prices
+2020-01-14,258.501,US Consumer Prices
+2020-02-13,258.82,US Consumer Prices
+2020-03-11,259.05,US Consumer Prices
+2020-04-10,257.953,US Consumer Prices
+2020-05-12,255.902,US Consumer Prices
+2020-06-10,255.768,US Consumer Prices
+2020-07-14,257.214,US Consumer Prices
+2020-08-12,258.723,US Consumer Prices
+2020-09-11,259.681,US Consumer Prices
+2020-10-13,260.209,US Consumer Prices
+2020-11-12,260.325,US Consumer Prices
+2020-12-10,260.817,US Consumer Prices
+2021-01-13,261.775,US Consumer Prices
+2021-02-10,262.231,US Consumer Prices
+2021-03-10,263.161,US Consumer Prices
+2021-04-13,264.793,US Consumer Prices
+2021-05-12,266.832,US Consumer Prices
+2021-06-10,268.551,US Consumer Prices
+2021-07-13,270.981,US Consumer Prices
+2021-08-11,272.265,US Consumer Prices
+2021-09-14,273.012,US Consumer Prices
+2021-10-13,274.138,US Consumer Prices
+2021-11-10,276.724,US Consumer Prices
+2021-12-10,278.88,US Consumer Prices
+2022-01-12,280.192,US Consumer Prices
+2022-02-10,281.933,US Consumer Prices
+2022-03-10,284.182,US Consumer Prices
+2022-04-12,287.708,US Consumer Prices
+2022-05-11,288.663,US Consumer Prices
+2022-06-10,291.474,US Consumer Prices
+2022-07-13,295.328,US Consumer Prices
+2022-08-10,295.271,US Consumer Prices
+2022-09-13,295.62,US Consumer Prices
+2022-10-13,296.761,US Consumer Prices
+2022-11-10,298.062,US Consumer Prices
+2022-12-13,298.349,US Consumer Prices
+2023-01-12,298.112,US Consumer Prices
+2023-02-14,300.536,US Consumer Prices
+2023-03-14,301.648,US Consumer Prices
+2023-04-12,301.808,US Consumer Prices
+2023-05-10,302.918,US Consumer Prices
+2023-06-13,303.294,US Consumer Prices
+2023-07-12,303.841,US Consumer Prices
+2023-08-10,304.348,US Consumer Prices
+2023-09-13,306.269,US Consumer Prices
+2023-10-12,307.481,US Consumer Prices
+2023-11-14,307.619,US Consumer Prices
+2023-12-12,307.917,US Consumer Prices
+2024-01-11,308.85,US Consumer Prices
+2024-02-13,309.685,US Consumer Prices
+2024-03-12,311.054,US Consumer Prices
+2024-04-10,312.23,US Consumer Prices
+2024-05-15,313.207,US Consumer Prices
+2024-06-12,313.225,US Consumer Prices
+2024-07-11,313.049,US Consumer Prices
+2024-08-14,313.534,US Consumer Prices
+2024-09-11,314.121,US Consumer Prices
+2024-10-10,314.686,US Consumer Prices
+2024-11-13,315.454,US Consumer Prices
+2024-12-11,316.441,US Consumer Prices
+2025-01-15,317.685,US Consumer Prices
+2025-02-12,319.086,US Consumer Prices
+2025-03-12,319.775,US Consumer Prices
+2025-04-10,319.615,US Consumer Prices
+2025-05-13,320.321,US Consumer Prices
+2025-06-11,320.58,US Consumer Prices
+2025-07-15,321.5,US Consumer Prices
+1996-12-11,128.1,PPI
+1997-01-09,128.8,PPI
+1997-02-14,129.7,PPI
+1997-03-14,128.7,PPI
+1997-04-11,127.7,PPI
+1997-05-14,127.2,PPI
+1997-06-13,127.3,PPI
+1997-07-11,127.2,PPI
+1997-08-13,126.9,PPI
+1997-09-12,127.2,PPI
+1997-10-10,127.5,PPI
+1997-11-14,127.8,PPI
+1997-12-12,127.8,PPI
+1998-01-08,126.7,PPI
+1998-02-18,125.5,PPI
+1998-03-13,125.1,PPI
+1998-04-09,124.5,PPI
+1998-05-13,124.7,PPI
+1998-06-12,124.9,PPI
+1998-07-10,124.8,PPI
+1998-08-14,124.8,PPI
+1998-09-11,124.2,PPI
+1998-10-15,123.9,PPI
+1998-11-13,124.0,PPI
+1998-12-11,123.5,PPI
+1999-01-12,122.7,PPI
+1999-02-18,123.2,PPI
+1999-03-12,122.4,PPI
+1999-04-09,122.8,PPI
+1999-05-13,123.5,PPI
+1999-06-11,124.5,PPI
+1999-07-14,125.1,PPI
+1999-08-13,125.5,PPI
+1999-09-10,126.8,PPI
+1999-10-15,128.0,PPI
+1999-11-10,127.9,PPI
+1999-12-10,128.4,PPI
+2000-01-13,128.0,PPI
+2000-02-17,128.3,PPI
+2000-03-16,129.8,PPI
+2000-04-13,131.0,PPI
+2000-05-12,130.7,PPI
+2000-06-09,131.6,PPI
+2000-07-14,133.3,PPI
+2000-08-11,133.2,PPI
+2000-09-14,132.9,PPI
+2000-10-13,134.5,PPI
+2000-11-09,135.1,PPI
+2000-12-14,134.6,PPI
+2001-01-12,135.7,PPI
+2001-02-16,138.8,PPI
+2001-03-16,136.5,PPI
+2001-04-12,135.9,PPI
+2001-05-11,136.3,PPI
+2001-06-14,136.6,PPI
+2001-07-13,135.7,PPI
+2001-08-10,133.9,PPI
+2001-09-14,133.5,PPI
+2001-10-12,133.4,PPI
+2001-11-09,130.2,PPI
+2001-12-13,130.1,PPI
+2002-01-11,128.0,PPI
+2002-02-15,128.5,PPI
+2002-03-15,128.6,PPI
+2002-04-12,129.9,PPI
+2002-05-10,131.0,PPI
+2002-06-13,131.0,PPI
+2002-07-11,131.1,PPI
+2002-08-08,131.2,PPI
+2002-09-13,131.5,PPI
+2002-10-11,132.0,PPI
+2002-11-15,133.1,PPI
+2002-12-13,133.2,PPI
+2003-01-15,133.0,PPI
+2003-02-20,135.5,PPI
+2003-03-14,137.8,PPI
+2003-04-11,141.4,PPI
+2003-05-15,136.8,PPI
+2003-06-13,136.7,PPI
+2003-07-11,138.0,PPI
+2003-08-14,137.8,PPI
+2003-09-12,138.0,PPI
+2003-10-10,138.5,PPI
+2003-11-14,139.4,PPI
+2003-12-12,138.9,PPI
+2004-01-14,139.4,PPI
+2004-03-18,143.0,PPI
+2004-04-01,141.8,PPI
+2004-04-22,142.7,PPI
+2004-05-13,144.5,PPI
+2004-06-17,146.6,PPI
+2004-07-15,147.1,PPI
+2004-08-13,147.6,PPI
+2004-09-10,147.9,PPI
+2004-10-15,147.7,PPI
+2004-11-16,149.8,PPI
+2004-12-10,151.3,PPI
+2005-01-14,150.1,PPI
+2005-02-18,150.9,PPI
+2005-03-22,151.6,PPI
+2005-04-19,153.6,PPI
+2005-05-17,155.0,PPI
+2005-06-14,154.4,PPI
+2005-07-15,154.1,PPI
+2005-08-17,156.2,PPI
+2005-09-13,157.3,PPI
+2005-10-18,161.9,PPI
+2005-11-15,166.0,PPI
+2005-12-20,163.6,PPI
+2006-01-13,163.0,PPI
+2006-02-17,164.6,PPI
+2006-03-21,161.9,PPI
+2006-04-18,162.0,PPI
+2006-05-16,163.8,PPI
+2006-06-13,165.3,PPI
+2006-07-18,165.9,PPI
+2006-08-15,167.1,PPI
+2006-09-19,167.9,PPI
+2006-10-17,165.4,PPI
+2006-11-14,162.0,PPI
+2006-12-19,165.1,PPI
+2007-01-17,166.0,PPI
+2007-02-16,164.2,PPI
+2007-03-15,167.3,PPI
+2007-04-13,169.7,PPI
+2007-05-11,171.2,PPI
+2007-06-14,173.4,PPI
+2007-07-17,173.7,PPI
+2007-08-14,174.9,PPI
+2007-09-18,172.4,PPI
+2007-10-12,173.5,PPI
+2007-11-14,174.4,PPI
+2007-12-13,179.4,PPI
+2008-01-15,178.6,PPI
+2008-02-26,180.8,PPI
+2008-03-18,182.4,PPI
+2008-04-15,188.1,PPI
+2008-05-20,190.7,PPI
+2008-06-17,196.5,PPI
+2008-07-15,200.7,PPI
+2008-08-19,205.6,PPI
+2008-09-12,199.9,PPI
+2008-10-15,197.2,PPI
+2008-11-18,186.4,PPI
+2008-12-12,177.5,PPI
+2009-01-15,171.3,PPI
+2009-02-19,171.0,PPI
+2009-03-17,169.5,PPI
+2009-04-14,168.1,PPI
+2009-05-14,168.7,PPI
+2009-06-16,170.2,PPI
+2009-07-14,174.1,PPI
+2009-08-18,172.7,PPI
+2009-09-15,175.1,PPI
+2009-10-20,174.6,PPI
+2009-11-17,175.3,PPI
+2009-12-15,177.7,PPI
+2010-01-20,178.1,PPI
+2010-02-18,182.0,PPI
+2010-03-17,180.9,PPI
+2010-04-22,183.3,PPI
+2010-05-18,184.4,PPI
+2010-06-16,185.0,PPI
+2010-07-15,183.7,PPI
+2010-08-17,184.2,PPI
+2010-09-16,184.5,PPI
+2010-10-14,185.1,PPI
+2010-11-16,186.8,PPI
+2010-12-14,188.0,PPI
+2011-01-13,189.9,PPI
+2011-02-16,192.2,PPI
+2011-03-16,195.5,PPI
+2011-04-14,199.1,PPI
+2011-05-12,202.8,PPI
+2011-06-14,204.2,PPI
+2011-07-14,204.0,PPI
+2011-08-17,204.6,PPI
+2011-09-14,203.2,PPI
+2011-10-18,204.0,PPI
+2011-11-15,201.3,PPI
+2011-12-15,202.0,PPI
+2012-01-18,200.2,PPI
+2012-02-16,200.6,PPI
+2012-03-15,201.6,PPI
+2012-04-12,204.3,PPI
+2012-05-11,203.9,PPI
+2012-06-13,202.3,PPI
+2012-07-13,200.4,PPI
+2012-08-14,200.0,PPI
+2012-09-13,202.6,PPI
+2012-10-12,204.5,PPI
+2012-11-14,203.5,PPI
+2012-12-13,201.8,PPI
+2013-01-15,201.5,PPI
+2013-02-20,202.4,PPI
+2013-03-14,204.3,PPI
+2013-04-12,204.1,PPI
+2013-05-15,203.6,PPI
+2013-06-14,204.2,PPI
+2013-07-12,204.7,PPI
+2013-08-14,204.6,PPI
+2013-09-13,204.3,PPI
+2013-10-29,204.0,PPI
+2013-11-21,202.5,PPI
+2013-12-13,201.0,PPI
+2014-01-15,201.8,PPI
+2014-02-19,203.5,PPI
+2014-03-14,206.0,PPI
+2014-04-11,207.0,PPI
+2014-05-14,208.4,PPI
+2014-06-13,208.0,PPI
+2014-07-16,208.3,PPI
+2014-08-15,208.0,PPI
+2014-09-16,206.8,PPI
+2014-10-15,206.5,PPI
+2014-11-18,203.6,PPI
+2014-12-12,201.2,PPI
+2015-01-15,197.6,PPI
+2015-02-18,192.1,PPI
+2015-03-13,191.1,PPI
+2015-04-14,191.6,PPI
+2015-05-14,190.7,PPI
+2015-06-12,192.9,PPI
+2015-07-15,194.7,PPI
+2015-08-14,194.0,PPI
+2015-09-11,192.2,PPI
+2015-10-14,189.1,PPI
+2015-11-13,187.7,PPI
+2015-12-11,185.9,PPI
+2016-01-15,183.8,PPI
+2016-02-17,182.5,PPI
+2016-03-15,181.5,PPI
+2016-04-13,182.4,PPI
+2016-05-13,183.3,PPI
+2016-06-15,185.0,PPI
+2016-07-14,187.4,PPI
+2016-08-12,187.3,PPI
+2016-09-15,186.2,PPI
+2016-10-14,187.0,PPI
+2016-11-16,186.8,PPI
+2016-12-14,186.4,PPI
+2017-01-13,188.3,PPI
+2017-02-14,190.6,PPI
+2017-03-14,191.1,PPI
+2017-04-13,191.3,PPI
+2017-05-11,193.0,PPI
+2017-06-13,192.9,PPI
+2017-07-13,193.7,PPI
+2017-08-10,193.4,PPI
+2017-09-13,193.7,PPI
+2017-10-12,194.5,PPI
+2017-11-14,194.8,PPI
+2017-12-12,195.8,PPI
+2018-01-11,196.4,PPI
+2018-02-15,197.8,PPI
+2018-03-14,199.3,PPI
+2018-04-10,198.9,PPI
+2018-05-09,200.0,PPI
+2018-06-13,203.2,PPI
+2018-07-11,204.2,PPI
+2018-08-09,204.7,PPI
+2018-09-12,203.0,PPI
+2018-10-10,203.2,PPI
+2018-11-09,204.3,PPI
+2018-12-11,201.5,PPI
+2019-01-15,202.1,PPI
+2019-02-14,198.6,PPI
+2019-03-13,198.7,PPI
+2019-04-11,201.1,PPI
+2019-05-09,202.1,PPI
+2019-06-11,201.5,PPI
+2019-07-12,200.3,PPI
+2019-08-09,201.0,PPI
+2019-09-11,199.3,PPI
+2019-10-08,198.2,PPI
+2019-11-14,198.5,PPI
+2019-12-12,199.0,PPI
+2020-01-15,199.2,PPI
+2020-02-19,199.4,PPI
+2020-03-12,196.5,PPI
+2020-04-09,193.8,PPI
+2020-05-13,186.0,PPI
+2020-06-11,189.4,PPI
+2020-07-10,191.1,PPI
+2020-08-11,192.9,PPI
+2020-09-10,194.0,PPI
+2020-10-14,195.4,PPI
+2020-11-13,195.9,PPI
+2020-12-11,198.2,PPI
+2021-01-15,200.6,PPI
+2021-02-17,204.3,PPI
+2021-03-12,208.5,PPI
+2021-04-09,216.3,PPI
+2021-05-13,217.5,PPI
+2021-06-15,224.4,PPI
+2021-07-14,228.5,PPI
+2021-08-12,231.2,PPI
+2021-09-10,232.9,PPI
+2021-10-14,235.4,PPI
+2021-11-09,240.2,PPI
+2021-12-14,243.602,PPI
+2022-01-13,241.017,PPI
+2022-02-15,244.256,PPI
+2022-03-15,252.838,PPI
+2022-04-13,258.999,PPI
+2022-05-12,264.666,PPI
+2022-06-14,273.209,PPI
+2022-07-14,282.36,PPI
+2022-08-11,271.625,PPI
+2022-09-14,269.106,PPI
+2022-10-12,269.294,PPI
+2022-11-15,265.193,PPI
+2022-12-09,263.235,PPI
+2023-01-18,258.079,PPI
+2023-02-16,259.904,PPI
+2023-03-15,258.652,PPI
+2023-04-13,257.022,PPI
+2023-05-11,257.381,PPI
+2023-06-14,253.954,PPI
+2023-07-13,253.704,PPI
+2023-08-11,253.3,PPI
+2023-09-14,257.568,PPI
+2023-10-11,259.186,PPI
+2023-11-15,255.463,PPI
+2023-12-13,253.811,PPI
+2024-01-12,249.589,PPI
+2024-02-16,250.698,PPI
+2024-03-14,255.51,PPI
+2024-04-11,255.14,PPI
+2024-05-14,257.234,PPI
+2024-06-13,254.971,PPI
+2024-07-12,255.419,PPI
+2024-08-13,257.723,PPI
+2024-09-12,255.613,PPI
+2024-10-11,252.526,PPI
+2024-11-14,253.452,PPI
+2024-12-12,253.406,PPI
+2025-01-14,253.548,PPI
+2025-02-13,257.302,PPI
+2025-03-13,259.726,PPI
+2025-04-11,258.837,PPI
+2025-05-15,258.712,PPI
+2025-06-12,259.033,PPI
+2025-07-16,260.18,PPI
+1972-07-21,49.5,Corporate Profits
+1972-08-18,52.4,Corporate Profits
+1972-11-17,53.7,Corporate Profits
+1973-03-15,57.3,Corporate Profits
+1973-05-17,62.3,Corporate Profits
+1973-08-17,72.6,Corporate Profits
+1973-11-16,71.5,Corporate Profits
+1974-03-21,72.0,Corporate Profits
+1974-05-17,80.2,Corporate Profits
+1974-08-22,91.1,Corporate Profits
+1974-11-15,94.9,Corporate Profits
+1975-03-20,81.1,Corporate Profits
+1975-05-20,61.8,Corporate Profits
+1975-08-21,67.4,Corporate Profits
+1975-11-20,82.2,Corporate Profits
+1976-03-19,80.6,Corporate Profits
+1976-05-20,84.3,Corporate Profits
+1976-08-19,81.1,Corporate Profits
+1976-11-18,84.8,Corporate Profits
+1977-03-21,86.9,Corporate Profits
+1977-05-19,87.6,Corporate Profits
+1977-08-19,104.1,Corporate Profits
+1977-11-17,103.7,Corporate Profits
+1978-03-20,104.9,Corporate Profits
+1978-05-18,102.9,Corporate Profits
+1978-08-18,117.3,Corporate Profits
+1978-11-21,122.0,Corporate Profits
+1979-03-20,130.7,Corporate Profits
+1979-05-18,137.9,Corporate Profits
+1979-08-17,138.6,Corporate Profits
+1979-11-20,147.9,Corporate Profits
+1980-03-19,148.8,Corporate Profits
+1980-05-20,155.5,Corporate Profits
+1980-08-19,129.3,Corporate Profits
+1980-11-19,137.2,Corporate Profits
+1981-03-18,164.1,Corporate Profits
+1981-05-19,168.3,Corporate Profits
+1981-08-19,150.1,Corporate Profits
+1981-11-19,153.5,Corporate Profits
+1982-03-19,145.2,Corporate Profits
+1982-05-19,118.8,Corporate Profits
+1982-08-19,115.0,Corporate Profits
+1982-11-19,119.1,Corporate Profits
+1983-03-21,119.4,Corporate Profits
+1983-05-19,112.5,Corporate Profits
+1983-08-19,124.1,Corporate Profits
+1983-11-22,141.9,Corporate Profits
+1984-03-20,142.9,Corporate Profits
+1984-05-18,148.5,Corporate Profits
+1984-08-20,152.9,Corporate Profits
+1984-11-20,139.3,Corporate Profits
+1985-03-21,142.3,Corporate Profits
+1985-05-21,140.0,Corporate Profits
+1985-08-20,136.5,Corporate Profits
+1985-12-20,141.1,Corporate Profits
+1986-03-19,149.5,Corporate Profits
+1986-05-20,139.5,Corporate Profits
+1986-08-19,140.8,Corporate Profits
+1986-11-19,144.0,Corporate Profits
+1987-03-18,144.2,Corporate Profits
+1987-05-22,136.6,Corporate Profits
+1987-08-21,134.4,Corporate Profits
+1987-11-24,141.5,Corporate Profits
+1988-03-23,144.2,Corporate Profits
+1988-05-26,146.4,Corporate Profits
+1988-08-25,166.6,Corporate Profits
+1988-11-29,163.1,Corporate Profits
+1989-03-23,173.9,Corporate Profits
+1989-05-25,171.6,Corporate Profits
+1989-08-29,164.3,Corporate Profits
+1989-11-29,149.5,Corporate Profits
+1990-03-28,156.7,Corporate Profits
+1990-05-24,157.0,Corporate Profits
+1990-08-24,166.7,Corporate Profits
+1990-11-28,177.2,Corporate Profits
+1991-03-27,181.1,Corporate Profits
+1991-05-29,167.6,Corporate Profits
+1991-08-28,163.7,Corporate Profits
+1991-12-04,189.9,Corporate Profits
+1992-03-26,190.3,Corporate Profits
+1992-05-29,204.9,Corporate Profits
+1992-08-27,234.6,Corporate Profits
+1992-11-25,218.8,Corporate Profits
+1993-03-26,242.6,Corporate Profits
+1993-05-28,253.8,Corporate Profits
+1993-08-31,264.3,Corporate Profits
+1993-12-01,274.4,Corporate Profits
+1994-03-31,297.4,Corporate Profits
+1994-05-27,284.9,Corporate Profits
+1994-08-26,321.6,Corporate Profits
+1994-11-30,330.5,Corporate Profits
+1995-03-31,337.9,Corporate Profits
+1995-05-31,349.4,Corporate Profits
+1995-08-30,355.8,Corporate Profits
+1996-01-19,385.1,Corporate Profits
+1996-04-02,392.3,Corporate Profits
+1996-05-30,405.8,Corporate Profits
+1996-08-29,407.4,Corporate Profits
+1996-11-27,397.5,Corporate Profits
+1997-03-28,408.2,Corporate Profits
+1997-05-30,426.5,Corporate Profits
+1997-08-28,473.0,Corporate Profits
+1997-11-26,483.4,Corporate Profits
+1998-03-26,483.7,Corporate Profits
+1998-05-28,473.0,Corporate Profits
+1998-08-27,480.5,Corporate Profits
+1998-11-24,473.2,Corporate Profits
+1999-03-31,472.5,Corporate Profits
+1999-05-27,492.6,Corporate Profits
+1999-08-26,510.7,Corporate Profits
+1999-11-24,598.6,Corporate Profits
+2000-03-30,610.6,Corporate Profits
+2000-05-25,635.0,Corporate Profits
+2000-08-25,649.3,Corporate Profits
+2000-11-29,654.1,Corporate Profits
+2001-03-29,626.4,Corporate Profits
+2001-05-25,607.2,Corporate Profits
+2001-08-29,508.4,Corporate Profits
+2001-11-30,474.1,Corporate Profits
+2002-03-28,425.2,Corporate Profits
+2002-05-24,428.9,Corporate Profits
+2002-08-29,444.2,Corporate Profits
+2002-11-26,453.7,Corporate Profits
+2003-03-27,472.5,Corporate Profits
+2003-05-29,484.4,Corporate Profits
+2003-08-28,473.4,Corporate Profits
+2003-11-25,515.4,Corporate Profits
+2004-03-25,714.5,Corporate Profits
+2004-05-27,680.3,Corporate Profits
+2004-08-27,711.0,Corporate Profits
+2004-11-30,703.0,Corporate Profits
+2005-03-30,762.1,Corporate Profits
+2005-05-26,964.6,Corporate Profits
+2005-08-31,1052.5,Corporate Profits
+2005-11-30,1032.4,Corporate Profits
+2006-03-30,1153.0,Corporate Profits
+2006-05-25,1219.7,Corporate Profits
+2006-08-30,1349.0,Corporate Profits
+2006-11-29,1366.6,Corporate Profits
+2007-03-29,1361.5,Corporate Profits
+2007-05-31,1373.5,Corporate Profits
+2007-08-30,1443.9,Corporate Profits
+2007-11-29,1408.6,Corporate Profits
+2008-03-27,1425.5,Corporate Profits
+2008-05-29,1329.1,Corporate Profits
+2008-08-28,1361.0,Corporate Profits
+2008-11-25,1302.4,Corporate Profits
+2009-03-26,931.2,Corporate Profits
+2009-05-29,1051.8,Corporate Profits
+2009-08-27,1049.8,Corporate Profits
+2009-11-24,1180.7,Corporate Profits
+2010-03-26,1270.1,Corporate Profits
+2010-05-27,1393.3,Corporate Profits
+2010-08-27,1371.7,Corporate Profits
+2010-11-23,1427.1,Corporate Profits
+2011-03-25,1369.3,Corporate Profits
+2011-05-26,1449.5,Corporate Profits
+2011-08-26,1466.5,Corporate Profits
+2011-11-22,1506.6,Corporate Profits
+2012-03-29,1493.9,Corporate Profits
+2012-05-31,1669.3,Corporate Profits
+2012-08-29,1648.3,Corporate Profits
+2012-11-29,1752.2,Corporate Profits
+2013-03-28,1773.7,Corporate Profits
+2013-05-30,1737.6,Corporate Profits
+2013-08-29,1830.4,Corporate Profits
+2013-12-05,1871.7,Corporate Profits
+2014-03-27,1904.5,Corporate Profits
+2014-05-29,1879.7,Corporate Profits
+2014-08-28,1839.8,Corporate Profits
+2014-11-25,1872.7,Corporate Profits
+2015-03-27,1837.5,Corporate Profits
+2015-05-29,1893.8,Corporate Profits
+2015-08-27,1823.7,Corporate Profits
+2015-11-24,1785.8,Corporate Profits
+2016-03-25,1639.6,Corporate Profits
+2016-05-27,1671.4,Corporate Profits
+2016-08-26,1626.9,Corporate Profits
+2016-11-29,1693.9,Corporate Profits
+2017-03-30,1741.2,Corporate Profits
+2017-05-26,1735.8,Corporate Profits
+2017-08-30,1785.9,Corporate Profits
+2017-11-29,1861.357,Corporate Profits
+2018-03-28,1680.25,Corporate Profits
+2018-05-30,1811.844,Corporate Profits
+2018-08-29,1968.509,Corporate Profits
+2018-11-28,1975.665,Corporate Profits
+2019-03-28,1946.013,Corporate Profits
+2019-05-30,1930.063,Corporate Profits
+2019-08-29,1886.0,Corporate Profits
+2019-11-27,1848.449,Corporate Profits
+2020-03-26,1903.753,Corporate Profits
+2020-05-28,1600.139,Corporate Profits
+2020-08-27,1535.309,Corporate Profits
+2020-11-25,2126.656,Corporate Profits
+2021-03-25,2082.47,Corporate Profits
+2021-05-27,2177.942,Corporate Profits
+2021-08-26,2671.246,Corporate Profits
+2021-11-24,2742.138,Corporate Profits
+2022-03-30,2700.326,Corporate Profits
+2022-05-26,2740.104,Corporate Profits
+2022-08-25,3011.633,Corporate Profits
+2022-11-30,2864.042,Corporate Profits
+2023-03-30,2721.294,Corporate Profits
+2023-05-25,2663.671,Corporate Profits
+2023-08-30,2755.552,Corporate Profits
+2023-11-29,3029.065,Corporate Profits
+2024-03-28,3096.319,Corporate Profits
+2024-05-30,3194.58,Corporate Profits
+2024-08-29,3228.841,Corporate Profits
+2024-11-27,3413.235,Corporate Profits
+2025-03-27,3631.383,Corporate Profits
+2025-05-29,3594.947,Corporate Profits
+1980-02-08,387.7,M1 Money Supply
+1980-02-15,389.0,M1 Money Supply
+1980-03-14,392.8,M1 Money Supply
+1980-04-11,392.3,M1 Money Supply
+1980-05-09,387.5,M1 Money Supply
+1980-06-13,388.1,M1 Money Supply
+1980-07-11,390.9,M1 Money Supply
+1980-08-15,394.5,M1 Money Supply
+1980-09-12,401.7,M1 Money Supply
+1980-10-10,406.8,M1 Money Supply
+1980-11-18,410.7,M1 Money Supply
+1980-12-12,414.0,M1 Money Supply
+1981-01-09,411.0,M1 Money Supply
+1981-02-13,416.1,M1 Money Supply
+1981-03-13,417.2,M1 Money Supply
+1981-04-10,421.6,M1 Money Supply
+1981-05-15,429.5,M1 Money Supply
+1981-06-12,427.7,M1 Money Supply
+1981-07-10,428.4,M1 Money Supply
+1981-08-14,430.3,M1 Money Supply
+1981-09-11,431.8,M1 Money Supply
+1981-10-09,431.7,M1 Money Supply
+1981-11-13,433.1,M1 Money Supply
+1981-12-11,436.7,M1 Money Supply
+1982-01-15,442.1,M1 Money Supply
+1982-02-12,448.4,M1 Money Supply
+1982-03-12,447.1,M1 Money Supply
+1982-04-09,447.8,M1 Money Supply
+1982-05-14,452.6,M1 Money Supply
+1982-06-11,451.3,M1 Money Supply
+1982-07-09,451.0,M1 Money Supply
+1982-08-13,451.4,M1 Money Supply
+1982-09-10,455.2,M1 Money Supply
+1982-10-15,460.7,M1 Money Supply
+1982-11-15,468.3,M1 Money Supply
+1982-12-10,474.6,M1 Money Supply
+1983-01-14,478.6,M1 Money Supply
+1983-02-14,482.2,M1 Money Supply
+1983-03-11,490.8,M1 Money Supply
+1983-04-15,497.7,M1 Money Supply
+1983-05-13,496.2,M1 Money Supply
+1983-06-10,507.4,M1 Money Supply
+1983-07-15,512.0,M1 Money Supply
+1983-08-12,515.5,M1 Money Supply
+1983-09-09,516.6,M1 Money Supply
+1983-10-14,517.4,M1 Money Supply
+1983-11-14,517.7,M1 Money Supply
+1983-12-09,518.1,M1 Money Supply
+1984-01-13,521.1,M1 Money Supply
+1984-02-10,524.3,M1 Money Supply
+1984-03-15,532.9,M1 Money Supply
+1984-04-12,535.3,M1 Money Supply
+1984-05-10,535.1,M1 Money Supply
+1984-06-14,541.1,M1 Money Supply
+1984-07-12,546.2,M1 Money Supply
+1984-08-16,545.5,M1 Money Supply
+1984-09-13,546.3,M1 Money Supply
+1984-10-11,549.0,M1 Money Supply
+1984-11-15,545.6,M1 Money Supply
+1984-12-13,549.4,M1 Money Supply
+1985-01-10,554.3,M1 Money Supply
+1985-02-14,563.0,M1 Money Supply
+1985-03-14,569.2,M1 Money Supply
+1985-04-11,571.9,M1 Money Supply
+1985-05-16,575.0,M1 Money Supply
+1985-06-13,581.5,M1 Money Supply
+1985-07-11,591.1,M1 Money Supply
+1985-08-15,595.7,M1 Money Supply
+1985-09-12,606.0,M1 Money Supply
+1985-10-10,611.8,M1 Money Supply
+1985-11-14,611.1,M1 Money Supply
+1985-12-12,617.7,M1 Money Supply
+1986-01-16,624.5,M1 Money Supply
+1986-02-13,626.9,M1 Money Supply
+1986-03-13,630.9,M1 Money Supply
+1986-04-10,638.2,M1 Money Supply
+1986-05-15,646.1,M1 Money Supply
+1986-06-12,658.4,M1 Money Supply
+1986-07-10,666.4,M1 Money Supply
+1986-08-14,676.1,M1 Money Supply
+1986-09-11,687.5,M1 Money Supply
+1986-10-16,693.3,M1 Money Supply
+1986-11-13,701.2,M1 Money Supply
+1986-12-11,713.4,M1 Money Supply
+1987-01-15,730.4,M1 Money Supply
+1987-02-12,737.6,M1 Money Supply
+1987-03-12,736.8,M1 Money Supply
+1987-04-16,739.2,M1 Money Supply
+1987-05-14,750.2,M1 Money Supply
+1987-06-11,753.0,M1 Money Supply
+1987-07-09,750.4,M1 Money Supply
+1987-08-13,747.7,M1 Money Supply
+1987-09-10,750.8,M1 Money Supply
+1987-10-15,751.1,M1 Money Supply
+1987-11-13,760.7,M1 Money Supply
+1987-12-10,756.5,M1 Money Supply
+1988-01-14,752.9,M1 Money Supply
+1988-02-11,762.5,M1 Money Supply
+1988-03-10,759.6,M1 Money Supply
+1988-04-14,763.3,M1 Money Supply
+1988-05-12,770.2,M1 Money Supply
+1988-06-16,770.1,M1 Money Supply
+1988-07-14,776.4,M1 Money Supply
+1988-08-11,782.4,M1 Money Supply
+1988-09-15,782.5,M1 Money Supply
+1988-10-13,782.5,M1 Money Supply
+1988-11-10,783.3,M1 Money Supply
+1988-12-15,783.7,M1 Money Supply
+1989-01-12,787.5,M1 Money Supply
+1989-02-16,786.4,M1 Money Supply
+1989-03-16,787.4,M1 Money Supply
+1989-04-13,786.5,M1 Money Supply
+1989-05-11,782.9,M1 Money Supply
+1989-06-15,773.5,M1 Money Supply
+1989-07-13,770.8,M1 Money Supply
+1989-08-10,777.2,M1 Money Supply
+1989-09-14,777.7,M1 Money Supply
+1989-10-12,781.7,M1 Money Supply
+1989-11-16,787.6,M1 Money Supply
+1989-12-14,790.0,M1 Money Supply
+1990-01-11,797.4,M1 Money Supply
+1990-02-15,794.9,M1 Money Supply
+1990-03-15,801.3,M1 Money Supply
+1990-04-12,804.6,M1 Money Supply
+1990-05-10,807.1,M1 Money Supply
+1990-06-14,805.7,M1 Money Supply
+1990-07-12,809.5,M1 Money Supply
+1990-08-16,809.2,M1 Money Supply
+1990-09-13,816.3,M1 Money Supply
+1990-10-11,822.7,M1 Money Supply
+1990-11-15,820.1,M1 Money Supply
+1990-12-13,822.6,M1 Money Supply
+1991-01-10,825.2,M1 Money Supply
+1991-02-14,827.0,M1 Money Supply
+1991-03-14,836.3,M1 Money Supply
+1991-04-11,842.8,M1 Money Supply
+1991-05-16,842.0,M1 Money Supply
+1991-06-13,851.9,M1 Money Supply
+1991-07-11,858.4,M1 Money Supply
+1991-08-15,859.7,M1 Money Supply
+1991-09-12,866.2,M1 Money Supply
+1991-10-10,870.3,M1 Money Supply
+1991-11-14,879.4,M1 Money Supply
+1991-12-12,890.2,M1 Money Supply
+1992-01-16,896.7,M1 Money Supply
+1992-02-13,910.6,M1 Money Supply
+1992-03-12,930.8,M1 Money Supply
+1992-04-16,938.6,M1 Money Supply
+1992-05-14,943.0,M1 Money Supply
+1992-06-11,954.4,M1 Money Supply
+1992-07-16,952.1,M1 Money Supply
+1992-08-13,961.0,M1 Money Supply
+1992-09-10,973.5,M1 Money Supply
+1992-10-15,989.7,M1 Money Supply
+1992-11-13,1007.3,M1 Money Supply
+1992-12-10,1019.2,M1 Money Supply
+1993-01-14,1024.3,M1 Money Supply
+1993-02-11,1033.4,M1 Money Supply
+1993-03-11,1033.0,M1 Money Supply
+1993-04-15,1035.0,M1 Money Supply
+1993-05-13,1043.2,M1 Money Supply
+1993-06-10,1067.3,M1 Money Supply
+1993-07-15,1073.8,M1 Money Supply
+1993-08-12,1085.6,M1 Money Supply
+1993-09-16,1095.0,M1 Money Supply
+1993-10-14,1107.7,M1 Money Supply
+1993-11-12,1116.2,M1 Money Supply
+1993-12-16,1125.9,M1 Money Supply
+1994-01-13,1131.4,M1 Money Supply
+1994-02-10,1133.7,M1 Money Supply
+1994-03-10,1138.7,M1 Money Supply
+1994-04-14,1142.5,M1 Money Supply
+1994-05-12,1141.3,M1 Money Supply
+1994-06-16,1143.1,M1 Money Supply
+1994-07-14,1147.0,M1 Money Supply
+1994-08-11,1153.7,M1 Money Supply
+1994-09-15,1152.2,M1 Money Supply
+1994-10-13,1152.8,M1 Money Supply
+1994-11-10,1148.5,M1 Money Supply
+1994-12-15,1147.7,M1 Money Supply
+1995-01-12,1147.5,M1 Money Supply
+1995-02-16,1148.9,M1 Money Supply
+1995-03-16,1147.1,M1 Money Supply
+1995-04-13,1148.0,M1 Money Supply
+1995-05-11,1149.7,M1 Money Supply
+1995-06-15,1143.0,M1 Money Supply
+1995-07-13,1143.7,M1 Money Supply
+1995-08-10,1145.1,M1 Money Supply
+1995-09-14,1143.6,M1 Money Supply
+1995-10-12,1139.9,M1 Money Supply
+1995-11-16,1129.9,M1 Money Supply
+1995-12-14,1126.6,M1 Money Supply
+1996-01-11,1123.1,M1 Money Supply
+1996-02-15,1119.0,M1 Money Supply
+1996-03-14,1116.7,M1 Money Supply
+1996-04-11,1126.2,M1 Money Supply
+1996-05-16,1123.7,M1 Money Supply
+1996-06-13,1117.5,M1 Money Supply
+1996-07-11,1117.3,M1 Money Supply
+1996-08-15,1108.5,M1 Money Supply
+1996-09-12,1099.4,M1 Money Supply
+1996-10-10,1092.1,M1 Money Supply
+1996-11-14,1076.5,M1 Money Supply
+1996-12-12,1076.1,M1 Money Supply
+1997-01-16,1076.9,M1 Money Supply
+1997-02-13,1079.9,M1 Money Supply
+1997-03-13,1080.6,M1 Money Supply
+1997-04-10,1074.8,M1 Money Supply
+1997-05-15,1065.0,M1 Money Supply
+1997-06-12,1062.9,M1 Money Supply
+1997-07-10,1063.8,M1 Money Supply
+1997-08-14,1062.1,M1 Money Supply
+1997-09-11,1069.6,M1 Money Supply
+1997-10-16,1060.3,M1 Money Supply
+1997-11-13,1057.6,M1 Money Supply
+1997-12-11,1064.2,M1 Money Supply
+1998-01-15,1068.5,M1 Money Supply
+1998-02-12,1073.6,M1 Money Supply
+1998-03-12,1076.2,M1 Money Supply
+1998-04-16,1080.0,M1 Money Supply
+1998-05-14,1079.4,M1 Money Supply
+1998-06-11,1078.2,M1 Money Supply
+1998-07-16,1074.8,M1 Money Supply
+1998-08-13,1072.3,M1 Money Supply
+1998-09-10,1069.6,M1 Money Supply
+1998-10-15,1071.3,M1 Money Supply
+1998-11-12,1078.6,M1 Money Supply
+1998-12-10,1087.7,M1 Money Supply
+1999-01-14,1092.6,M1 Money Supply
+1999-02-11,1090.1,M1 Money Supply
+1999-03-11,1092.1,M1 Money Supply
+1999-04-15,1100.7,M1 Money Supply
+1999-05-13,1107.8,M1 Money Supply
+1999-06-10,1104.6,M1 Money Supply
+1999-07-15,1100.4,M1 Money Supply
+1999-08-12,1097.8,M1 Money Supply
+1999-09-16,1102.0,M1 Money Supply
+1999-10-14,1092.7,M1 Money Supply
+1999-11-12,1098.6,M1 Money Supply
+1999-12-16,1108.2,M1 Money Supply
+2000-01-13,1125.7,M1 Money Supply
+2000-02-10,1121.7,M1 Money Supply
+2000-03-16,1105.0,M1 Money Supply
+2000-04-13,1110.7,M1 Money Supply
+2000-05-11,1115.4,M1 Money Supply
+2000-06-15,1104.9,M1 Money Supply
+2000-07-13,1102.2,M1 Money Supply
+2000-08-10,1103.5,M1 Money Supply
+2000-09-14,1101.8,M1 Money Supply
+2000-10-12,1094.9,M1 Money Supply
+2000-11-16,1098.9,M1 Money Supply
+2000-12-14,1090.7,M1 Money Supply
+2001-01-11,1089.1,M1 Money Supply
+2001-02-15,1102.3,M1 Money Supply
+2001-03-15,1101.0,M1 Money Supply
+2001-04-12,1111.2,M1 Money Supply
+2001-05-10,1115.8,M1 Money Supply
+2001-06-14,1117.4,M1 Money Supply
+2001-07-12,1123.5,M1 Money Supply
+2001-08-16,1136.0,M1 Money Supply
+2001-09-13,1143.1,M1 Money Supply
+2001-10-11,1178.4,M1 Money Supply
+2001-11-15,1157.0,M1 Money Supply
+2001-12-13,1158.1,M1 Money Supply
+2002-01-10,1177.4,M1 Money Supply
+2002-02-14,1181.8,M1 Money Supply
+2002-03-14,1182.6,M1 Money Supply
+2002-04-11,1184.5,M1 Money Supply
+2002-05-16,1174.0,M1 Money Supply
+2002-06-13,1182.1,M1 Money Supply
+2002-07-11,1188.6,M1 Money Supply
+2002-08-15,1197.6,M1 Money Supply
+2002-09-12,1184.0,M1 Money Supply
+2002-10-10,1192.2,M1 Money Supply
+2002-11-14,1201.5,M1 Money Supply
+2002-12-12,1200.6,M1 Money Supply
+2003-01-16,1219.1,M1 Money Supply
+2003-02-13,1213.4,M1 Money Supply
+2003-03-13,1231.7,M1 Money Supply
+2003-04-10,1234.7,M1 Money Supply
+2003-05-15,1236.1,M1 Money Supply
+2003-06-12,1259.3,M1 Money Supply
+2003-07-10,1272.2,M1 Money Supply
+2003-08-14,1277.3,M1 Money Supply
+2003-09-11,1286.4,M1 Money Supply
+2003-10-16,1288.1,M1 Money Supply
+2003-11-13,1286.8,M1 Money Supply
+2003-12-11,1281.9,M1 Money Supply
+2004-01-15,1287.0,M1 Money Supply
+2004-02-12,1286.4,M1 Money Supply
+2004-03-11,1311.4,M1 Money Supply
+2004-04-15,1331.5,M1 Money Supply
+2004-05-13,1327.7,M1 Money Supply
+2004-06-10,1319.2,M1 Money Supply
+2004-07-15,1335.2,M1 Money Supply
+2004-08-12,1324.2,M1 Money Supply
+2004-09-16,1341.3,M1 Money Supply
+2004-10-14,1344.9,M1 Money Supply
+2004-11-12,1343.7,M1 Money Supply
+2004-12-16,1362.7,M1 Money Supply
+2005-01-13,1363.0,M1 Money Supply
+2005-02-10,1353.5,M1 Money Supply
+2005-03-10,1361.3,M1 Money Supply
+2005-04-14,1371.8,M1 Money Supply
+2005-05-12,1354.6,M1 Money Supply
+2005-06-16,1365.3,M1 Money Supply
+2005-07-14,1365.3,M1 Money Supply
+2005-08-11,1344.0,M1 Money Supply
+2005-09-15,1369.1,M1 Money Supply
+2005-10-13,1363.6,M1 Money Supply
+2005-11-10,1367.6,M1 Money Supply
+2005-12-15,1372.4,M1 Money Supply
+2006-01-12,1372.3,M1 Money Supply
+2006-02-16,1382.5,M1 Money Supply
+2006-03-16,1374.8,M1 Money Supply
+2006-04-13,1384.0,M1 Money Supply
+2006-05-11,1391.1,M1 Money Supply
+2006-06-15,1394.1,M1 Money Supply
+2006-07-13,1368.8,M1 Money Supply
+2006-08-10,1372.4,M1 Money Supply
+2006-09-14,1368.8,M1 Money Supply
+2006-10-12,1357.7,M1 Money Supply
+2006-11-16,1369.2,M1 Money Supply
+2006-12-14,1368.0,M1 Money Supply
+2007-01-11,1357.5,M1 Money Supply
+2007-02-15,1371.6,M1 Money Supply
+2007-03-15,1359.5,M1 Money Supply
+2007-04-12,1368.0,M1 Money Supply
+2007-05-10,1376.9,M1 Money Supply
+2007-06-14,1375.9,M1 Money Supply
+2007-07-12,1363.9,M1 Money Supply
+2007-08-16,1368.8,M1 Money Supply
+2007-09-13,1367.8,M1 Money Supply
+2007-10-11,1368.5,M1 Money Supply
+2007-11-15,1370.3,M1 Money Supply
+2007-12-13,1363.9,M1 Money Supply
+2008-01-10,1363.0,M1 Money Supply
+2008-02-14,1364.6,M1 Money Supply
+2008-03-13,1367.5,M1 Money Supply
+2008-04-10,1372.6,M1 Money Supply
+2008-05-15,1368.0,M1 Money Supply
+2008-06-12,1363.6,M1 Money Supply
+2008-07-10,1386.1,M1 Money Supply
+2008-08-14,1400.9,M1 Money Supply
+2008-09-11,1391.5,M1 Money Supply
+2008-10-16,1453.9,M1 Money Supply
+2008-11-13,1473.1,M1 Money Supply
+2008-12-11,1522.5,M1 Money Supply
+2009-01-15,1599.8,M1 Money Supply
+2009-02-12,1575.1,M1 Money Supply
+2009-03-12,1558.5,M1 Money Supply
+2009-04-16,1559.0,M1 Money Supply
+2009-05-14,1592.4,M1 Money Supply
+2009-06-11,1596.2,M1 Money Supply
+2009-07-16,1650.1,M1 Money Supply
+2009-08-13,1654.4,M1 Money Supply
+2009-09-10,1649.6,M1 Money Supply
+2009-10-15,1662.2,M1 Money Supply
+2009-11-12,1673.9,M1 Money Supply
+2009-12-10,1694.2,M1 Money Supply
+2010-01-14,1689.4,M1 Money Supply
+2010-02-11,1676.5,M1 Money Supply
+2010-03-11,1710.4,M1 Money Supply
+2010-04-15,1712.2,M1 Money Supply
+2010-05-13,1700.7,M1 Money Supply
+2010-06-10,1705.2,M1 Money Supply
+2010-07-15,1722.6,M1 Money Supply
+2010-08-12,1718.5,M1 Money Supply
+2010-09-16,1745.6,M1 Money Supply
+2010-10-14,1765.5,M1 Money Supply
+2010-11-12,1779.0,M1 Money Supply
+2010-12-16,1831.9,M1 Money Supply
+2011-01-13,1836.1,M1 Money Supply
+2011-02-10,1853.7,M1 Money Supply
+2011-03-10,1872.9,M1 Money Supply
+2011-04-14,1890.2,M1 Money Supply
+2011-05-12,1901.0,M1 Money Supply
+2011-06-16,1935.3,M1 Money Supply
+2011-07-14,1947.3,M1 Money Supply
+2011-08-11,2006.2,M1 Money Supply
+2011-09-15,2108.7,M1 Money Supply
+2011-10-13,2123.0,M1 Money Supply
+2011-11-10,2149.2,M1 Money Supply
+2011-12-15,2149.1,M1 Money Supply
+2012-01-12,2158.0,M1 Money Supply
+2012-02-16,2228.6,M1 Money Supply
+2012-03-15,2222.9,M1 Money Supply
+2012-04-12,2220.7,M1 Money Supply
+2012-05-10,2248.0,M1 Money Supply
+2012-06-14,2238.1,M1 Money Supply
+2012-07-12,2256.1,M1 Money Supply
+2012-08-16,2318.9,M1 Money Supply
+2012-09-13,2332.9,M1 Money Supply
+2012-10-11,2379.1,M1 Money Supply
+2012-11-15,2418.4,M1 Money Supply
+2012-12-13,2395.9,M1 Money Supply
+2013-01-10,2455.5,M1 Money Supply
+2013-02-14,2459.8,M1 Money Supply
+2013-03-14,2471.2,M1 Money Supply
+2013-04-11,2457.0,M1 Money Supply
+2013-05-16,2523.2,M1 Money Supply
+2013-06-13,2534.7,M1 Money Supply
+2013-07-11,2522.3,M1 Money Supply
+2013-08-15,2549.1,M1 Money Supply
+2013-09-12,2552.5,M1 Money Supply
+2013-10-10,2576.1,M1 Money Supply
+2013-11-14,2634.9,M1 Money Supply
+2013-12-12,2610.8,M1 Money Supply
+2014-01-16,2649.7,M1 Money Supply
+2014-02-13,2683.1,M1 Money Supply
+2014-03-13,2731.5,M1 Money Supply
+2014-04-10,2744.3,M1 Money Supply
+2014-05-15,2777.7,M1 Money Supply
+2014-06-12,2790.2,M1 Money Supply
+2014-07-10,2833.9,M1 Money Supply
+2014-08-14,2856.5,M1 Money Supply
+2014-09-11,2816.6,M1 Money Supply
+2014-10-16,2855.4,M1 Money Supply
+2014-11-13,2853.3,M1 Money Supply
+2014-12-11,2852.8,M1 Money Supply
+2015-01-15,2897.4,M1 Money Supply
+2015-02-12,2924.0,M1 Money Supply
+2015-03-12,2988.3,M1 Money Supply
+2015-04-16,2988.0,M1 Money Supply
+2015-05-14,2993.8,M1 Money Supply
+2015-06-11,2986.8,M1 Money Supply
+2015-07-16,3007.9,M1 Money Supply
+2015-08-13,3035.6,M1 Money Supply
+2015-09-10,3049.5,M1 Money Supply
+2015-10-15,3051.4,M1 Money Supply
+2015-11-12,3035.5,M1 Money Supply
+2015-12-10,3092.9,M1 Money Supply
+2016-01-14,3076.3,M1 Money Supply
+2016-02-11,3091.9,M1 Money Supply
+2016-03-10,3101.9,M1 Money Supply
+2016-04-14,3145.4,M1 Money Supply
+2016-05-12,3184.8,M1 Money Supply
+2016-06-16,3237.0,M1 Money Supply
+2016-07-14,3242.4,M1 Money Supply
+2016-08-11,3242.8,M1 Money Supply
+2016-09-15,3314.1,M1 Money Supply
+2016-10-13,3317.9,M1 Money Supply
+2016-11-10,3342.2,M1 Money Supply
+2016-12-15,3353.0,M1 Money Supply
+2017-01-12,3320.7,M1 Money Supply
+2017-02-16,3396.2,M1 Money Supply
+2017-03-16,3374.0,M1 Money Supply
+2017-04-13,3436.5,M1 Money Supply
+2017-05-11,3434.0,M1 Money Supply
+2017-06-15,3504.2,M1 Money Supply
+2017-07-13,3497.6,M1 Money Supply
+2017-08-10,3531.6,M1 Money Supply
+2017-09-14,3560.1,M1 Money Supply
+2017-10-12,3553.1,M1 Money Supply
+2017-11-16,3594.8,M1 Money Supply
+2017-12-14,3617.7,M1 Money Supply
+2018-01-11,3614.6,M1 Money Supply
+2018-02-15,3648.0,M1 Money Supply
+2018-03-15,3614.0,M1 Money Supply
+2018-04-12,3664.3,M1 Money Supply
+2018-05-10,3659.3,M1 Money Supply
+2018-06-14,3652.0,M1 Money Supply
+2018-07-12,3658.0,M1 Money Supply
+2018-08-16,3667.7,M1 Money Supply
+2018-09-13,3702.8,M1 Money Supply
+2018-10-11,3731.1,M1 Money Supply
+2018-11-15,3738.4,M1 Money Supply
+2018-12-13,3716.3,M1 Money Supply
+2019-01-10,3780.9,M1 Money Supply
+2019-02-14,3737.2,M1 Money Supply
+2019-03-14,3759.4,M1 Money Supply
+2019-04-11,3721.7,M1 Money Supply
+2019-05-16,3782.8,M1 Money Supply
+2019-06-13,3791.9,M1 Money Supply
+2019-07-11,3831.7,M1 Money Supply
+2019-08-15,3852.4,M1 Money Supply
+2019-09-12,3839.5,M1 Money Supply
+2019-10-10,3900.8,M1 Money Supply
+2019-11-14,3934.5,M1 Money Supply
+2019-12-12,3963.9,M1 Money Supply
+2020-01-16,4005.4,M1 Money Supply
+2020-02-13,3980.9,M1 Money Supply
+2020-03-12,4019.3,M1 Money Supply
+2020-04-16,4267.6,M1 Money Supply
+2020-05-14,4817.3,M1 Money Supply
+2020-06-11,5063.0,M1 Money Supply
+2020-07-16,5249.9,M1 Money Supply
+2020-08-13,5328.6,M1 Money Supply
+2020-09-10,5395.0,M1 Money Supply
+2020-10-15,5512.1,M1 Money Supply
+2020-11-12,5579.9,M1 Money Supply
+2020-12-10,6048.2,M1 Money Supply
+2021-01-14,6619.4,M1 Money Supply
+2021-02-11,6750.9,M1 Money Supply
+2021-03-23,18412.0,M1 Money Supply
+2021-04-27,18682.9,M1 Money Supply
+2021-05-25,18935.2,M1 Money Supply
+2021-06-22,19221.7,M1 Money Supply
+2021-07-27,19268.1,M1 Money Supply
+2021-08-24,19402.0,M1 Money Supply
+2021-09-28,19677.7,M1 Money Supply
+2021-10-26,19862.2,M1 Money Supply
+2021-11-23,20083.1,M1 Money Supply
+2021-12-28,20345.0,M1 Money Supply
+2022-01-25,20553.1,M1 Money Supply
+2022-02-22,20716.1,M1 Money Supply
+2022-03-22,20694.2,M1 Money Supply
+2022-04-26,20710.1,M1 Money Supply
+2022-05-24,20620.5,M1 Money Supply
+2022-06-28,20632.9,M1 Money Supply
+2022-07-26,20545.4,M1 Money Supply
+2022-08-23,20514.7,M1 Money Supply
+2022-09-27,20452.9,M1 Money Supply
+2022-10-25,20283.5,M1 Money Supply
+2022-11-22,20099.9,M1 Money Supply
+2022-12-27,19933.2,M1 Money Supply
+2023-01-24,19685.8,M1 Money Supply
+2023-02-28,19641.0,M1 Money Supply
+2023-03-28,19336.7,M1 Money Supply
+2023-04-25,18942.8,M1 Money Supply
+2023-05-23,18629.2,M1 Money Supply
+2023-06-27,18606.2,M1 Money Supply
+2023-07-25,18506.0,M1 Money Supply
+2023-08-22,18447.1,M1 Money Supply
+2023-09-26,18320.4,M1 Money Supply
+2023-10-24,18171.4,M1 Money Supply
+2023-11-28,18081.2,M1 Money Supply
+2023-12-26,18045.8,M1 Money Supply
+2024-01-23,18101.4,M1 Money Supply
+2024-02-27,17989.0,M1 Money Supply
+2024-03-26,17944.1,M1 Money Supply
+2024-04-23,17997.5,M1 Money Supply
+2024-05-28,17987.1,M1 Money Supply
+2024-06-25,18036.4,M1 Money Supply
+2024-07-23,18063.4,M1 Money Supply
+2024-08-27,18053.3,M1 Money Supply
+2024-09-24,18117.5,M1 Money Supply
+2024-10-22,18151.4,M1 Money Supply
+2024-11-26,18237.4,M1 Money Supply
+2024-12-26,18365.7,M1 Money Supply
+2025-01-28,18455.8,M1 Money Supply
+2025-02-25,18455.9,M1 Money Supply
+2025-03-25,18531.3,M1 Money Supply
+2025-04-22,18560.8,M1 Money Supply
+2025-05-27,18668.0,M1 Money Supply
+2025-06-24,18712.6,M1 Money Supply
+1980-02-08,1523.9,M2 Money Supply
+1980-02-15,1532.7,M2 Money Supply
+1980-03-14,1546.6,M2 Money Supply
+1980-04-11,1550.9,M2 Money Supply
+1980-05-09,1546.8,M2 Money Supply
+1980-06-13,1559.6,M2 Money Supply
+1980-07-11,1583.7,M2 Money Supply
+1980-08-15,1607.8,M2 Money Supply
+1980-09-12,1628.1,M2 Money Supply
+1980-10-10,1639.9,M2 Money Supply
+1980-11-18,1653.5,M2 Money Supply
+1980-12-12,1668.8,M2 Money Supply
+1981-01-09,1669.7,M2 Money Supply
+1981-02-13,1683.0,M2 Money Supply
+1981-03-13,1692.2,M2 Money Supply
+1981-04-10,1714.0,M2 Money Supply
+1981-05-15,1733.8,M2 Money Supply
+1981-06-12,1741.7,M2 Money Supply
+1981-07-10,1750.7,M2 Money Supply
+1981-08-14,1761.0,M2 Money Supply
+1981-09-11,1778.8,M2 Money Supply
+1981-10-09,1786.6,M2 Money Supply
+1981-11-13,1800.3,M2 Money Supply
+1981-12-11,1823.4,M2 Money Supply
+1982-01-15,1842.2,M2 Money Supply
+1982-02-12,1839.3,M2 Money Supply
+1982-03-12,1845.6,M2 Money Supply
+1982-04-09,1864.0,M2 Money Supply
+1982-05-14,1880.0,M2 Money Supply
+1982-06-11,1894.7,M2 Money Supply
+1982-07-09,1906.6,M2 Money Supply
+1982-08-13,1922.7,M2 Money Supply
+1982-09-10,1946.1,M2 Money Supply
+1982-10-15,1954.8,M2 Money Supply
+1982-11-15,1967.1,M2 Money Supply
+1982-12-10,1986.1,M2 Money Supply
+1983-01-14,2001.5,M2 Money Supply
+1983-02-14,2005.7,M2 Money Supply
+1983-03-11,2047.5,M2 Money Supply
+1983-04-15,2066.1,M2 Money Supply
+1983-05-13,2071.7,M2 Money Supply
+1983-06-10,2097.5,M2 Money Supply
+1983-07-15,2115.2,M2 Money Supply
+1983-08-12,2125.8,M2 Money Supply
+1983-09-09,2136.2,M2 Money Supply
+1983-10-14,2145.7,M2 Money Supply
+1983-11-14,2161.1,M2 Money Supply
+1983-12-09,2176.0,M2 Money Supply
+1984-01-13,2184.7,M2 Money Supply
+1984-02-10,2191.9,M2 Money Supply
+1984-03-15,2221.9,M2 Money Supply
+1984-04-12,2228.4,M2 Money Supply
+1984-05-10,2242.2,M2 Money Supply
+1984-06-14,2259.4,M2 Money Supply
+1984-07-12,2272.8,M2 Money Supply
+1984-08-16,2281.0,M2 Money Supply
+1984-09-13,2289.1,M2 Money Supply
+1984-10-11,2304.7,M2 Money Supply
+1984-11-15,2317.0,M2 Money Supply
+1984-12-13,2346.2,M2 Money Supply
+1985-01-10,2375.0,M2 Money Supply
+1985-02-14,2400.4,M2 Money Supply
+1985-03-14,2420.6,M2 Money Supply
+1985-04-11,2427.4,M2 Money Supply
+1985-05-16,2427.0,M2 Money Supply
+1985-06-13,2444.2,M2 Money Supply
+1985-07-11,2472.8,M2 Money Supply
+1985-08-15,2490.3,M2 Money Supply
+1985-09-12,2513.3,M2 Money Supply
+1985-10-10,2528.4,M2 Money Supply
+1985-11-14,2532.7,M2 Money Supply
+1985-12-12,2547.3,M2 Money Supply
+1986-01-16,2563.1,M2 Money Supply
+1986-02-13,2567.1,M2 Money Supply
+1986-03-13,2577.0,M2 Money Supply
+1986-04-10,2589.9,M2 Money Supply
+1986-05-15,2621.0,M2 Money Supply
+1986-06-12,2647.7,M2 Money Supply
+1986-07-10,2667.3,M2 Money Supply
+1986-08-14,2697.1,M2 Money Supply
+1986-09-11,2722.5,M2 Money Supply
+1986-10-16,2740.6,M2 Money Supply
+1986-11-13,2764.4,M2 Money Supply
+1986-12-11,2780.1,M2 Money Supply
+1987-01-15,2804.3,M2 Money Supply
+1987-02-12,2819.0,M2 Money Supply
+1987-03-12,2818.6,M2 Money Supply
+1987-04-16,2825.6,M2 Money Supply
+1987-05-14,2839.6,M2 Money Supply
+1987-06-11,2838.9,M2 Money Supply
+1987-07-16,2842.8,M2 Money Supply
+1987-08-13,2847.9,M2 Money Supply
+1987-09-10,2860.1,M2 Money Supply
+1987-10-15,2874.6,M2 Money Supply
+1987-11-13,2889.5,M2 Money Supply
+1987-12-10,2894.0,M2 Money Supply
+1988-01-14,2897.1,M2 Money Supply
+1988-02-11,2920.9,M2 Money Supply
+1988-03-10,2946.6,M2 Money Supply
+1988-04-14,2968.9,M2 Money Supply
+1988-05-12,2992.2,M2 Money Supply
+1988-06-16,3004.4,M2 Money Supply
+1988-07-14,3018.1,M2 Money Supply
+1988-08-11,3024.0,M2 Money Supply
+1988-09-15,3032.6,M2 Money Supply
+1988-10-13,3034.5,M2 Money Supply
+1988-11-10,3037.9,M2 Money Supply
+1988-12-15,3053.5,M2 Money Supply
+1989-01-12,3066.2,M2 Money Supply
+1989-02-16,3070.1,M2 Money Supply
+1989-03-16,3070.7,M2 Money Supply
+1989-04-13,3081.1,M2 Money Supply
+1989-05-11,3081.1,M2 Money Supply
+1989-06-15,3072.8,M2 Money Supply
+1989-07-13,3090.0,M2 Money Supply
+1989-08-10,3119.1,M2 Money Supply
+1989-09-14,3136.0,M2 Money Supply
+1989-10-12,3156.3,M2 Money Supply
+1989-11-16,3176.1,M2 Money Supply
+1989-12-14,3199.1,M2 Money Supply
+1990-01-11,3215.9,M2 Money Supply
+1990-02-15,3233.5,M2 Money Supply
+1990-03-15,3257.0,M2 Money Supply
+1990-04-12,3268.6,M2 Money Supply
+1990-05-10,3271.7,M2 Money Supply
+1990-06-14,3260.7,M2 Money Supply
+1990-07-12,3268.7,M2 Money Supply
+1990-08-16,3280.8,M2 Money Supply
+1990-09-13,3302.1,M2 Money Supply
+1990-10-11,3317.9,M2 Money Supply
+1990-11-15,3320.3,M2 Money Supply
+1990-12-13,3318.4,M2 Money Supply
+1991-01-10,3320.3,M2 Money Supply
+1991-02-14,3333.4,M2 Money Supply
+1991-03-14,3356.2,M2 Money Supply
+1991-04-11,3378.1,M2 Money Supply
+1991-05-16,3385.3,M2 Money Supply
+1991-06-13,3394.3,M2 Money Supply
+1991-07-11,3398.7,M2 Money Supply
+1991-08-15,3388.0,M2 Money Supply
+1991-09-12,3390.9,M2 Money Supply
+1991-10-10,3391.5,M2 Money Supply
+1991-11-14,3400.3,M2 Money Supply
+1991-12-12,3408.2,M2 Money Supply
+1992-01-16,3425.5,M2 Money Supply
+1992-02-13,3451.4,M2 Money Supply
+1992-03-12,3475.4,M2 Money Supply
+1992-04-16,3473.2,M2 Money Supply
+1992-05-14,3467.9,M2 Money Supply
+1992-06-11,3468.5,M2 Money Supply
+1992-07-16,3458.8,M2 Money Supply
+1992-08-13,3454.9,M2 Money Supply
+1992-09-10,3467.9,M2 Money Supply
+1992-10-15,3479.7,M2 Money Supply
+1992-11-13,3497.7,M2 Money Supply
+1992-12-10,3505.1,M2 Money Supply
+1993-01-14,3504.3,M2 Money Supply
+1993-02-11,3490.0,M2 Money Supply
+1993-03-11,3482.9,M2 Money Supply
+1993-04-15,3471.8,M2 Money Supply
+1993-05-13,3472.8,M2 Money Supply
+1993-06-10,3506.0,M2 Money Supply
+1993-07-15,3511.9,M2 Money Supply
+1993-08-12,3515.3,M2 Money Supply
+1993-09-16,3526.7,M2 Money Supply
+1993-10-14,3534.6,M2 Money Supply
+1993-11-12,3534.7,M2 Money Supply
+1993-12-16,3548.3,M2 Money Supply
+1994-01-13,3556.8,M2 Money Supply
+1994-02-10,3570.5,M2 Money Supply
+1994-03-10,3569.9,M2 Money Supply
+1994-04-14,3583.6,M2 Money Supply
+1994-05-12,3587.8,M2 Money Supply
+1994-06-16,3588.6,M2 Money Supply
+1994-07-14,3582.4,M2 Money Supply
+1994-08-11,3595.1,M2 Money Supply
+1994-09-15,3597.2,M2 Money Supply
+1994-10-13,3594.5,M2 Money Supply
+1994-11-10,3592.5,M2 Money Supply
+1994-12-15,3595.5,M2 Money Supply
+1995-01-12,3599.5,M2 Money Supply
+1995-02-16,3627.5,M2 Money Supply
+1995-03-16,3621.7,M2 Money Supply
+1995-04-13,3632.1,M2 Money Supply
+1995-05-11,3643.4,M2 Money Supply
+1995-06-15,3658.3,M2 Money Supply
+1995-07-13,3692.2,M2 Money Supply
+1995-08-10,3710.8,M2 Money Supply
+1995-09-14,3740.0,M2 Money Supply
+1995-10-12,3757.4,M2 Money Supply
+1995-11-16,3756.8,M2 Money Supply
+1995-12-14,3763.5,M2 Money Supply
+1996-01-11,3777.8,M2 Money Supply
+1996-02-15,3685.0,M2 Money Supply
+1996-03-14,3690.5,M2 Money Supply
+1996-04-11,3722.7,M2 Money Supply
+1996-05-16,3730.6,M2 Money Supply
+1996-06-13,3721.7,M2 Money Supply
+1996-07-11,3747.9,M2 Money Supply
+1996-08-15,3755.0,M2 Money Supply
+1996-09-12,3757.2,M2 Money Supply
+1996-10-10,3765.3,M2 Money Supply
+1996-11-14,3776.1,M2 Money Supply
+1996-12-12,3796.2,M2 Money Supply
+1997-01-16,3825.6,M2 Money Supply
+1997-02-13,3849.6,M2 Money Supply
+1997-03-13,3866.3,M2 Money Supply
+1997-04-10,3881.1,M2 Money Supply
+1997-05-15,3903.9,M2 Money Supply
+1997-06-12,3900.4,M2 Money Supply
+1997-07-10,3916.2,M2 Money Supply
+1997-08-14,3934.2,M2 Money Supply
+1997-09-11,3965.6,M2 Money Supply
+1997-10-16,3989.0,M2 Money Supply
+1997-11-13,3976.3,M2 Money Supply
+1997-12-11,3998.3,M2 Money Supply
+1998-01-15,4020.6,M2 Money Supply
+1998-02-12,4063.8,M2 Money Supply
+1998-03-12,4096.3,M2 Money Supply
+1998-04-16,4123.6,M2 Money Supply
+1998-05-14,4159.6,M2 Money Supply
+1998-06-11,4171.3,M2 Money Supply
+1998-07-16,4192.9,M2 Money Supply
+1998-08-13,4210.1,M2 Money Supply
+1998-09-10,4237.0,M2 Money Supply
+1998-10-15,4297.1,M2 Money Supply
+1998-11-12,4339.8,M2 Money Supply
+1998-12-10,4376.0,M2 Money Supply
+1999-01-14,4412.6,M2 Money Supply
+1999-02-11,4436.2,M2 Money Supply
+1999-03-11,4446.2,M2 Money Supply
+1999-04-15,4456.7,M2 Money Supply
+1999-05-13,4489.8,M2 Money Supply
+1999-06-10,4507.1,M2 Money Supply
+1999-07-15,4522.8,M2 Money Supply
+1999-08-12,4542.3,M2 Money Supply
+1999-09-16,4561.8,M2 Money Supply
+1999-10-14,4579.7,M2 Money Supply
+1999-11-12,4602.3,M2 Money Supply
+1999-12-16,4627.2,M2 Money Supply
+2000-01-13,4662.8,M2 Money Supply
+2000-02-10,4683.9,M2 Money Supply
+2000-03-16,4683.7,M2 Money Supply
+2000-04-13,4718.0,M2 Money Supply
+2000-05-11,4759.3,M2 Money Supply
+2000-06-15,4759.1,M2 Money Supply
+2000-07-13,4776.8,M2 Money Supply
+2000-08-10,4790.3,M2 Money Supply
+2000-09-14,4827.9,M2 Money Supply
+2000-10-12,4860.9,M2 Money Supply
+2000-11-16,4888.8,M2 Money Supply
+2000-12-14,4886.8,M2 Money Supply
+2001-01-11,4933.3,M2 Money Supply
+2001-02-15,4996.5,M2 Money Supply
+2001-03-15,5042.8,M2 Money Supply
+2001-04-12,5099.5,M2 Money Supply
+2001-05-10,5144.0,M2 Money Supply
+2001-06-14,5166.9,M2 Money Supply
+2001-07-12,5207.7,M2 Money Supply
+2001-08-16,5245.9,M2 Money Supply
+2001-09-13,5285.0,M2 Money Supply
+2001-10-11,5378.5,M2 Money Supply
+2001-11-15,5400.1,M2 Money Supply
+2001-12-13,5413.2,M2 Money Supply
+2002-01-10,5447.6,M2 Money Supply
+2002-02-14,5464.9,M2 Money Supply
+2002-03-14,5499.0,M2 Money Supply
+2002-04-11,5496.5,M2 Money Supply
+2002-05-16,5480.1,M2 Money Supply
+2002-06-13,5544.0,M2 Money Supply
+2002-07-11,5576.0,M2 Money Supply
+2002-08-15,5638.9,M2 Money Supply
+2002-09-12,5685.6,M2 Money Supply
+2002-10-10,5709.4,M2 Money Supply
+2002-11-14,5759.1,M2 Money Supply
+2002-12-12,5801.2,M2 Money Supply
+2003-01-16,5815.5,M2 Money Supply
+2003-02-13,5820.2,M2 Money Supply
+2003-03-13,5880.1,M2 Money Supply
+2003-04-10,5893.6,M2 Money Supply
+2003-05-15,5921.2,M2 Money Supply
+2003-06-12,6000.1,M2 Money Supply
+2003-07-10,6046.2,M2 Money Supply
+2003-08-14,6094.3,M2 Money Supply
+2003-09-11,6133.0,M2 Money Supply
+2003-10-16,6109.4,M2 Money Supply
+2003-11-13,6089.2,M2 Money Supply
+2003-12-11,6070.6,M2 Money Supply
+2004-01-15,6044.5,M2 Money Supply
+2004-02-12,6065.3,M2 Money Supply
+2004-03-11,6127.6,M2 Money Supply
+2004-04-15,6174.1,M2 Money Supply
+2004-05-13,6220.8,M2 Money Supply
+2004-06-10,6269.1,M2 Money Supply
+2004-07-15,6292.7,M2 Money Supply
+2004-08-12,6283.7,M2 Money Supply
+2004-09-16,6298.5,M2 Money Supply
+2004-10-14,6327.1,M2 Money Supply
+2004-11-12,6342.6,M2 Money Supply
+2004-12-16,6381.9,M2 Money Supply
+2005-01-13,6397.6,M2 Money Supply
+2005-02-10,6430.3,M2 Money Supply
+2005-03-10,6443.3,M2 Money Supply
+2005-04-14,6475.2,M2 Money Supply
+2005-05-12,6469.7,M2 Money Supply
+2005-06-16,6464.2,M2 Money Supply
+2005-07-14,6503.1,M2 Money Supply
+2005-08-11,6510.7,M2 Money Supply
+2005-09-15,6550.3,M2 Money Supply
+2005-10-13,6588.0,M2 Money Supply
+2005-11-10,6626.7,M2 Money Supply
+2005-12-15,6652.7,M2 Money Supply
+2006-01-12,6691.5,M2 Money Supply
+2006-02-16,6743.0,M2 Money Supply
+2006-03-16,6756.8,M2 Money Supply
+2006-04-13,6777.2,M2 Money Supply
+2006-05-11,6798.3,M2 Money Supply
+2006-06-15,6796.4,M2 Money Supply
+2006-07-13,6825.8,M2 Money Supply
+2006-08-10,6851.6,M2 Money Supply
+2006-09-14,6874.3,M2 Money Supply
+2006-10-12,6878.0,M2 Money Supply
+2006-11-16,6939.5,M2 Money Supply
+2006-12-14,6976.8,M2 Money Supply
+2007-01-11,7023.4,M2 Money Supply
+2007-02-15,7081.3,M2 Money Supply
+2007-03-15,7112.1,M2 Money Supply
+2007-04-12,7168.7,M2 Money Supply
+2007-05-10,7218.7,M2 Money Supply
+2007-06-14,7242.5,M2 Money Supply
+2007-07-12,7241.2,M2 Money Supply
+2007-08-16,7269.2,M2 Money Supply
+2007-09-13,7333.8,M2 Money Supply
+2007-10-11,7372.0,M2 Money Supply
+2007-11-15,7395.8,M2 Money Supply
+2007-12-13,7424.5,M2 Money Supply
+2008-01-10,7458.2,M2 Money Supply
+2008-02-14,7498.6,M2 Money Supply
+2008-03-13,7601.6,M2 Money Supply
+2008-04-10,7661.0,M2 Money Supply
+2008-05-15,7677.0,M2 Money Supply
+2008-06-12,7684.0,M2 Money Supply
+2008-07-10,7687.1,M2 Money Supply
+2008-08-14,7725.9,M2 Money Supply
+2008-09-11,7716.5,M2 Money Supply
+2008-10-16,7769.4,M2 Money Supply
+2008-11-13,7878.9,M2 Money Supply
+2008-12-11,7934.0,M2 Money Supply
+2009-01-15,8108.4,M2 Money Supply
+2009-02-12,8242.8,M2 Money Supply
+2009-03-12,8275.5,M2 Money Supply
+2009-04-16,8313.2,M2 Money Supply
+2009-05-14,8264.4,M2 Money Supply
+2009-06-11,8327.9,M2 Money Supply
+2009-07-16,8370.1,M2 Money Supply
+2009-08-13,8347.8,M2 Money Supply
+2009-09-10,8297.7,M2 Money Supply
+2009-10-15,8334.5,M2 Money Supply
+2009-11-12,8359.8,M2 Money Supply
+2009-12-10,8392.1,M2 Money Supply
+2010-01-14,8410.3,M2 Money Supply
+2010-02-11,8463.1,M2 Money Supply
+2010-03-11,8518.7,M2 Money Supply
+2010-04-15,8512.1,M2 Money Supply
+2010-05-13,8479.8,M2 Money Supply
+2010-06-10,8560.1,M2 Money Supply
+2010-07-15,8611.8,M2 Money Supply
+2010-08-12,8610.4,M2 Money Supply
+2010-09-16,8658.0,M2 Money Supply
+2010-10-14,8709.0,M2 Money Supply
+2010-11-12,8766.1,M2 Money Supply
+2010-12-16,8804.2,M2 Money Supply
+2011-01-13,8836.9,M2 Money Supply
+2011-02-10,8837.0,M2 Money Supply
+2011-03-10,8890.1,M2 Money Supply
+2011-04-14,8913.5,M2 Money Supply
+2011-05-12,8945.7,M2 Money Supply
+2011-06-16,9000.7,M2 Money Supply
+2011-07-14,9111.7,M2 Money Supply
+2011-08-11,9313.4,M2 Money Supply
+2011-09-15,9544.9,M2 Money Supply
+2011-10-13,9586.9,M2 Money Supply
+2011-11-10,9606.5,M2 Money Supply
+2011-12-15,9641.9,M2 Money Supply
+2012-01-12,9675.8,M2 Money Supply
+2012-02-16,9766.0,M2 Money Supply
+2012-03-15,9787.4,M2 Money Supply
+2012-04-12,9821.4,M2 Money Supply
+2012-05-10,9842.3,M2 Money Supply
+2012-06-14,9875.4,M2 Money Supply
+2012-07-12,9943.7,M2 Money Supply
+2012-08-16,10020.9,M2 Money Supply
+2012-09-13,10058.2,M2 Money Supply
+2012-10-11,10128.0,M2 Money Supply
+2012-11-15,10221.0,M2 Money Supply
+2012-12-13,10269.5,M2 Money Supply
+2013-01-10,10408.0,M2 Money Supply
+2013-02-14,10440.2,M2 Money Supply
+2013-03-14,10412.6,M2 Money Supply
+2013-04-11,10446.4,M2 Money Supply
+2013-05-16,10525.9,M2 Money Supply
+2013-06-13,10552.6,M2 Money Supply
+2013-07-11,10598.1,M2 Money Supply
+2013-08-15,10710.0,M2 Money Supply
+2013-09-12,10770.8,M2 Money Supply
+2013-10-10,10818.5,M2 Money Supply
+2013-11-14,10953.0,M2 Money Supply
+2013-12-12,10932.8,M2 Money Supply
+2014-01-16,10986.3,M2 Money Supply
+2014-02-13,11011.8,M2 Money Supply
+2014-03-13,11113.0,M2 Money Supply
+2014-04-10,11158.0,M2 Money Supply
+2014-05-15,11215.4,M2 Money Supply
+2014-06-12,11287.3,M2 Money Supply
+2014-07-10,11335.1,M2 Money Supply
+2014-08-14,11423.1,M2 Money Supply
+2014-09-11,11453.4,M2 Money Supply
+2014-10-16,11474.1,M2 Money Supply
+2014-11-13,11510.5,M2 Money Supply
+2014-12-11,11561.9,M2 Money Supply
+2015-01-15,11632.0,M2 Money Supply
+2015-02-12,11700.3,M2 Money Supply
+2015-03-12,11820.3,M2 Money Supply
+2015-04-16,11846.0,M2 Money Supply
+2015-05-14,11894.9,M2 Money Supply
+2015-06-11,11937.1,M2 Money Supply
+2015-07-16,11982.4,M2 Money Supply
+2015-08-13,12059.1,M2 Money Supply
+2015-09-10,12138.3,M2 Money Supply
+2015-10-15,12196.2,M2 Money Supply
+2015-11-12,12200.4,M2 Money Supply
+2015-12-10,12288.1,M2 Money Supply
+2016-01-14,12330.0,M2 Money Supply
+2016-02-11,12418.3,M2 Money Supply
+2016-03-10,12472.6,M2 Money Supply
+2016-04-14,12567.2,M2 Money Supply
+2016-05-12,12652.2,M2 Money Supply
+2016-06-16,12733.0,M2 Money Supply
+2016-07-14,12807.6,M2 Money Supply
+2016-08-11,12893.3,M2 Money Supply
+2016-09-15,13005.8,M2 Money Supply
+2016-10-13,13070.6,M2 Money Supply
+2016-11-10,13138.6,M2 Money Supply
+2016-12-15,13222.9,M2 Money Supply
+2017-01-12,13246.9,M2 Money Supply
+2017-02-16,13270.1,M2 Money Supply
+2017-03-16,13313.1,M2 Money Supply
+2017-04-13,13390.6,M2 Money Supply
+2017-05-11,13435.6,M2 Money Supply
+2017-06-15,13495.5,M2 Money Supply
+2017-07-13,13519.3,M2 Money Supply
+2017-08-10,13605.0,M2 Money Supply
+2017-09-14,13647.0,M2 Money Supply
+2017-10-12,13692.4,M2 Money Supply
+2017-11-16,13747.3,M2 Money Supply
+2017-12-14,13785.4,M2 Money Supply
+2018-01-11,13844.5,M2 Money Supply
+2018-02-15,13838.3,M2 Money Supply
+2018-03-15,13858.3,M2 Money Supply
+2018-04-12,13918.1,M2 Money Supply
+2018-05-10,13950.9,M2 Money Supply
+2018-06-14,14024.7,M2 Money Supply
+2018-07-12,14112.3,M2 Money Supply
+2018-08-16,14147.3,M2 Money Supply
+2018-09-13,14217.0,M2 Money Supply
+2018-10-11,14253.7,M2 Money Supply
+2018-11-15,14271.5,M2 Money Supply
+2018-12-13,14317.6,M2 Money Supply
+2019-01-10,14454.9,M2 Money Supply
+2019-02-14,14467.2,M2 Money Supply
+2019-03-14,14477.8,M2 Money Supply
+2019-04-11,14509.0,M2 Money Supply
+2019-05-16,14513.2,M2 Money Supply
+2019-06-13,14612.5,M2 Money Supply
+2019-07-11,14755.1,M2 Money Supply
+2019-08-15,14872.1,M2 Money Supply
+2019-09-12,14952.8,M2 Money Supply
+2019-10-10,15060.8,M2 Money Supply
+2019-11-14,15197.3,M2 Money Supply
+2019-12-12,15324.8,M2 Money Supply
+2020-01-16,15401.8,M2 Money Supply
+2020-02-13,15437.9,M2 Money Supply
+2020-03-12,15535.4,M2 Money Supply
+2020-04-16,16103.9,M2 Money Supply
+2020-05-14,17176.1,M2 Money Supply
+2020-06-11,18042.8,M2 Money Supply
+2020-07-16,18357.3,M2 Money Supply
+2020-08-13,18326.8,M2 Money Supply
+2020-09-10,18411.8,M2 Money Supply
+2020-10-15,18658.1,M2 Money Supply
+2020-11-12,18811.6,M2 Money Supply
+2020-12-10,19086.0,M2 Money Supply
+2021-01-14,19186.9,M2 Money Supply
+2021-02-11,19395.3,M2 Money Supply
+2021-03-23,19669.8,M2 Money Supply
+2021-04-27,19896.2,M2 Money Supply
+2021-05-25,20108.6,M2 Money Supply
+2021-06-22,20370.1,M2 Money Supply
+2021-07-27,20388.9,M2 Money Supply
+2021-08-24,20534.6,M2 Money Supply
+2021-09-28,20797.0,M2 Money Supply
+2021-10-26,20982.9,M2 Money Supply
+2021-11-23,21187.1,M2 Money Supply
+2021-12-28,21436.7,M2 Money Supply
+2022-01-25,21638.1,M2 Money Supply
+2022-02-22,21840.1,M2 Money Supply
+2022-03-22,21811.8,M2 Money Supply
+2022-04-26,21809.7,M2 Money Supply
+2022-05-24,21728.0,M2 Money Supply
+2022-06-28,21754.2,M2 Money Supply
+2022-07-26,21667.5,M2 Money Supply
+2022-08-23,21709.2,M2 Money Supply
+2022-09-27,21711.4,M2 Money Supply
+2022-10-25,21503.4,M2 Money Supply
+2022-11-22,21415.2,M2 Money Supply
+2022-12-27,21351.6,M2 Money Supply
+2023-01-24,21207.4,M2 Money Supply
+2023-02-28,21267.1,M2 Money Supply
+2023-03-28,21062.5,M2 Money Supply
+2023-04-25,20818.1,M2 Money Supply
+2023-05-23,20673.1,M2 Money Supply
+2023-06-27,20805.5,M2 Money Supply
+2023-07-25,20889.5,M2 Money Supply
+2023-08-22,20902.7,M2 Money Supply
+2023-09-26,20865.3,M2 Money Supply
+2023-10-24,20754.9,M2 Money Supply
+2023-11-28,20725.6,M2 Money Supply
+2023-12-26,20767.4,M2 Money Supply
+2024-01-23,20865.2,M2 Money Supply
+2024-02-27,20781.8,M2 Money Supply
+2024-03-26,20783.6,M2 Money Supply
+2024-04-23,20841.2,M2 Money Supply
+2024-05-28,20867.3,M2 Money Supply
+2024-06-25,20963.4,M2 Money Supply
+2024-07-23,21024.7,M2 Money Supply
+2024-08-27,21054.4,M2 Money Supply
+2024-09-24,21174.9,M2 Money Supply
+2024-10-22,21221.2,M2 Money Supply
+2024-11-26,21311.2,M2 Money Supply
+2024-12-26,21447.6,M2 Money Supply
+2025-01-28,21533.8,M2 Money Supply
+2025-02-25,21561.4,M2 Money Supply
+2025-03-25,21671.0,M2 Money Supply
+2025-04-22,21762.5,M2 Money Supply
+2025-05-27,21862.5,M2 Money Supply
+2025-06-24,21942.0,M2 Money Supply
+1955-05-06,48849.0,NFP
+1955-06-07,49184.0,NFP
+1955-07-08,49330.0,NFP
+1955-08-09,49684.0,NFP
+1955-09-07,49678.0,NFP
+1955-10-10,49821.0,NFP
+1955-11-07,49907.0,NFP
+1955-12-07,50149.0,NFP
+1956-01-09,50031.0,NFP
+1956-02-07,50208.0,NFP
+1956-03-09,50179.0,NFP
+1956-04-09,50211.0,NFP
+1956-05-08,50377.0,NFP
+1956-06-08,51256.0,NFP
+1956-07-09,51437.0,NFP
+1956-08-08,51126.0,NFP
+1956-09-10,51621.0,NFP
+1956-10-09,51555.0,NFP
+1956-11-08,51817.0,NFP
+1956-12-10,51886.0,NFP
+1957-01-11,51988.0,NFP
+1957-02-08,52112.0,NFP
+1957-03-12,52151.0,NFP
+1957-04-09,52008.0,NFP
+1957-05-10,51992.0,NFP
+1957-06-11,52569.0,NFP
+1957-07-11,52615.0,NFP
+1957-08-12,52786.0,NFP
+1957-09-10,52788.0,NFP
+1957-10-10,52682.0,NFP
+1957-11-08,52507.0,NFP
+1957-12-11,52189.0,NFP
+1958-01-14,51895.0,NFP
+1958-02-11,51735.0,NFP
+1958-03-11,51151.0,NFP
+1958-04-08,50732.0,NFP
+1958-05-08,50579.0,NFP
+1958-06-06,50700.0,NFP
+1958-07-08,50289.0,NFP
+1958-08-08,50428.0,NFP
+1958-09-09,50529.0,NFP
+1958-10-10,50651.0,NFP
+1958-11-10,50660.0,NFP
+1958-12-10,50773.0,NFP
+1959-01-13,50736.0,NFP
+1959-02-10,50992.0,NFP
+1959-03-11,51036.0,NFP
+1959-04-07,51357.0,NFP
+1959-05-11,51763.0,NFP
+1959-06-10,52100.0,NFP
+1959-07-14,52345.0,NFP
+1959-08-11,52572.0,NFP
+1959-09-10,52407.0,NFP
+1959-10-13,51999.0,NFP
+1959-11-11,52006.0,NFP
+1959-12-11,52120.0,NFP
+1960-01-15,52485.0,NFP
+1960-02-11,52800.0,NFP
+1960-03-15,52928.0,NFP
+1960-04-12,52736.0,NFP
+1960-05-11,53044.0,NFP
+1960-06-13,53042.0,NFP
+1960-07-12,53039.0,NFP
+1960-08-10,53133.0,NFP
+1960-09-09,53076.0,NFP
+1960-10-10,52994.0,NFP
+1960-11-10,52854.0,NFP
+1960-12-12,52704.0,NFP
+1961-01-13,52224.0,NFP
+1961-02-09,52342.0,NFP
+1961-03-07,51996.0,NFP
+1961-04-04,52005.0,NFP
+1961-05-02,52176.0,NFP
+1961-05-31,52433.0,NFP
+1961-07-05,52829.0,NFP
+1961-08-02,53160.0,NFP
+1961-08-29,53132.0,NFP
+1961-10-03,53171.0,NFP
+1961-11-03,54576.0,NFP
+1961-12-07,54478.0,NFP
+1962-01-09,54491.0,NFP
+1962-01-31,54434.0,NFP
+1962-03-07,54693.0,NFP
+1962-04-06,54828.0,NFP
+1962-05-09,55112.0,NFP
+1962-05-31,55291.0,NFP
+1962-07-05,55414.0,NFP
+1962-08-01,55632.0,NFP
+1962-09-05,55565.0,NFP
+1962-10-04,55551.0,NFP
+1962-10-31,55626.0,NFP
+1962-12-05,55589.0,NFP
+1963-01-10,55594.0,NFP
+1963-01-31,55551.0,NFP
+1963-03-07,55734.0,NFP
+1963-04-04,55928.0,NFP
+1963-05-02,56229.0,NFP
+1963-06-06,56359.0,NFP
+1963-07-05,56556.0,NFP
+1963-08-01,56718.0,NFP
+1963-09-06,57299.0,NFP
+1963-10-03,57427.0,NFP
+1963-10-31,57544.0,NFP
+1963-12-06,57663.0,NFP
+1964-01-10,57805.0,NFP
+1964-02-06,57834.0,NFP
+1964-03-06,58082.0,NFP
+1964-04-03,58226.0,NFP
+1964-05-07,58471.0,NFP
+1964-06-05,58503.0,NFP
+1964-07-02,58665.0,NFP
+1964-08-06,58888.0,NFP
+1964-09-03,58944.0,NFP
+1964-10-01,59039.0,NFP
+1964-11-05,58983.0,NFP
+1964-12-04,58790.0,NFP
+1965-01-07,59097.0,NFP
+1965-02-03,59280.0,NFP
+1965-03-04,59560.0,NFP
+1965-04-01,59902.0,NFP
+1965-05-06,59917.0,NFP
+1965-06-03,60064.0,NFP
+1965-07-01,60306.0,NFP
+1965-08-05,60528.0,NFP
+1965-09-02,60711.0,NFP
+1965-10-07,60806.0,NFP
+1965-11-04,61019.0,NFP
+1965-12-02,61268.0,NFP
+1966-01-07,61797.0,NFP
+1966-02-08,62111.0,NFP
+1966-03-08,62404.0,NFP
+1966-04-05,62809.0,NFP
+1966-05-06,62887.0,NFP
+1966-06-06,63099.0,NFP
+1966-07-11,63384.0,NFP
+1966-08-08,63646.0,NFP
+1966-09-02,64299.0,NFP
+1966-10-10,64181.0,NFP
+1966-11-04,64351.0,NFP
+1966-12-02,64699.0,NFP
+1967-01-09,65066.0,NFP
+1967-02-09,65360.0,NFP
+1967-03-16,65495.0,NFP
+1967-04-11,65486.0,NFP
+1967-05-09,65611.0,NFP
+1967-06-05,65435.0,NFP
+1967-07-11,65565.0,NFP
+1967-08-08,65882.0,NFP
+1967-09-06,66250.0,NFP
+1967-10-11,66100.0,NFP
+1967-11-07,66165.0,NFP
+1967-12-13,66709.0,NFP
+1968-01-10,67128.0,NFP
+1968-02-07,67146.0,NFP
+1968-03-12,67694.0,NFP
+1968-04-10,67855.0,NFP
+1968-05-08,67921.0,NFP
+1968-06-12,67788.0,NFP
+1968-07-10,67863.0,NFP
+1968-08-07,68156.0,NFP
+1968-09-11,68409.0,NFP
+1968-10-09,68458.0,NFP
+1968-11-06,68525.0,NFP
+1968-12-11,68803.0,NFP
+1969-01-09,69186.0,NFP
+1969-02-11,69538.0,NFP
+1969-03-10,69997.0,NFP
+1969-04-08,70102.0,NFP
+1969-05-05,70214.0,NFP
+1969-06-09,70282.0,NFP
+1969-07-08,70216.0,NFP
+1969-08-04,70462.0,NFP
+1969-09-08,70436.0,NFP
+1969-10-06,70398.0,NFP
+1969-11-07,70673.0,NFP
+1969-12-05,70621.0,NFP
+1970-01-09,70639.0,NFP
+1970-02-06,70649.0,NFP
+1970-03-06,70766.0,NFP
+1970-04-10,71033.0,NFP
+1970-05-08,70972.0,NFP
+1970-06-05,70855.0,NFP
+1970-07-02,70666.0,NFP
+1970-08-07,70455.0,NFP
+1970-09-04,70543.0,NFP
+1970-10-02,70380.0,NFP
+1970-11-06,70129.0,NFP
+1970-12-04,70082.0,NFP
+1971-01-08,70364.0,NFP
+1971-02-05,70487.0,NFP
+1971-03-05,70514.0,NFP
+1971-04-02,70568.0,NFP
+1971-05-07,70719.0,NFP
+1971-06-04,70826.0,NFP
+1971-07-02,70581.0,NFP
+1971-08-06,70456.0,NFP
+1971-09-03,70552.0,NFP
+1971-10-08,70855.0,NFP
+1971-11-05,70901.0,NFP
+1971-12-03,70915.0,NFP
+1972-01-07,71104.0,NFP
+1972-02-04,71407.0,NFP
+1972-03-03,71686.0,NFP
+1972-04-07,71978.0,NFP
+1972-05-05,72172.0,NFP
+1972-06-02,72475.0,NFP
+1972-07-07,72556.0,NFP
+1972-08-04,72565.0,NFP
+1972-09-01,72871.0,NFP
+1972-10-06,73221.0,NFP
+1972-11-03,73535.0,NFP
+1972-12-08,73765.0,NFP
+1973-01-05,73892.0,NFP
+1973-02-02,74221.0,NFP
+1973-03-09,74596.0,NFP
+1973-04-06,74901.0,NFP
+1973-05-04,75042.0,NFP
+1973-06-01,75222.0,NFP
+1973-07-06,75464.0,NFP
+1973-08-03,75471.0,NFP
+1973-09-07,75807.0,NFP
+1973-10-05,75892.0,NFP
+1973-11-02,76277.0,NFP
+1973-12-07,76476.0,NFP
+1974-01-04,76677.0,NFP
+1974-02-01,76372.0,NFP
+1974-03-08,76695.0,NFP
+1974-04-05,76648.0,NFP
+1974-05-03,76911.0,NFP
+1974-06-07,77110.0,NFP
+1974-07-05,77107.0,NFP
+1974-08-02,76951.0,NFP
+1974-09-06,77177.0,NFP
+1974-10-04,77146.0,NFP
+1974-11-01,77439.0,NFP
+1974-12-06,78368.0,NFP
+1975-01-03,77726.0,NFP
+1975-02-07,77295.0,NFP
+1975-03-07,76558.0,NFP
+1975-04-04,76353.0,NFP
+1975-05-02,76293.0,NFP
+1975-06-06,76443.0,NFP
+1975-07-03,76464.0,NFP
+1975-08-01,76352.0,NFP
+1975-09-05,77035.0,NFP
+1975-10-03,77211.0,NFP
+1975-11-07,77492.0,NFP
+1975-12-05,77549.0,NFP
+1976-01-09,77798.0,NFP
+1976-02-06,78140.0,NFP
+1976-03-05,78344.0,NFP
+1976-04-02,78511.0,NFP
+1976-05-07,78888.0,NFP
+1976-06-04,78999.0,NFP
+1976-07-02,78988.0,NFP
+1976-08-06,79121.0,NFP
+1976-09-03,79431.0,NFP
+1976-10-08,79561.0,NFP
+1976-11-05,79513.0,NFP
+1976-12-03,79711.0,NFP
+1977-01-12,79957.0,NFP
+1977-02-04,80553.0,NFP
+1977-03-04,80818.0,NFP
+1977-04-01,81304.0,NFP
+1977-05-06,81644.0,NFP
+1977-06-03,81792.0,NFP
+1977-07-08,82056.0,NFP
+1977-08-05,82351.0,NFP
+1977-09-02,82448.0,NFP
+1977-10-07,82750.0,NFP
+1977-11-04,82926.0,NFP
+1977-12-02,83217.0,NFP
+1978-01-11,83439.0,NFP
+1978-02-03,83685.0,NFP
+1978-03-10,84074.0,NFP
+1978-04-07,84498.0,NFP
+1978-05-05,85156.0,NFP
+1978-06-02,85345.0,NFP
+1978-07-07,85729.0,NFP
+1978-08-04,86031.0,NFP
+1978-09-01,86116.0,NFP
+1978-10-06,86106.0,NFP
+1978-11-03,86597.0,NFP
+1978-12-08,87034.0,NFP
+1979-01-12,87270.0,NFP
+1979-02-02,87573.0,NFP
+1979-03-09,87766.0,NFP
+1979-04-06,88156.0,NFP
+1979-05-04,88312.0,NFP
+1979-06-01,88438.0,NFP
+1979-07-06,88613.0,NFP
+1979-08-03,88753.0,NFP
+1979-09-07,88815.0,NFP
+1979-10-05,89853.0,NFP
+1979-11-02,90151.0,NFP
+1979-12-07,90185.0,NFP
+1980-01-11,90426.0,NFP
+1980-02-01,90536.0,NFP
+1980-03-07,90731.0,NFP
+1980-04-04,90634.0,NFP
+1980-05-02,90320.0,NFP
+1980-06-06,90328.0,NFP
+1980-07-03,90088.0,NFP
+1980-08-01,89735.0,NFP
+1980-09-05,90066.0,NFP
+1980-10-03,90296.0,NFP
+1980-11-07,90622.0,NFP
+1980-12-05,90880.0,NFP
+1981-01-09,91122.0,NFP
+1981-02-06,91490.0,NFP
+1981-03-06,91550.0,NFP
+1981-04-03,91645.0,NFP
+1981-05-08,91494.0,NFP
+1981-06-05,91474.0,NFP
+1981-07-02,91516.0,NFP
+1981-08-07,91966.0,NFP
+1981-09-04,92027.0,NFP
+1981-10-02,91875.0,NFP
+1981-11-06,91743.0,NFP
+1981-12-04,91561.0,NFP
+1982-01-08,91206.0,NFP
+1982-02-05,90859.0,NFP
+1982-03-05,90936.0,NFP
+1982-04-02,90822.0,NFP
+1982-05-07,90593.0,NFP
+1982-06-04,89969.0,NFP
+1982-07-02,90010.0,NFP
+1982-08-06,89843.0,NFP
+1982-09-03,89451.0,NFP
+1982-10-08,89038.0,NFP
+1982-11-05,88925.0,NFP
+1982-12-03,88715.0,NFP
+1983-01-07,88518.0,NFP
+1983-02-04,88874.0,NFP
+1983-03-04,88715.0,NFP
+1983-04-01,88854.0,NFP
+1983-05-06,89213.0,NFP
+1983-06-03,89461.0,NFP
+1983-07-08,89760.0,NFP
+1983-08-05,90319.0,NFP
+1983-09-02,89791.0,NFP
+1983-10-07,90468.0,NFP
+1983-11-04,91073.0,NFP
+1983-12-02,91425.0,NFP
+1984-01-06,91644.0,NFP
+1984-02-03,91870.0,NFP
+1984-03-09,92249.0,NFP
+1984-04-06,92490.0,NFP
+1984-05-04,92913.0,NFP
+1984-06-01,93688.0,NFP
+1984-07-06,94019.0,NFP
+1984-08-03,94378.0,NFP
+1984-09-07,94510.0,NFP
+1984-10-05,94671.0,NFP
+1984-11-02,95195.0,NFP
+1984-12-07,95453.0,NFP
+1985-01-09,95798.0,NFP
+1985-02-01,96009.0,NFP
+1985-03-08,96112.0,NFP
+1985-04-05,96538.0,NFP
+1985-05-03,96731.0,NFP
+1985-06-07,97463.0,NFP
+1985-07-05,97466.0,NFP
+1985-08-02,97692.0,NFP
+1985-09-06,98010.0,NFP
+1985-10-04,98115.0,NFP
+1985-11-01,98529.0,NFP
+1985-12-06,98753.0,NFP
+1986-01-08,99059.0,NFP
+1986-02-07,99635.0,NFP
+1986-03-07,99733.0,NFP
+1986-04-04,99841.0,NFP
+1986-05-02,100040.0,NFP
+1986-06-06,99946.0,NFP
+1986-07-03,99819.0,NFP
+1986-08-01,100253.0,NFP
+1986-09-05,100324.0,NFP
+1986-10-03,100368.0,NFP
+1986-11-07,100746.0,NFP
+1986-12-05,101069.0,NFP
+1987-01-09,101334.0,NFP
+1987-02-06,101741.0,NFP
+1987-03-06,101978.0,NFP
+1987-04-03,102026.0,NFP
+1987-05-08,102325.0,NFP
+1987-06-05,101732.0,NFP
+1987-07-02,101788.0,NFP
+1987-08-07,102115.0,NFP
+1987-09-04,102270.0,NFP
+1987-10-02,102410.0,NFP
+1987-11-06,102945.0,NFP
+1987-12-04,103244.0,NFP
+1988-01-08,103572.0,NFP
+1988-02-05,103703.0,NFP
+1988-03-04,104317.0,NFP
+1988-04-01,104606.0,NFP
+1988-05-06,104835.0,NFP
+1988-06-03,105478.0,NFP
+1988-07-08,105848.0,NFP
+1988-08-05,106304.0,NFP
+1988-09-02,106476.0,NFP
+1988-10-07,106695.0,NFP
+1988-11-04,107052.0,NFP
+1988-12-02,107438.0,NFP
+1989-01-06,107656.0,NFP
+1989-02-03,108048.0,NFP
+1989-03-10,108345.0,NFP
+1989-04-07,108525.0,NFP
+1989-05-05,108629.0,NFP
+1989-06-02,108195.0,NFP
+1989-07-07,108488.0,NFP
+1989-08-04,108729.0,NFP
+1989-09-01,108901.0,NFP
+1989-10-06,109064.0,NFP
+1989-11-03,109321.0,NFP
+1989-12-08,109399.0,NFP
+1990-01-05,109535.0,NFP
+1990-02-02,109823.0,NFP
+1990-03-09,110274.0,NFP
+1990-04-06,110313.0,NFP
+1990-05-04,110471.0,NFP
+1990-06-01,110568.0,NFP
+1990-07-06,110797.0,NFP
+1990-08-03,110706.0,NFP
+1990-09-07,110665.0,NFP
+1990-10-05,110556.0,NFP
+1990-11-02,110493.0,NFP
+1990-12-07,110167.0,NFP
+1991-01-04,110097.0,NFP
+1991-02-01,109785.0,NFP
+1991-03-08,109587.0,NFP
+1991-04-05,109316.0,NFP
+1991-05-03,109162.0,NFP
+1991-06-07,108781.0,NFP
+1991-07-05,108805.0,NFP
+1991-08-02,108815.0,NFP
+1991-09-06,108846.0,NFP
+1991-10-04,108960.0,NFP
+1991-11-01,109018.0,NFP
+1991-12-06,108829.0,NFP
+1992-01-10,108839.0,NFP
+1992-02-07,108755.0,NFP
+1992-03-06,108897.0,NFP
+1992-04-03,108886.0,NFP
+1992-05-08,109031.0,NFP
+1992-06-05,108450.0,NFP
+1992-07-02,108353.0,NFP
+1992-08-07,108631.0,NFP
+1992-09-04,108517.0,NFP
+1992-10-02,108409.0,NFP
+1992-11-06,108440.0,NFP
+1992-12-04,108636.0,NFP
+1993-01-08,108711.0,NFP
+1993-02-05,108842.0,NFP
+1993-03-05,109161.0,NFP
+1993-04-02,109210.0,NFP
+1993-05-07,109313.0,NFP
+1993-06-04,109990.0,NFP
+1993-07-02,110048.0,NFP
+1993-08-06,110264.0,NFP
+1993-09-03,110273.0,NFP
+1993-10-08,110453.0,NFP
+1993-11-05,110644.0,NFP
+1993-12-03,110857.0,NFP
+1994-01-07,111049.0,NFP
+1994-02-04,111132.0,NFP
+1994-03-04,111325.0,NFP
+1994-04-01,111733.0,NFP
+1994-05-06,112088.0,NFP
+1994-06-03,112847.0,NFP
+1994-07-08,113330.0,NFP
+1994-08-05,113566.0,NFP
+1994-09-02,113764.0,NFP
+1994-10-07,114109.0,NFP
+1994-11-04,114356.0,NFP
+1994-12-02,114700.0,NFP
+1995-01-06,115092.0,NFP
+1995-02-03,115226.0,NFP
+1995-03-10,115607.0,NFP
+1995-04-07,115830.0,NFP
+1995-05-05,115805.0,NFP
+1995-06-02,116194.0,NFP
+1995-07-07,116479.0,NFP
+1995-08-04,116553.0,NFP
+1995-09-01,116802.0,NFP
+1995-10-06,116958.0,NFP
+1995-11-03,117004.0,NFP
+1995-12-08,117164.0,NFP
+1996-01-19,117315.0,NFP
+1996-02-02,117172.0,NFP
+1996-03-08,117874.0,NFP
+1996-04-05,117975.0,NFP
+1996-05-03,118022.0,NFP
+1996-06-07,119248.0,NFP
+1996-07-05,119532.0,NFP
+1996-08-02,119748.0,NFP
+1996-09-06,120032.0,NFP
+1996-10-04,119989.0,NFP
+1996-11-01,120227.0,NFP
+1996-12-06,120392.0,NFP
+1997-01-10,120700.0,NFP
+1997-02-07,121024.0,NFP
+1997-03-07,121309.0,NFP
+1997-04-04,121450.0,NFP
+1997-05-02,121577.0,NFP
+1997-06-06,121805.0,NFP
+1997-07-03,122054.0,NFP
+1997-08-01,122378.0,NFP
+1997-09-05,122470.0,NFP
+1997-10-03,122695.0,NFP
+1997-11-07,123045.0,NFP
+1997-12-05,123483.0,NFP
+1998-01-09,123865.0,NFP
+1998-02-06,124225.0,NFP
+1998-03-06,124551.0,NFP
+1998-04-03,124481.0,NFP
+1998-05-08,124762.0,NFP
+1998-06-05,125512.0,NFP
+1998-07-02,125748.0,NFP
+1998-08-07,125824.0,NFP
+1998-09-04,126184.0,NFP
+1998-10-02,126247.0,NFP
+1998-11-05,126464.0,NFP
+1998-12-04,126775.0,NFP
+1999-01-08,127156.0,NFP
+1999-02-05,127347.0,NFP
+1999-03-05,127610.0,NFP
+1999-04-02,127678.0,NFP
+1999-05-07,127911.0,NFP
+1999-06-04,128167.0,NFP
+1999-07-02,128397.0,NFP
+1999-08-06,128745.0,NFP
+1999-09-03,128905.0,NFP
+1999-10-08,128911.0,NFP
+1999-11-05,129296.0,NFP
+1999-12-03,129545.0,NFP
+2000-01-07,129869.0,NFP
+2000-02-04,130292.0,NFP
+2000-03-03,130325.0,NFP
+2000-04-07,130715.0,NFP
+2000-05-05,131117.0,NFP
+2000-06-02,131654.0,NFP
+2000-07-07,131601.0,NFP
+2000-08-04,131512.0,NFP
+2000-09-01,131491.0,NFP
+2000-10-06,131768.0,NFP
+2000-11-03,131860.0,NFP
+2000-12-08,131894.0,NFP
+2001-01-05,131953.0,NFP
+2001-02-02,132129.0,NFP
+2001-03-09,132237.0,NFP
+2001-04-06,132221.0,NFP
+2001-05-04,132027.0,NFP
+2001-06-01,132453.0,NFP
+2001-07-06,132383.0,NFP
+2001-08-03,132395.0,NFP
+2001-09-07,132331.0,NFP
+2001-10-05,132166.0,NFP
+2001-11-02,131767.0,NFP
+2001-12-07,131431.0,NFP
+2002-01-04,131287.0,NFP
+2002-02-01,131208.0,NFP
+2002-03-08,131261.0,NFP
+2002-04-05,131268.0,NFP
+2002-05-03,131230.0,NFP
+2002-06-07,130748.0,NFP
+2002-07-05,130740.0,NFP
+2002-08-02,130774.0,NFP
+2002-09-06,130842.0,NFP
+2002-10-04,130854.0,NFP
+2002-11-01,130895.0,NFP
+2002-12-06,130875.0,NFP
+2003-01-10,130709.0,NFP
+2003-02-07,130804.0,NFP
+2003-03-07,130547.0,NFP
+2003-04-04,130408.0,NFP
+2003-05-02,130348.0,NFP
+2003-06-06,130067.0,NFP
+2003-07-03,129962.0,NFP
+2003-08-01,129870.0,NFP
+2003-09-05,129761.0,NFP
+2003-10-03,129862.0,NFP
+2003-11-07,130132.0,NFP
+2003-12-05,130174.0,NFP
+2004-01-09,130124.0,NFP
+2004-02-06,130155.0,NFP
+2004-03-05,130153.0,NFP
+2004-04-02,130548.0,NFP
+2004-05-07,130902.0,NFP
+2004-06-04,131224.0,NFP
+2004-07-02,131301.0,NFP
+2004-08-06,131272.0,NFP
+2004-09-03,131475.0,NFP
+2004-10-08,131567.0,NFP
+2004-11-05,132017.0,NFP
+2004-12-03,132075.0,NFP
+2005-01-07,132266.0,NFP
+2005-02-04,132573.0,NFP
+2005-03-04,132843.0,NFP
+2005-04-01,132926.0,NFP
+2005-05-06,133293.0,NFP
+2005-06-03,133347.0,NFP
+2005-07-08,133537.0,NFP
+2005-08-05,133786.0,NFP
+2005-09-02,133999.0,NFP
+2005-10-07,134041.0,NFP
+2005-11-04,134061.0,NFP
+2005-12-02,134289.0,NFP
+2006-01-06,134468.0,NFP
+2006-02-03,134564.0,NFP
+2006-03-10,134789.0,NFP
+2006-04-07,134966.0,NFP
+2006-05-05,135068.0,NFP
+2006-06-02,135106.0,NFP
+2006-07-07,135230.0,NFP
+2006-08-04,135354.0,NFP
+2006-09-01,135500.0,NFP
+2006-10-06,135613.0,NFP
+2006-11-03,135844.0,NFP
+2006-12-08,136018.0,NFP
+2007-01-05,136214.0,NFP
+2007-02-02,137258.0,NFP
+2007-03-09,137410.0,NFP
+2007-04-06,137622.0,NFP
+2007-05-04,137684.0,NFP
+2007-06-01,137831.0,NFP
+2007-07-06,138038.0,NFP
+2007-08-03,138122.0,NFP
+2007-09-07,138037.0,NFP
+2007-10-05,138265.0,NFP
+2007-11-02,138421.0,NFP
+2007-12-07,138467.0,NFP
+2008-01-04,138495.0,NFP
+2008-02-01,138102.0,NFP
+2008-03-07,137993.0,NFP
+2008-04-04,137846.0,NFP
+2008-05-02,137818.0,NFP
+2008-06-06,137754.0,NFP
+2008-07-03,137640.0,NFP
+2008-08-01,137615.0,NFP
+2008-09-05,137473.0,NFP
+2008-10-03,137318.0,NFP
+2008-11-07,136899.0,NFP
+2008-12-05,136167.0,NFP
+2009-01-09,135489.0,NFP
+2009-02-06,134580.0,NFP
+2009-03-06,133768.0,NFP
+2009-04-03,133019.0,NFP
+2009-05-08,132414.0,NFP
+2009-06-05,132151.0,NFP
+2009-07-02,131692.0,NFP
+2009-08-07,131488.0,NFP
+2009-09-04,131223.0,NFP
+2009-10-02,130947.0,NFP
+2009-11-06,130848.0,NFP
+2009-12-04,130996.0,NFP
+2010-01-08,130910.0,NFP
+2010-02-05,129527.0,NFP
+2010-03-05,129526.0,NFP
+2010-04-02,129750.0,NFP
+2010-05-07,130161.0,NFP
+2010-06-04,130570.0,NFP
+2010-07-02,130470.0,NFP
+2010-08-06,130242.0,NFP
+2010-09-03,130311.0,NFP
+2010-10-08,130201.0,NFP
+2010-11-05,130462.0,NFP
+2010-12-03,130539.0,NFP
+2011-01-07,130712.0,NFP
+2011-02-04,130265.0,NFP
+2011-03-04,130515.0,NFP
+2011-04-01,130738.0,NFP
+2011-05-06,131028.0,NFP
+2011-06-03,131043.0,NFP
+2011-07-08,131017.0,NFP
+2011-08-05,131190.0,NFP
+2011-09-02,131132.0,NFP
+2011-10-07,131334.0,NFP
+2011-11-04,131516.0,NFP
+2011-12-02,131708.0,NFP
+2012-01-06,131900.0,NFP
+2012-02-03,132409.0,NFP
+2012-03-09,132697.0,NFP
+2012-04-06,132821.0,NFP
+2012-05-04,132989.0,NFP
+2012-06-01,133009.0,NFP
+2012-07-06,133088.0,NFP
+2012-08-03,133245.0,NFP
+2012-09-07,133300.0,NFP
+2012-10-05,133500.0,NFP
+2012-11-02,133755.0,NFP
+2012-12-07,133852.0,NFP
+2013-01-04,134021.0,NFP
+2013-02-01,134825.0,NFP
+2013-03-08,135046.0,NFP
+2013-04-05,135195.0,NFP
+2013-05-03,135474.0,NFP
+2013-06-07,135637.0,NFP
+2013-07-05,135902.0,NFP
+2013-08-02,136038.0,NFP
+2013-09-06,136133.0,NFP
+2013-10-22,136290.0,NFP
+2013-11-08,136554.0,NFP
+2013-12-06,136765.0,NFP
+2014-01-10,136877.0,NFP
+2014-02-07,137499.0,NFP
+2014-03-07,137699.0,NFP
+2014-04-04,137928.0,NFP
+2014-05-02,138252.0,NFP
+2014-06-06,138463.0,NFP
+2014-07-03,138780.0,NFP
+2014-08-01,139004.0,NFP
+2014-09-05,139118.0,NFP
+2014-10-03,139435.0,NFP
+2014-11-07,139680.0,NFP
+2014-12-05,140045.0,NFP
+2015-01-09,140347.0,NFP
+2015-02-06,140849.0,NFP
+2015-03-06,141126.0,NFP
+2015-04-03,141183.0,NFP
+2015-05-08,141367.0,NFP
+2015-06-05,141679.0,NFP
+2015-07-02,141842.0,NFP
+2015-08-07,142071.0,NFP
+2015-09-04,142288.0,NFP
+2015-10-02,142371.0,NFP
+2015-11-06,142654.0,NFP
+2015-12-04,142900.0,NFP
+2016-01-08,143242.0,NFP
+2016-02-05,143288.0,NFP
+2016-03-04,143560.0,NFP
+2016-04-01,143774.0,NFP
+2016-05-06,143915.0,NFP
+2016-06-03,143894.0,NFP
+2016-07-08,144175.0,NFP
+2016-08-05,144448.0,NFP
+2016-09-02,144598.0,NFP
+2016-10-07,144747.0,NFP
+2016-11-04,144952.0,NFP
+2016-12-02,145128.0,NFP
+2017-01-06,145303.0,NFP
+2017-02-03,145554.0,NFP
+2017-03-10,145798.0,NFP
+2017-04-07,145858.0,NFP
+2017-05-05,146063.0,NFP
+2017-06-02,146135.0,NFP
+2017-07-07,146404.0,NFP
+2017-08-04,146615.0,NFP
+2017-09-01,146730.0,NFP
+2017-10-06,146659.0,NFP
+2017-11-03,147010.0,NFP
+2017-12-08,147241.0,NFP
+2018-01-05,147380.0,NFP
+2018-02-02,147810.0,NFP
+2018-03-09,148177.0,NFP
+2018-04-06,148230.0,NFP
+2018-05-04,148424.0,NFP
+2018-06-01,148662.0,NFP
+2018-07-06,148912.0,NFP
+2018-08-03,149128.0,NFP
+2018-09-07,149279.0,NFP
+2018-10-05,149500.0,NFP
+2018-11-02,149750.0,NFP
+2018-12-07,149893.0,NFP
+2019-01-04,150263.0,NFP
+2019-02-01,150574.0,NFP
+2019-03-08,150606.0,NFP
+2019-04-05,150816.0,NFP
+2019-05-03,151095.0,NFP
+2019-06-07,151095.0,NFP
+2019-07-05,151308.0,NFP
+2019-08-02,151431.0,NFP
+2019-09-06,151541.0,NFP
+2019-10-04,151722.0,NFP
+2019-11-01,151945.0,NFP
+2019-12-06,152252.0,NFP
+2020-01-10,152383.0,NFP
+2020-02-07,152186.0,NFP
+2020-03-06,152544.0,NFP
+2020-04-03,151786.0,NFP
+2020-05-08,131072.0,NFP
+2020-06-05,132912.0,NFP
+2020-07-02,137802.0,NFP
+2020-08-07,139582.0,NFP
+2020-09-04,140914.0,NFP
+2020-10-02,141720.0,NFP
+2020-11-06,142373.0,NFP
+2020-12-04,142629.0,NFP
+2021-01-08,142624.0,NFP
+2021-02-05,142631.0,NFP
+2021-03-05,143048.0,NFP
+2021-04-02,144120.0,NFP
+2021-05-07,144308.0,NFP
+2021-06-04,144894.0,NFP
+2021-07-02,145759.0,NFP
+2021-08-06,146821.0,NFP
+2021-09-03,147190.0,NFP
+2021-10-08,147553.0,NFP
+2021-11-05,148319.0,NFP
+2021-12-03,148611.0,NFP
+2022-01-07,148951.0,NFP
+2022-02-04,149629.0,NFP
+2022-03-04,150399.0,NFP
+2022-04-01,150925.0,NFP
+2022-05-06,151314.0,NFP
+2022-06-03,151682.0,NFP
+2022-07-08,151980.0,NFP
+2022-08-05,152536.0,NFP
+2022-09-02,152744.0,NFP
+2022-10-07,153018.0,NFP
+2022-11-04,153308.0,NFP
+2022-12-02,153548.0,NFP
+2023-01-06,153743.0,NFP
+2023-02-03,155073.0,NFP
+2023-03-10,155350.0,NFP
+2023-04-07,155569.0,NFP
+2023-05-05,155673.0,NFP
+2023-06-02,156105.0,NFP
+2023-07-07,156204.0,NFP
+2023-08-04,156342.0,NFP
+2023-09-01,156419.0,NFP
+2023-10-06,156874.0,NFP
+2023-11-03,156923.0,NFP
+2023-12-08,157087.0,NFP
+2024-01-05,157232.0,NFP
+2024-02-02,157700.0,NFP
+2024-03-08,157808.0,NFP
+2024-04-05,158133.0,NFP
+2024-05-03,158286.0,NFP
+2024-06-07,158543.0,NFP
+2024-07-05,158638.0,NFP
+2024-08-02,158723.0,NFP
+2024-09-06,158779.0,NFP
+2024-10-04,159105.0,NFP
+2024-11-01,159005.0,NFP
+2024-12-06,159288.0,NFP
+2025-01-10,159536.0,NFP
+2025-02-07,159069.0,NFP
+2025-03-07,159218.0,NFP
+2025-04-04,159398.0,NFP
+2025-05-02,159517.0,NFP
+2025-06-06,159561.0,NFP
+2025-07-03,159724.0,NFP
+2009-05-28,623000.0,Initial Jobless Claims
+2009-06-04,621000.0,Initial Jobless Claims
+2009-06-11,601000.0,Initial Jobless Claims
+2009-06-18,608000.0,Initial Jobless Claims
+2009-06-25,627000.0,Initial Jobless Claims
+2009-07-02,614000.0,Initial Jobless Claims
+2009-07-09,565000.0,Initial Jobless Claims
+2009-07-16,522000.0,Initial Jobless Claims
+2009-07-23,554000.0,Initial Jobless Claims
+2009-07-30,584000.0,Initial Jobless Claims
+2009-08-06,550000.0,Initial Jobless Claims
+2009-08-13,558000.0,Initial Jobless Claims
+2009-08-20,576000.0,Initial Jobless Claims
+2009-08-27,570000.0,Initial Jobless Claims
+2009-09-03,570000.0,Initial Jobless Claims
+2009-09-10,550000.0,Initial Jobless Claims
+2009-09-17,545000.0,Initial Jobless Claims
+2009-09-24,530000.0,Initial Jobless Claims
+2009-10-01,551000.0,Initial Jobless Claims
+2009-10-08,521000.0,Initial Jobless Claims
+2009-10-15,514000.0,Initial Jobless Claims
+2009-10-22,531000.0,Initial Jobless Claims
+2009-10-29,530000.0,Initial Jobless Claims
+2009-11-05,512000.0,Initial Jobless Claims
+2009-11-12,502000.0,Initial Jobless Claims
+2009-11-19,505000.0,Initial Jobless Claims
+2009-11-25,466000.0,Initial Jobless Claims
+2009-12-03,457000.0,Initial Jobless Claims
+2009-12-10,474000.0,Initial Jobless Claims
+2009-12-17,480000.0,Initial Jobless Claims
+2009-12-24,452000.0,Initial Jobless Claims
+2009-12-31,432000.0,Initial Jobless Claims
+2010-01-07,434000.0,Initial Jobless Claims
+2010-01-14,444000.0,Initial Jobless Claims
+2010-01-21,482000.0,Initial Jobless Claims
+2010-01-28,470000.0,Initial Jobless Claims
+2010-02-04,480000.0,Initial Jobless Claims
+2010-02-11,440000.0,Initial Jobless Claims
+2010-02-18,473000.0,Initial Jobless Claims
+2010-02-25,496000.0,Initial Jobless Claims
+2010-03-04,469000.0,Initial Jobless Claims
+2010-03-11,462000.0,Initial Jobless Claims
+2010-03-18,457000.0,Initial Jobless Claims
+2010-03-25,442000.0,Initial Jobless Claims
+2010-04-01,439000.0,Initial Jobless Claims
+2010-04-08,460000.0,Initial Jobless Claims
+2010-04-15,484000.0,Initial Jobless Claims
+2010-04-22,456000.0,Initial Jobless Claims
+2010-04-29,448000.0,Initial Jobless Claims
+2010-05-06,444000.0,Initial Jobless Claims
+2010-05-13,444000.0,Initial Jobless Claims
+2010-05-20,471000.0,Initial Jobless Claims
+2010-05-27,460000.0,Initial Jobless Claims
+2010-06-03,453000.0,Initial Jobless Claims
+2010-06-10,456000.0,Initial Jobless Claims
+2010-06-17,472000.0,Initial Jobless Claims
+2010-06-24,457000.0,Initial Jobless Claims
+2010-07-01,472000.0,Initial Jobless Claims
+2010-07-08,454000.0,Initial Jobless Claims
+2010-07-15,429000.0,Initial Jobless Claims
+2010-07-22,464000.0,Initial Jobless Claims
+2010-07-29,457000.0,Initial Jobless Claims
+2010-08-05,479000.0,Initial Jobless Claims
+2010-08-12,484000.0,Initial Jobless Claims
+2010-08-19,500000.0,Initial Jobless Claims
+2010-08-26,473000.0,Initial Jobless Claims
+2010-09-02,472000.0,Initial Jobless Claims
+2010-09-09,451000.0,Initial Jobless Claims
+2010-09-16,450000.0,Initial Jobless Claims
+2010-09-23,465000.0,Initial Jobless Claims
+2010-09-30,453000.0,Initial Jobless Claims
+2010-10-07,445000.0,Initial Jobless Claims
+2010-10-14,462000.0,Initial Jobless Claims
+2010-10-21,452000.0,Initial Jobless Claims
+2010-10-28,434000.0,Initial Jobless Claims
+2010-11-04,457000.0,Initial Jobless Claims
+2010-11-10,435000.0,Initial Jobless Claims
+2010-11-18,439000.0,Initial Jobless Claims
+2010-11-24,407000.0,Initial Jobless Claims
+2010-12-02,436000.0,Initial Jobless Claims
+2010-12-09,421000.0,Initial Jobless Claims
+2010-12-16,420000.0,Initial Jobless Claims
+2010-12-23,420000.0,Initial Jobless Claims
+2010-12-30,388000.0,Initial Jobless Claims
+2011-01-06,409000.0,Initial Jobless Claims
+2011-01-13,445000.0,Initial Jobless Claims
+2011-01-20,404000.0,Initial Jobless Claims
+2011-01-27,454000.0,Initial Jobless Claims
+2011-02-03,415000.0,Initial Jobless Claims
+2011-02-10,383000.0,Initial Jobless Claims
+2011-02-17,410000.0,Initial Jobless Claims
+2011-02-24,391000.0,Initial Jobless Claims
+2011-03-03,368000.0,Initial Jobless Claims
+2011-03-10,397000.0,Initial Jobless Claims
+2011-03-17,385000.0,Initial Jobless Claims
+2011-03-24,382000.0,Initial Jobless Claims
+2011-03-31,388000.0,Initial Jobless Claims
+2011-04-07,382000.0,Initial Jobless Claims
+2011-04-14,412000.0,Initial Jobless Claims
+2011-04-21,403000.0,Initial Jobless Claims
+2011-04-28,429000.0,Initial Jobless Claims
+2011-05-05,474000.0,Initial Jobless Claims
+2011-05-12,434000.0,Initial Jobless Claims
+2011-05-19,409000.0,Initial Jobless Claims
+2011-05-26,424000.0,Initial Jobless Claims
+2011-06-02,422000.0,Initial Jobless Claims
+2011-06-09,427000.0,Initial Jobless Claims
+2011-06-16,414000.0,Initial Jobless Claims
+2011-06-23,429000.0,Initial Jobless Claims
+2011-06-30,428000.0,Initial Jobless Claims
+2011-07-07,418000.0,Initial Jobless Claims
+2011-07-14,405000.0,Initial Jobless Claims
+2011-07-21,418000.0,Initial Jobless Claims
+2011-07-28,398000.0,Initial Jobless Claims
+2011-08-04,400000.0,Initial Jobless Claims
+2011-08-11,395000.0,Initial Jobless Claims
+2011-08-18,408000.0,Initial Jobless Claims
+2011-08-25,417000.0,Initial Jobless Claims
+2011-09-01,409000.0,Initial Jobless Claims
+2011-09-08,414000.0,Initial Jobless Claims
+2011-09-15,428000.0,Initial Jobless Claims
+2011-09-22,423000.0,Initial Jobless Claims
+2011-09-29,391000.0,Initial Jobless Claims
+2011-10-06,401000.0,Initial Jobless Claims
+2011-10-13,404000.0,Initial Jobless Claims
+2011-10-20,403000.0,Initial Jobless Claims
+2011-10-27,402000.0,Initial Jobless Claims
+2011-11-03,397000.0,Initial Jobless Claims
+2011-11-10,390000.0,Initial Jobless Claims
+2011-11-17,388000.0,Initial Jobless Claims
+2011-11-23,393000.0,Initial Jobless Claims
+2011-12-01,402000.0,Initial Jobless Claims
+2011-12-08,381000.0,Initial Jobless Claims
+2011-12-15,366000.0,Initial Jobless Claims
+2011-12-22,364000.0,Initial Jobless Claims
+2011-12-29,381000.0,Initial Jobless Claims
+2012-01-05,372000.0,Initial Jobless Claims
+2012-01-12,399000.0,Initial Jobless Claims
+2012-01-19,352000.0,Initial Jobless Claims
+2012-01-26,377000.0,Initial Jobless Claims
+2012-02-02,367000.0,Initial Jobless Claims
+2012-02-09,358000.0,Initial Jobless Claims
+2012-02-16,348000.0,Initial Jobless Claims
+2012-02-23,351000.0,Initial Jobless Claims
+2012-03-01,351000.0,Initial Jobless Claims
+2012-03-08,362000.0,Initial Jobless Claims
+2012-03-15,351000.0,Initial Jobless Claims
+2012-03-22,348000.0,Initial Jobless Claims
+2012-03-29,359000.0,Initial Jobless Claims
+2012-04-05,357000.0,Initial Jobless Claims
+2012-04-12,380000.0,Initial Jobless Claims
+2012-04-19,386000.0,Initial Jobless Claims
+2012-04-26,388000.0,Initial Jobless Claims
+2012-05-03,365000.0,Initial Jobless Claims
+2012-05-10,367000.0,Initial Jobless Claims
+2012-05-17,370000.0,Initial Jobless Claims
+2012-05-24,370000.0,Initial Jobless Claims
+2012-05-31,383000.0,Initial Jobless Claims
+2012-06-07,377000.0,Initial Jobless Claims
+2012-06-14,386000.0,Initial Jobless Claims
+2012-06-21,387000.0,Initial Jobless Claims
+2012-06-28,386000.0,Initial Jobless Claims
+2012-07-05,374000.0,Initial Jobless Claims
+2012-07-12,350000.0,Initial Jobless Claims
+2012-07-19,386000.0,Initial Jobless Claims
+2012-07-26,353000.0,Initial Jobless Claims
+2012-08-02,365000.0,Initial Jobless Claims
+2012-08-09,361000.0,Initial Jobless Claims
+2012-08-16,366000.0,Initial Jobless Claims
+2012-08-23,372000.0,Initial Jobless Claims
+2012-08-30,374000.0,Initial Jobless Claims
+2012-09-06,365000.0,Initial Jobless Claims
+2012-09-13,382000.0,Initial Jobless Claims
+2012-09-20,382000.0,Initial Jobless Claims
+2012-09-27,359000.0,Initial Jobless Claims
+2012-10-04,367000.0,Initial Jobless Claims
+2012-10-11,339000.0,Initial Jobless Claims
+2012-10-18,388000.0,Initial Jobless Claims
+2012-10-25,369000.0,Initial Jobless Claims
+2012-11-01,363000.0,Initial Jobless Claims
+2012-11-08,355000.0,Initial Jobless Claims
+2012-11-15,439000.0,Initial Jobless Claims
+2012-11-21,410000.0,Initial Jobless Claims
+2012-11-29,393000.0,Initial Jobless Claims
+2012-12-06,370000.0,Initial Jobless Claims
+2012-12-13,343000.0,Initial Jobless Claims
+2012-12-20,361000.0,Initial Jobless Claims
+2012-12-27,350000.0,Initial Jobless Claims
+2013-01-03,372000.0,Initial Jobless Claims
+2013-01-10,371000.0,Initial Jobless Claims
+2013-01-17,335000.0,Initial Jobless Claims
+2013-01-24,330000.0,Initial Jobless Claims
+2013-01-31,368000.0,Initial Jobless Claims
+2013-02-07,366000.0,Initial Jobless Claims
+2013-02-14,341000.0,Initial Jobless Claims
+2013-02-21,362000.0,Initial Jobless Claims
+2013-02-28,344000.0,Initial Jobless Claims
+2013-03-07,340000.0,Initial Jobless Claims
+2013-03-14,332000.0,Initial Jobless Claims
+2013-03-21,336000.0,Initial Jobless Claims
+2013-03-28,357000.0,Initial Jobless Claims
+2013-04-04,385000.0,Initial Jobless Claims
+2013-04-11,346000.0,Initial Jobless Claims
+2013-04-18,352000.0,Initial Jobless Claims
+2013-04-25,339000.0,Initial Jobless Claims
+2013-05-02,324000.0,Initial Jobless Claims
+2013-05-09,323000.0,Initial Jobless Claims
+2013-05-16,360000.0,Initial Jobless Claims
+2013-05-23,340000.0,Initial Jobless Claims
+2013-05-30,354000.0,Initial Jobless Claims
+2013-06-06,346000.0,Initial Jobless Claims
+2013-06-13,334000.0,Initial Jobless Claims
+2013-06-20,354000.0,Initial Jobless Claims
+2013-06-27,346000.0,Initial Jobless Claims
+2013-07-03,343000.0,Initial Jobless Claims
+2013-07-11,360000.0,Initial Jobless Claims
+2013-07-18,334000.0,Initial Jobless Claims
+2013-07-25,343000.0,Initial Jobless Claims
+2013-08-01,326000.0,Initial Jobless Claims
+2013-08-08,333000.0,Initial Jobless Claims
+2013-08-15,320000.0,Initial Jobless Claims
+2013-08-22,336000.0,Initial Jobless Claims
+2013-08-29,331000.0,Initial Jobless Claims
+2013-09-05,323000.0,Initial Jobless Claims
+2013-09-12,292000.0,Initial Jobless Claims
+2013-09-19,309000.0,Initial Jobless Claims
+2013-09-26,305000.0,Initial Jobless Claims
+2013-10-03,308000.0,Initial Jobless Claims
+2013-10-10,374000.0,Initial Jobless Claims
+2013-10-17,358000.0,Initial Jobless Claims
+2013-10-24,350000.0,Initial Jobless Claims
+2013-10-31,340000.0,Initial Jobless Claims
+2013-11-07,336000.0,Initial Jobless Claims
+2013-11-14,339000.0,Initial Jobless Claims
+2013-11-21,323000.0,Initial Jobless Claims
+2013-11-27,316000.0,Initial Jobless Claims
+2013-12-05,298000.0,Initial Jobless Claims
+2013-12-12,368000.0,Initial Jobless Claims
+2013-12-19,379000.0,Initial Jobless Claims
+2013-12-26,338000.0,Initial Jobless Claims
+2014-01-02,339000.0,Initial Jobless Claims
+2014-01-09,330000.0,Initial Jobless Claims
+2014-01-16,326000.0,Initial Jobless Claims
+2014-01-23,326000.0,Initial Jobless Claims
+2014-01-30,348000.0,Initial Jobless Claims
+2014-02-06,331000.0,Initial Jobless Claims
+2014-02-13,339000.0,Initial Jobless Claims
+2014-02-20,336000.0,Initial Jobless Claims
+2014-02-27,348000.0,Initial Jobless Claims
+2014-03-06,323000.0,Initial Jobless Claims
+2014-03-13,315000.0,Initial Jobless Claims
+2014-03-20,320000.0,Initial Jobless Claims
+2014-03-27,311000.0,Initial Jobless Claims
+2014-04-03,326000.0,Initial Jobless Claims
+2014-04-10,300000.0,Initial Jobless Claims
+2014-04-17,304000.0,Initial Jobless Claims
+2014-04-24,329000.0,Initial Jobless Claims
+2014-05-01,344000.0,Initial Jobless Claims
+2014-05-08,319000.0,Initial Jobless Claims
+2014-05-15,297000.0,Initial Jobless Claims
+2014-05-22,326000.0,Initial Jobless Claims
+2014-05-29,300000.0,Initial Jobless Claims
+2014-06-05,312000.0,Initial Jobless Claims
+2014-06-12,317000.0,Initial Jobless Claims
+2014-06-19,312000.0,Initial Jobless Claims
+2014-06-26,312000.0,Initial Jobless Claims
+2014-07-03,315000.0,Initial Jobless Claims
+2014-07-10,304000.0,Initial Jobless Claims
+2014-07-17,302000.0,Initial Jobless Claims
+2014-07-24,284000.0,Initial Jobless Claims
+2014-07-31,302000.0,Initial Jobless Claims
+2014-08-07,289000.0,Initial Jobless Claims
+2014-08-14,311000.0,Initial Jobless Claims
+2014-08-21,298000.0,Initial Jobless Claims
+2014-08-28,298000.0,Initial Jobless Claims
+2014-09-04,302000.0,Initial Jobless Claims
+2014-09-11,315000.0,Initial Jobless Claims
+2014-09-18,280000.0,Initial Jobless Claims
+2014-09-25,293000.0,Initial Jobless Claims
+2014-10-02,287000.0,Initial Jobless Claims
+2014-10-09,287000.0,Initial Jobless Claims
+2014-10-16,264000.0,Initial Jobless Claims
+2014-10-23,283000.0,Initial Jobless Claims
+2014-10-30,287000.0,Initial Jobless Claims
+2014-11-06,278000.0,Initial Jobless Claims
+2014-11-13,290000.0,Initial Jobless Claims
+2014-11-20,291000.0,Initial Jobless Claims
+2014-11-26,313000.0,Initial Jobless Claims
+2014-12-04,297000.0,Initial Jobless Claims
+2014-12-11,294000.0,Initial Jobless Claims
+2014-12-18,289000.0,Initial Jobless Claims
+2014-12-24,280000.0,Initial Jobless Claims
+2014-12-31,298000.0,Initial Jobless Claims
+2015-01-08,294000.0,Initial Jobless Claims
+2015-01-15,316000.0,Initial Jobless Claims
+2015-01-22,307000.0,Initial Jobless Claims
+2015-01-29,265000.0,Initial Jobless Claims
+2015-02-05,278000.0,Initial Jobless Claims
+2015-02-12,304000.0,Initial Jobless Claims
+2015-02-19,283000.0,Initial Jobless Claims
+2015-02-26,313000.0,Initial Jobless Claims
+2015-03-05,320000.0,Initial Jobless Claims
+2015-03-12,289000.0,Initial Jobless Claims
+2015-03-19,291000.0,Initial Jobless Claims
+2015-03-26,282000.0,Initial Jobless Claims
+2015-04-02,268000.0,Initial Jobless Claims
+2015-04-09,281000.0,Initial Jobless Claims
+2015-04-16,294000.0,Initial Jobless Claims
+2015-04-23,295000.0,Initial Jobless Claims
+2015-04-30,262000.0,Initial Jobless Claims
+2015-05-07,265000.0,Initial Jobless Claims
+2015-05-14,264000.0,Initial Jobless Claims
+2015-05-21,274000.0,Initial Jobless Claims
+2015-05-28,282000.0,Initial Jobless Claims
+2015-06-04,276000.0,Initial Jobless Claims
+2015-06-11,279000.0,Initial Jobless Claims
+2015-06-18,267000.0,Initial Jobless Claims
+2015-06-25,271000.0,Initial Jobless Claims
+2015-07-02,281000.0,Initial Jobless Claims
+2015-07-09,297000.0,Initial Jobless Claims
+2015-07-16,281000.0,Initial Jobless Claims
+2015-07-23,255000.0,Initial Jobless Claims
+2015-07-30,267000.0,Initial Jobless Claims
+2015-08-06,270000.0,Initial Jobless Claims
+2015-08-13,274000.0,Initial Jobless Claims
+2015-08-20,277000.0,Initial Jobless Claims
+2015-08-27,271000.0,Initial Jobless Claims
+2015-09-03,282000.0,Initial Jobless Claims
+2015-09-10,275000.0,Initial Jobless Claims
+2015-09-17,264000.0,Initial Jobless Claims
+2015-09-24,267000.0,Initial Jobless Claims
+2015-10-01,277000.0,Initial Jobless Claims
+2015-10-08,263000.0,Initial Jobless Claims
+2015-10-15,255000.0,Initial Jobless Claims
+2015-10-22,259000.0,Initial Jobless Claims
+2015-10-29,260000.0,Initial Jobless Claims
+2015-11-05,276000.0,Initial Jobless Claims
+2015-11-12,276000.0,Initial Jobless Claims
+2015-11-19,271000.0,Initial Jobless Claims
+2015-11-25,260000.0,Initial Jobless Claims
+2015-12-03,269000.0,Initial Jobless Claims
+2015-12-10,282000.0,Initial Jobless Claims
+2015-12-17,271000.0,Initial Jobless Claims
+2015-12-24,267000.0,Initial Jobless Claims
+2015-12-31,287000.0,Initial Jobless Claims
+2016-01-07,277000.0,Initial Jobless Claims
+2016-01-14,284000.0,Initial Jobless Claims
+2016-01-21,293000.0,Initial Jobless Claims
+2016-01-28,278000.0,Initial Jobless Claims
+2016-02-04,285000.0,Initial Jobless Claims
+2016-02-11,269000.0,Initial Jobless Claims
+2016-02-18,262000.0,Initial Jobless Claims
+2016-02-25,272000.0,Initial Jobless Claims
+2016-03-03,278000.0,Initial Jobless Claims
+2016-03-10,259000.0,Initial Jobless Claims
+2016-03-17,265000.0,Initial Jobless Claims
+2016-03-24,265000.0,Initial Jobless Claims
+2016-03-31,276000.0,Initial Jobless Claims
+2016-04-07,267000.0,Initial Jobless Claims
+2016-04-14,253000.0,Initial Jobless Claims
+2016-04-21,247000.0,Initial Jobless Claims
+2016-04-28,257000.0,Initial Jobless Claims
+2016-05-05,274000.0,Initial Jobless Claims
+2016-05-12,294000.0,Initial Jobless Claims
+2016-05-19,278000.0,Initial Jobless Claims
+2016-05-26,268000.0,Initial Jobless Claims
+2016-06-02,267000.0,Initial Jobless Claims
+2016-06-09,264000.0,Initial Jobless Claims
+2016-06-16,277000.0,Initial Jobless Claims
+2016-06-23,259000.0,Initial Jobless Claims
+2016-06-30,268000.0,Initial Jobless Claims
+2016-07-07,254000.0,Initial Jobless Claims
+2016-07-14,254000.0,Initial Jobless Claims
+2016-07-21,253000.0,Initial Jobless Claims
+2016-07-28,266000.0,Initial Jobless Claims
+2016-08-04,269000.0,Initial Jobless Claims
+2016-08-11,266000.0,Initial Jobless Claims
+2016-08-18,262000.0,Initial Jobless Claims
+2016-08-25,261000.0,Initial Jobless Claims
+2016-09-01,263000.0,Initial Jobless Claims
+2016-09-08,259000.0,Initial Jobless Claims
+2016-09-15,260000.0,Initial Jobless Claims
+2016-09-22,252000.0,Initial Jobless Claims
+2016-09-29,254000.0,Initial Jobless Claims
+2016-10-06,249000.0,Initial Jobless Claims
+2016-10-13,246000.0,Initial Jobless Claims
+2016-10-20,260000.0,Initial Jobless Claims
+2016-10-27,258000.0,Initial Jobless Claims
+2016-11-03,265000.0,Initial Jobless Claims
+2016-11-10,254000.0,Initial Jobless Claims
+2016-11-17,235000.0,Initial Jobless Claims
+2016-11-23,251000.0,Initial Jobless Claims
+2016-12-01,268000.0,Initial Jobless Claims
+2016-12-08,258000.0,Initial Jobless Claims
+2016-12-15,254000.0,Initial Jobless Claims
+2016-12-22,275000.0,Initial Jobless Claims
+2016-12-29,265000.0,Initial Jobless Claims
+2017-01-05,235000.0,Initial Jobless Claims
+2017-01-12,247000.0,Initial Jobless Claims
+2017-01-19,234000.0,Initial Jobless Claims
+2017-01-26,259000.0,Initial Jobless Claims
+2017-02-02,246000.0,Initial Jobless Claims
+2017-02-09,234000.0,Initial Jobless Claims
+2017-02-16,239000.0,Initial Jobless Claims
+2017-02-23,244000.0,Initial Jobless Claims
+2017-03-02,223000.0,Initial Jobless Claims
+2017-03-09,243000.0,Initial Jobless Claims
+2017-03-16,241000.0,Initial Jobless Claims
+2017-03-23,258000.0,Initial Jobless Claims
+2017-03-30,258000.0,Initial Jobless Claims
+2017-04-06,234000.0,Initial Jobless Claims
+2017-04-13,234000.0,Initial Jobless Claims
+2017-04-20,244000.0,Initial Jobless Claims
+2017-04-27,257000.0,Initial Jobless Claims
+2017-05-04,238000.0,Initial Jobless Claims
+2017-05-11,236000.0,Initial Jobless Claims
+2017-05-18,232000.0,Initial Jobless Claims
+2017-05-25,234000.0,Initial Jobless Claims
+2017-06-01,248000.0,Initial Jobless Claims
+2017-06-08,245000.0,Initial Jobless Claims
+2017-06-15,237000.0,Initial Jobless Claims
+2017-06-22,241000.0,Initial Jobless Claims
+2017-06-29,244000.0,Initial Jobless Claims
+2017-07-06,248000.0,Initial Jobless Claims
+2017-07-13,247000.0,Initial Jobless Claims
+2017-07-20,233000.0,Initial Jobless Claims
+2017-07-27,244000.0,Initial Jobless Claims
+2017-08-03,240000.0,Initial Jobless Claims
+2017-08-10,244000.0,Initial Jobless Claims
+2017-08-17,232000.0,Initial Jobless Claims
+2017-08-24,234000.0,Initial Jobless Claims
+2017-08-31,236000.0,Initial Jobless Claims
+2017-09-07,298000.0,Initial Jobless Claims
+2017-09-14,284000.0,Initial Jobless Claims
+2017-09-21,259000.0,Initial Jobless Claims
+2017-09-28,272000.0,Initial Jobless Claims
+2017-10-05,260000.0,Initial Jobless Claims
+2017-10-12,243000.0,Initial Jobless Claims
+2017-10-19,222000.0,Initial Jobless Claims
+2017-10-26,233000.0,Initial Jobless Claims
+2017-11-02,229000.0,Initial Jobless Claims
+2017-11-09,239000.0,Initial Jobless Claims
+2017-11-16,249000.0,Initial Jobless Claims
+2017-11-22,239000.0,Initial Jobless Claims
+2017-11-30,238000.0,Initial Jobless Claims
+2017-12-07,236000.0,Initial Jobless Claims
+2017-12-14,225000.0,Initial Jobless Claims
+2017-12-21,245000.0,Initial Jobless Claims
+2017-12-28,245000.0,Initial Jobless Claims
+2018-01-04,250000.0,Initial Jobless Claims
+2018-01-11,261000.0,Initial Jobless Claims
+2018-01-18,220000.0,Initial Jobless Claims
+2018-01-25,233000.0,Initial Jobless Claims
+2018-02-01,230000.0,Initial Jobless Claims
+2018-02-08,221000.0,Initial Jobless Claims
+2018-02-15,230000.0,Initial Jobless Claims
+2018-02-22,222000.0,Initial Jobless Claims
+2018-03-01,210000.0,Initial Jobless Claims
+2018-03-08,231000.0,Initial Jobless Claims
+2018-03-15,226000.0,Initial Jobless Claims
+2018-03-29,215000.0,Initial Jobless Claims
+2018-04-05,242000.0,Initial Jobless Claims
+2018-04-12,233000.0,Initial Jobless Claims
+2018-04-19,232000.0,Initial Jobless Claims
+2018-04-26,209000.0,Initial Jobless Claims
+2018-05-03,211000.0,Initial Jobless Claims
+2018-05-10,211000.0,Initial Jobless Claims
+2018-05-17,222000.0,Initial Jobless Claims
+2018-05-24,234000.0,Initial Jobless Claims
+2018-05-31,221000.0,Initial Jobless Claims
+2018-06-07,222000.0,Initial Jobless Claims
+2018-06-14,218000.0,Initial Jobless Claims
+2018-06-21,218000.0,Initial Jobless Claims
+2018-06-28,227000.0,Initial Jobless Claims
+2018-07-05,231000.0,Initial Jobless Claims
+2018-07-12,214000.0,Initial Jobless Claims
+2018-07-19,207000.0,Initial Jobless Claims
+2018-07-26,217000.0,Initial Jobless Claims
+2018-08-02,218000.0,Initial Jobless Claims
+2018-08-09,213000.0,Initial Jobless Claims
+2018-08-16,212000.0,Initial Jobless Claims
+2018-08-23,210000.0,Initial Jobless Claims
+2018-08-30,213000.0,Initial Jobless Claims
+2018-09-06,203000.0,Initial Jobless Claims
+2018-09-13,204000.0,Initial Jobless Claims
+2018-09-20,201000.0,Initial Jobless Claims
+2018-09-27,214000.0,Initial Jobless Claims
+2018-10-04,207000.0,Initial Jobless Claims
+2018-10-11,214000.0,Initial Jobless Claims
+2018-10-18,210000.0,Initial Jobless Claims
+2018-10-25,215000.0,Initial Jobless Claims
+2018-11-01,214000.0,Initial Jobless Claims
+2018-11-08,214000.0,Initial Jobless Claims
+2018-11-15,216000.0,Initial Jobless Claims
+2018-11-21,224000.0,Initial Jobless Claims
+2018-11-29,234000.0,Initial Jobless Claims
+2018-12-06,231000.0,Initial Jobless Claims
+2018-12-13,206000.0,Initial Jobless Claims
+2018-12-20,214000.0,Initial Jobless Claims
+2018-12-27,216000.0,Initial Jobless Claims
+2019-01-03,231000.0,Initial Jobless Claims
+2019-01-10,216000.0,Initial Jobless Claims
+2019-01-17,213000.0,Initial Jobless Claims
+2019-01-24,199000.0,Initial Jobless Claims
+2019-01-31,253000.0,Initial Jobless Claims
+2019-02-07,234000.0,Initial Jobless Claims
+2019-02-14,239000.0,Initial Jobless Claims
+2019-02-21,216000.0,Initial Jobless Claims
+2019-02-28,225000.0,Initial Jobless Claims
+2019-03-07,223000.0,Initial Jobless Claims
+2019-03-14,229000.0,Initial Jobless Claims
+2019-03-21,221000.0,Initial Jobless Claims
+2019-03-28,211000.0,Initial Jobless Claims
+2019-04-04,202000.0,Initial Jobless Claims
+2019-04-11,196000.0,Initial Jobless Claims
+2019-04-18,192000.0,Initial Jobless Claims
+2019-04-25,230000.0,Initial Jobless Claims
+2019-05-02,230000.0,Initial Jobless Claims
+2019-05-09,228000.0,Initial Jobless Claims
+2019-05-16,212000.0,Initial Jobless Claims
+2019-05-23,211000.0,Initial Jobless Claims
+2019-05-30,215000.0,Initial Jobless Claims
+2019-06-06,218000.0,Initial Jobless Claims
+2019-06-13,222000.0,Initial Jobless Claims
+2019-06-20,216000.0,Initial Jobless Claims
+2019-06-27,227000.0,Initial Jobless Claims
+2019-07-03,221000.0,Initial Jobless Claims
+2019-07-11,209000.0,Initial Jobless Claims
+2019-07-18,216000.0,Initial Jobless Claims
+2019-07-25,206000.0,Initial Jobless Claims
+2019-08-01,215000.0,Initial Jobless Claims
+2019-08-08,209000.0,Initial Jobless Claims
+2019-08-15,220000.0,Initial Jobless Claims
+2019-08-22,209000.0,Initial Jobless Claims
+2019-08-29,215000.0,Initial Jobless Claims
+2019-09-05,217000.0,Initial Jobless Claims
+2019-09-12,204000.0,Initial Jobless Claims
+2019-09-19,208000.0,Initial Jobless Claims
+2019-09-26,213000.0,Initial Jobless Claims
+2019-10-03,219000.0,Initial Jobless Claims
+2019-10-10,210000.0,Initial Jobless Claims
+2019-10-17,214000.0,Initial Jobless Claims
+2019-10-24,212000.0,Initial Jobless Claims
+2019-10-31,218000.0,Initial Jobless Claims
+2019-11-07,211000.0,Initial Jobless Claims
+2019-11-14,225000.0,Initial Jobless Claims
+2019-11-21,227000.0,Initial Jobless Claims
+2019-11-27,213000.0,Initial Jobless Claims
+2019-12-05,203000.0,Initial Jobless Claims
+2019-12-12,252000.0,Initial Jobless Claims
+2019-12-19,234000.0,Initial Jobless Claims
+2019-12-26,222000.0,Initial Jobless Claims
+2020-01-02,222000.0,Initial Jobless Claims
+2020-01-09,214000.0,Initial Jobless Claims
+2020-01-16,204000.0,Initial Jobless Claims
+2020-01-23,211000.0,Initial Jobless Claims
+2020-01-30,216000.0,Initial Jobless Claims
+2020-02-06,202000.0,Initial Jobless Claims
+2020-02-13,205000.0,Initial Jobless Claims
+2020-02-20,210000.0,Initial Jobless Claims
+2020-02-27,219000.0,Initial Jobless Claims
+2020-03-05,216000.0,Initial Jobless Claims
+2020-03-12,211000.0,Initial Jobless Claims
+2020-03-19,281000.0,Initial Jobless Claims
+2020-03-26,3283000.0,Initial Jobless Claims
+2020-04-02,6648000.0,Initial Jobless Claims
+2020-04-09,6606000.0,Initial Jobless Claims
+2020-04-16,5245000.0,Initial Jobless Claims
+2020-04-23,4427000.0,Initial Jobless Claims
+2020-04-30,3839000.0,Initial Jobless Claims
+2020-05-07,3169000.0,Initial Jobless Claims
+2020-05-14,2981000.0,Initial Jobless Claims
+2020-05-21,2438000.0,Initial Jobless Claims
+2020-05-28,2123000.0,Initial Jobless Claims
+2020-06-04,1877000.0,Initial Jobless Claims
+2020-06-11,1542000.0,Initial Jobless Claims
+2020-06-18,1508000.0,Initial Jobless Claims
+2020-06-25,1480000.0,Initial Jobless Claims
+2020-07-02,1427000.0,Initial Jobless Claims
+2020-07-09,1314000.0,Initial Jobless Claims
+2020-07-16,1300000.0,Initial Jobless Claims
+2020-07-23,1416000.0,Initial Jobless Claims
+2020-07-30,1434000.0,Initial Jobless Claims
+2020-08-06,1186000.0,Initial Jobless Claims
+2020-08-13,963000.0,Initial Jobless Claims
+2020-08-20,1106000.0,Initial Jobless Claims
+2020-08-27,1006000.0,Initial Jobless Claims
+2020-09-03,881000.0,Initial Jobless Claims
+2020-09-10,884000.0,Initial Jobless Claims
+2020-09-17,860000.0,Initial Jobless Claims
+2020-09-24,870000.0,Initial Jobless Claims
+2020-10-01,837000.0,Initial Jobless Claims
+2020-10-08,840000.0,Initial Jobless Claims
+2020-10-15,898000.0,Initial Jobless Claims
+2020-10-22,787000.0,Initial Jobless Claims
+2020-10-29,751000.0,Initial Jobless Claims
+2020-11-05,751000.0,Initial Jobless Claims
+2020-11-12,709000.0,Initial Jobless Claims
+2020-11-19,742000.0,Initial Jobless Claims
+2020-11-25,778000.0,Initial Jobless Claims
+2020-12-03,712000.0,Initial Jobless Claims
+2020-12-10,853000.0,Initial Jobless Claims
+2020-12-17,885000.0,Initial Jobless Claims
+2020-12-23,803000.0,Initial Jobless Claims
+2020-12-31,787000.0,Initial Jobless Claims
+2021-01-07,787000.0,Initial Jobless Claims
+2021-01-14,965000.0,Initial Jobless Claims
+2021-01-21,900000.0,Initial Jobless Claims
+2021-01-28,847000.0,Initial Jobless Claims
+2021-02-04,779000.0,Initial Jobless Claims
+2021-02-11,793000.0,Initial Jobless Claims
+2021-02-18,861000.0,Initial Jobless Claims
+2021-02-25,730000.0,Initial Jobless Claims
+2021-03-04,745000.0,Initial Jobless Claims
+2021-03-11,712000.0,Initial Jobless Claims
+2021-03-18,770000.0,Initial Jobless Claims
+2021-03-25,684000.0,Initial Jobless Claims
+2021-04-01,719000.0,Initial Jobless Claims
+2021-04-08,744000.0,Initial Jobless Claims
+2021-04-15,576000.0,Initial Jobless Claims
+2021-04-22,547000.0,Initial Jobless Claims
+2021-04-29,553000.0,Initial Jobless Claims
+2021-05-06,498000.0,Initial Jobless Claims
+2021-05-13,473000.0,Initial Jobless Claims
+2021-05-20,444000.0,Initial Jobless Claims
+2021-05-27,406000.0,Initial Jobless Claims
+2021-06-03,385000.0,Initial Jobless Claims
+2021-06-10,376000.0,Initial Jobless Claims
+2021-06-17,412000.0,Initial Jobless Claims
+2021-06-24,411000.0,Initial Jobless Claims
+2021-07-01,364000.0,Initial Jobless Claims
+2021-07-08,373000.0,Initial Jobless Claims
+2021-07-15,360000.0,Initial Jobless Claims
+2021-07-22,419000.0,Initial Jobless Claims
+2021-07-29,400000.0,Initial Jobless Claims
+2021-08-05,385000.0,Initial Jobless Claims
+2021-08-12,375000.0,Initial Jobless Claims
+2021-08-19,348000.0,Initial Jobless Claims
+2021-08-26,353000.0,Initial Jobless Claims
+2021-09-02,340000.0,Initial Jobless Claims
+2021-09-09,310000.0,Initial Jobless Claims
+2021-09-16,332000.0,Initial Jobless Claims
+2021-09-23,351000.0,Initial Jobless Claims
+2021-09-30,362000.0,Initial Jobless Claims
+2021-10-07,326000.0,Initial Jobless Claims
+2021-10-14,293000.0,Initial Jobless Claims
+2021-10-21,290000.0,Initial Jobless Claims
+2021-10-28,281000.0,Initial Jobless Claims
+2021-11-04,269000.0,Initial Jobless Claims
+2021-11-10,267000.0,Initial Jobless Claims
+2021-11-18,268000.0,Initial Jobless Claims
+2021-11-24,199000.0,Initial Jobless Claims
+2021-12-02,222000.0,Initial Jobless Claims
+2021-12-09,184000.0,Initial Jobless Claims
+2021-12-16,206000.0,Initial Jobless Claims
+2021-12-23,205000.0,Initial Jobless Claims
+2021-12-30,198000.0,Initial Jobless Claims
+2022-01-06,207000.0,Initial Jobless Claims
+2022-01-13,230000.0,Initial Jobless Claims
+2022-01-20,286000.0,Initial Jobless Claims
+2022-01-27,260000.0,Initial Jobless Claims
+2022-02-03,238000.0,Initial Jobless Claims
+2022-02-10,223000.0,Initial Jobless Claims
+2022-02-17,248000.0,Initial Jobless Claims
+2022-02-24,232000.0,Initial Jobless Claims
+2022-03-03,215000.0,Initial Jobless Claims
+2022-03-10,227000.0,Initial Jobless Claims
+2022-03-17,214000.0,Initial Jobless Claims
+2022-03-24,187000.0,Initial Jobless Claims
+2022-03-31,202000.0,Initial Jobless Claims
+2022-04-07,166000.0,Initial Jobless Claims
+2022-04-14,185000.0,Initial Jobless Claims
+2022-04-21,184000.0,Initial Jobless Claims
+2022-04-28,180000.0,Initial Jobless Claims
+2022-05-05,200000.0,Initial Jobless Claims
+2022-05-12,203000.0,Initial Jobless Claims
+2022-05-19,218000.0,Initial Jobless Claims
+2022-05-26,210000.0,Initial Jobless Claims
+2022-06-02,200000.0,Initial Jobless Claims
+2022-06-09,229000.0,Initial Jobless Claims
+2022-06-16,229000.0,Initial Jobless Claims
+2022-06-23,229000.0,Initial Jobless Claims
+2022-06-30,231000.0,Initial Jobless Claims
+2022-07-07,235000.0,Initial Jobless Claims
+2022-07-14,244000.0,Initial Jobless Claims
+2022-07-21,251000.0,Initial Jobless Claims
+2022-07-28,256000.0,Initial Jobless Claims
+2022-08-04,260000.0,Initial Jobless Claims
+2022-08-11,262000.0,Initial Jobless Claims
+2022-08-18,250000.0,Initial Jobless Claims
+2022-08-25,243000.0,Initial Jobless Claims
+2022-09-01,232000.0,Initial Jobless Claims
+2022-09-08,222000.0,Initial Jobless Claims
+2022-09-15,213000.0,Initial Jobless Claims
+2022-09-22,213000.0,Initial Jobless Claims
+2022-09-29,193000.0,Initial Jobless Claims
+2022-10-06,219000.0,Initial Jobless Claims
+2022-10-13,228000.0,Initial Jobless Claims
+2022-10-20,214000.0,Initial Jobless Claims
+2022-10-27,217000.0,Initial Jobless Claims
+2022-11-03,217000.0,Initial Jobless Claims
+2022-11-10,225000.0,Initial Jobless Claims
+2022-11-17,222000.0,Initial Jobless Claims
+2022-11-23,240000.0,Initial Jobless Claims
+2022-12-01,225000.0,Initial Jobless Claims
+2022-12-08,230000.0,Initial Jobless Claims
+2022-12-15,211000.0,Initial Jobless Claims
+2022-12-22,216000.0,Initial Jobless Claims
+2022-12-29,225000.0,Initial Jobless Claims
+2023-01-05,204000.0,Initial Jobless Claims
+2023-01-12,205000.0,Initial Jobless Claims
+2023-01-19,190000.0,Initial Jobless Claims
+2023-01-26,186000.0,Initial Jobless Claims
+2023-02-02,183000.0,Initial Jobless Claims
+2023-02-09,196000.0,Initial Jobless Claims
+2023-02-16,194000.0,Initial Jobless Claims
+2023-02-23,192000.0,Initial Jobless Claims
+2023-03-02,190000.0,Initial Jobless Claims
+2023-03-09,211000.0,Initial Jobless Claims
+2023-03-16,192000.0,Initial Jobless Claims
+2023-03-23,191000.0,Initial Jobless Claims
+2023-03-30,198000.0,Initial Jobless Claims
+2023-04-06,228000.0,Initial Jobless Claims
+2023-04-13,239000.0,Initial Jobless Claims
+2023-04-20,245000.0,Initial Jobless Claims
+2023-04-27,230000.0,Initial Jobless Claims
+2023-05-04,242000.0,Initial Jobless Claims
+2023-05-11,264000.0,Initial Jobless Claims
+2023-05-18,242000.0,Initial Jobless Claims
+2023-05-25,229000.0,Initial Jobless Claims
+2023-06-01,232000.0,Initial Jobless Claims
+2023-06-08,261000.0,Initial Jobless Claims
+2023-06-15,262000.0,Initial Jobless Claims
+2023-06-22,264000.0,Initial Jobless Claims
+2023-06-29,239000.0,Initial Jobless Claims
+2023-07-06,248000.0,Initial Jobless Claims
+2023-07-13,237000.0,Initial Jobless Claims
+2023-07-20,228000.0,Initial Jobless Claims
+2023-07-27,221000.0,Initial Jobless Claims
+2023-08-03,227000.0,Initial Jobless Claims
+2023-08-10,248000.0,Initial Jobless Claims
+2023-08-17,239000.0,Initial Jobless Claims
+2023-08-24,230000.0,Initial Jobless Claims
+2023-08-31,228000.0,Initial Jobless Claims
+2023-09-07,216000.0,Initial Jobless Claims
+2023-09-14,220000.0,Initial Jobless Claims
+2023-09-21,201000.0,Initial Jobless Claims
+2023-09-28,204000.0,Initial Jobless Claims
+2023-10-05,207000.0,Initial Jobless Claims
+2023-10-12,209000.0,Initial Jobless Claims
+2023-10-19,198000.0,Initial Jobless Claims
+2023-10-26,210000.0,Initial Jobless Claims
+2023-11-02,217000.0,Initial Jobless Claims
+2023-11-09,217000.0,Initial Jobless Claims
+2023-11-16,231000.0,Initial Jobless Claims
+2023-11-22,209000.0,Initial Jobless Claims
+2023-11-30,218000.0,Initial Jobless Claims
+2023-12-07,220000.0,Initial Jobless Claims
+2023-12-14,202000.0,Initial Jobless Claims
+2023-12-21,205000.0,Initial Jobless Claims
+2023-12-28,218000.0,Initial Jobless Claims
+2024-01-04,202000.0,Initial Jobless Claims
+2024-01-11,202000.0,Initial Jobless Claims
+2024-01-18,187000.0,Initial Jobless Claims
+2024-01-25,214000.0,Initial Jobless Claims
+2024-02-01,224000.0,Initial Jobless Claims
+2024-02-08,218000.0,Initial Jobless Claims
+2024-02-15,212000.0,Initial Jobless Claims
+2024-02-22,201000.0,Initial Jobless Claims
+2024-02-29,215000.0,Initial Jobless Claims
+2024-03-07,217000.0,Initial Jobless Claims
+2024-03-14,209000.0,Initial Jobless Claims
+2024-03-21,210000.0,Initial Jobless Claims
+2024-03-28,210000.0,Initial Jobless Claims
+2024-04-04,221000.0,Initial Jobless Claims
+2024-04-11,211000.0,Initial Jobless Claims
+2024-04-18,212000.0,Initial Jobless Claims
+2024-04-25,207000.0,Initial Jobless Claims
+2024-05-02,208000.0,Initial Jobless Claims
+2024-05-09,231000.0,Initial Jobless Claims
+2024-05-16,222000.0,Initial Jobless Claims
+2024-05-23,215000.0,Initial Jobless Claims
+2024-05-30,219000.0,Initial Jobless Claims
+2024-06-06,229000.0,Initial Jobless Claims
+2024-06-13,242000.0,Initial Jobless Claims
+2024-06-20,238000.0,Initial Jobless Claims
+2024-06-27,233000.0,Initial Jobless Claims
+2024-07-03,238000.0,Initial Jobless Claims
+2024-07-11,222000.0,Initial Jobless Claims
+2024-07-18,243000.0,Initial Jobless Claims
+2024-07-25,235000.0,Initial Jobless Claims
+2024-08-01,249000.0,Initial Jobless Claims
+2024-08-08,233000.0,Initial Jobless Claims
+2024-08-15,227000.0,Initial Jobless Claims
+2024-08-22,232000.0,Initial Jobless Claims
+2024-08-29,231000.0,Initial Jobless Claims
+2024-09-05,227000.0,Initial Jobless Claims
+2024-09-12,230000.0,Initial Jobless Claims
+2024-09-19,219000.0,Initial Jobless Claims
+2024-09-26,218000.0,Initial Jobless Claims
+2024-10-03,225000.0,Initial Jobless Claims
+2024-10-10,258000.0,Initial Jobless Claims
+2024-10-17,241000.0,Initial Jobless Claims
+2024-10-24,227000.0,Initial Jobless Claims
+2024-10-31,216000.0,Initial Jobless Claims
+2024-11-07,221000.0,Initial Jobless Claims
+2024-11-14,217000.0,Initial Jobless Claims
+2024-11-21,213000.0,Initial Jobless Claims
+2024-11-27,213000.0,Initial Jobless Claims
+2024-12-05,224000.0,Initial Jobless Claims
+2024-12-12,242000.0,Initial Jobless Claims
+2024-12-19,220000.0,Initial Jobless Claims
+2024-12-26,219000.0,Initial Jobless Claims
+2025-01-02,211000.0,Initial Jobless Claims
+2025-01-08,201000.0,Initial Jobless Claims
+2025-01-16,217000.0,Initial Jobless Claims
+2025-01-23,223000.0,Initial Jobless Claims
+2025-01-30,207000.0,Initial Jobless Claims
+2025-02-06,219000.0,Initial Jobless Claims
+2025-02-13,213000.0,Initial Jobless Claims
+2025-02-20,219000.0,Initial Jobless Claims
+2025-02-27,242000.0,Initial Jobless Claims
+2025-03-06,221000.0,Initial Jobless Claims
+2025-03-13,220000.0,Initial Jobless Claims
+2025-03-20,223000.0,Initial Jobless Claims
+2025-03-27,224000.0,Initial Jobless Claims
+2025-04-03,219000.0,Initial Jobless Claims
+2025-04-10,223000.0,Initial Jobless Claims
+2025-04-17,215000.0,Initial Jobless Claims
+2025-04-24,222000.0,Initial Jobless Claims
+2025-05-01,241000.0,Initial Jobless Claims
+2025-05-08,228000.0,Initial Jobless Claims
+2025-05-15,229000.0,Initial Jobless Claims
+2025-05-22,227000.0,Initial Jobless Claims
+2025-05-29,240000.0,Initial Jobless Claims
+2025-06-05,247000.0,Initial Jobless Claims
+2025-06-12,248000.0,Initial Jobless Claims
+2025-06-18,245000.0,Initial Jobless Claims
+2025-06-26,236000.0,Initial Jobless Claims
+2025-07-03,233000.0,Initial Jobless Claims
+2025-07-10,227000.0,Initial Jobless Claims
+2025-07-17,221000.0,Initial Jobless Claims
+2018-07-17,100.17982309789,OECD US Leading Indicator
+2018-09-05,99.9608433063184,OECD US Leading Indicator
+2018-09-13,99.8244816043643,OECD US Leading Indicator
+2018-10-09,99.9510618840988,OECD US Leading Indicator
+2018-11-13,99.8521675177064,OECD US Leading Indicator
+2018-12-17,99.723883592833,OECD US Leading Indicator
+2019-01-15,99.5933614221419,OECD US Leading Indicator
+2019-02-13,99.3680280899495,OECD US Leading Indicator
+2019-03-13,99.0479518836978,OECD US Leading Indicator
+2019-04-11,99.0569621413711,OECD US Leading Indicator
+2019-05-22,98.7915951690865,OECD US Leading Indicator
+2019-06-14,98.9399296193703,OECD US Leading Indicator
+2019-07-11,98.8363268179646,OECD US Leading Indicator
+2019-08-12,98.8498603899643,OECD US Leading Indicator
+2019-09-11,98.6813058404095,OECD US Leading Indicator
+2019-10-09,98.7847366817854,OECD US Leading Indicator
+2019-12-12,98.8580502144898,OECD US Leading Indicator
+2020-01-15,98.9438979980368,OECD US Leading Indicator
+2020-02-12,99.211677927713,OECD US Leading Indicator
+2020-04-11,98.9427190269005,OECD US Leading Indicator
+2020-05-14,97.4066206904474,OECD US Leading Indicator
+2020-06-11,94.8468091399423,OECD US Leading Indicator
+2020-07-10,95.6955294519861,OECD US Leading Indicator
+2020-08-11,97.4660694283481,OECD US Leading Indicator
+2020-09-10,97.6345965394074,OECD US Leading Indicator
+2020-10-09,98.5764017696034,OECD US Leading Indicator
+2020-11-10,98.8044386280261,OECD US Leading Indicator
+2020-12-09,98.8827883007716,OECD US Leading Indicator
+2021-01-19,99.2488514866934,OECD US Leading Indicator
+2021-02-12,99.5038666434948,OECD US Leading Indicator
+2021-03-10,99.7766229921621,OECD US Leading Indicator
+2021-05-12,100.150925618287,OECD US Leading Indicator
+2021-06-10,100.581736978692,OECD US Leading Indicator
+2021-07-13,100.660234463303,OECD US Leading Indicator
+2021-08-12,100.51511240982,OECD US Leading Indicator
+2021-10-13,100.486654237088,OECD US Leading Indicator
+2021-11-11,100.358956040316,OECD US Leading Indicator
+2022-01-18,99.908777295213,OECD US Leading Indicator
+2022-02-11,99.8861002667585,OECD US Leading Indicator
+2022-03-10,100.014853805943,OECD US Leading Indicator
+2022-04-14,100.092690374881,OECD US Leading Indicator
+2022-05-11,100.146438321369,OECD US Leading Indicator
+2022-06-14,99.8111205268027,OECD US Leading Indicator
+2022-07-13,99.3637965312859,OECD US Leading Indicator
+2022-08-10,99.02593047,OECD US Leading Indicator
+2022-09-14,98.8063932972699,OECD US Leading Indicator
+2022-11-11,98.5050556774278,OECD US Leading Indicator
+2022-12-10,98.4417853525219,OECD US Leading Indicator
+2023-01-11,98.3579591577444,OECD US Leading Indicator
+2023-02-13,98.4139145957147,OECD US Leading Indicator
+2023-03-09,98.4453101395434,OECD US Leading Indicator
+2023-04-07,98.4858092571728,OECD US Leading Indicator
+2023-05-10,98.443651665221,OECD US Leading Indicator
+2023-06-13,98.6602144367612,OECD US Leading Indicator
+2023-07-07,98.8815476243558,OECD US Leading Indicator
+2023-08-10,99.1382490853376,OECD US Leading Indicator
+2023-09-09,99.3296765176831,OECD US Leading Indicator
+2023-10-07,99.4320573246965,OECD US Leading Indicator
+2023-11-10,99.4717872734553,OECD US Leading Indicator
+2023-12-09,99.5103588335686,OECD US Leading Indicator
+2024-01-11,99.7009571541778,OECD US Leading Indicator
+2024-04-10,100.01346566928001,OECD US Leading Indicator
+2024-05-15,100.25988974027,OECD US Leading Indicator
+2024-06-17,100.227544072849,OECD US Leading Indicator
+2024-08-15,100.23108698295,OECD US Leading Indicator
+2024-09-16,99.9687786825786,OECD US Leading Indicator
+2024-10-15,100.094574779289,OECD US Leading Indicator
+2024-11-15,100.24988658542401,OECD US Leading Indicator
+2024-12-16,100.391803317624,OECD US Leading Indicator
+2025-01-15,100.53020369070299,OECD US Leading Indicator
+2025-02-17,100.742934213125,OECD US Leading Indicator
+2025-03-17,100.711743229699,OECD US Leading Indicator
+2025-04-15,100.677882387944,OECD US Leading Indicator
+2025-05-15,100.44174699859501,OECD US Leading Indicator
+2025-06-16,100.28879976156799,OECD US Leading Indicator
+2025-07-15,100.430848919581,OECD US Leading Indicator
+2018-07-17,99.587863815644,OECD China Leading Indicator
+2018-09-05,99.840296648117,OECD China Leading Indicator
+2018-09-13,99.8792514562451,OECD China Leading Indicator
+2018-10-09,99.162039279947,OECD China Leading Indicator
+2018-11-13,99.308356217866,OECD China Leading Indicator
+2019-01-15,98.7842625867673,OECD China Leading Indicator
+2019-02-13,98.4503428165271,OECD China Leading Indicator
+2019-03-13,98.311519433995,OECD China Leading Indicator
+2019-04-11,98.302871432165,OECD China Leading Indicator
+2019-05-22,98.6965302085747,OECD China Leading Indicator
+2019-06-14,98.8072537655691,OECD China Leading Indicator
+2019-07-11,98.8763799084756,OECD China Leading Indicator
+2019-08-12,98.8761238947685,OECD China Leading Indicator
+2019-09-11,98.8210450110182,OECD China Leading Indicator
+2019-10-09,98.9911943903401,OECD China Leading Indicator
+2019-12-12,99.1854551128474,OECD China Leading Indicator
+2020-01-15,99.3073081983212,OECD China Leading Indicator
+2020-02-12,99.8223899498426,OECD China Leading Indicator
+2020-04-11,98.7847640464995,OECD China Leading Indicator
+2020-05-14,93.6892387650888,OECD China Leading Indicator
+2020-06-11,96.2046349624709,OECD China Leading Indicator
+2020-07-10,99.3176056555665,OECD China Leading Indicator
+2020-08-11,97.9443015282656,OECD China Leading Indicator
+2020-09-10,98.7655932485432,OECD China Leading Indicator
+2020-10-09,100.131701372823,OECD China Leading Indicator
+2020-11-10,100.085205526722,OECD China Leading Indicator
+2020-12-09,100.577316019967,OECD China Leading Indicator
+2021-01-19,100.612332427619,OECD China Leading Indicator
+2021-02-12,101.397959700334,OECD China Leading Indicator
+2021-03-10,101.458597829402,OECD China Leading Indicator
+2021-05-12,102.491198530321,OECD China Leading Indicator
+2021-06-10,102.521904178843,OECD China Leading Indicator
+2021-07-13,102.324394079079,OECD China Leading Indicator
+2021-08-12,102.387298772153,OECD China Leading Indicator
+2021-09-15,102.021293805922,OECD China Leading Indicator
+2021-10-13,101.693189900699,OECD China Leading Indicator
+2021-11-11,101.158207967097,OECD China Leading Indicator
+2022-01-18,99.402512806144,OECD China Leading Indicator
+2022-02-11,98.9956268793215,OECD China Leading Indicator
+2022-03-10,99.1710888505485,OECD China Leading Indicator
+2022-04-14,99.3620768614865,OECD China Leading Indicator
+2022-05-11,99.387670149406,OECD China Leading Indicator
+2022-06-14,98.8373721189865,OECD China Leading Indicator
+2022-07-13,98.2501498592134,OECD China Leading Indicator
+2022-08-10,98.45042527,OECD China Leading Indicator
+2022-09-14,98.0481464026276,OECD China Leading Indicator
+2022-11-11,98.7400175139802,OECD China Leading Indicator
+2022-12-10,98.4970945203047,OECD China Leading Indicator
+2023-01-11,98.1119906235099,OECD China Leading Indicator
+2023-02-13,98.3118698945944,OECD China Leading Indicator
+2023-03-09,98.5960229876342,OECD China Leading Indicator
+2023-04-07,98.9671620779394,OECD China Leading Indicator
+2023-05-10,99.479864315557,OECD China Leading Indicator
+2023-06-13,99.9910468445491,OECD China Leading Indicator
+2023-07-07,100.607654449568,OECD China Leading Indicator
+2023-08-10,100.780298420029,OECD China Leading Indicator
+2023-09-09,101.502830520336,OECD China Leading Indicator
+2023-10-07,101.95571049115,OECD China Leading Indicator
+2023-11-10,102.430006194715,OECD China Leading Indicator
+2023-12-09,102.566645846571,OECD China Leading Indicator
+2024-01-11,102.371725468273,OECD China Leading Indicator
+2024-04-10,101.702407676012,OECD China Leading Indicator
+2024-05-15,101.63687115383199,OECD China Leading Indicator
+2024-06-17,100.87971488272801,OECD China Leading Indicator
+2024-08-15,100.362627696399,OECD China Leading Indicator
+2024-09-16,100.235260752406,OECD China Leading Indicator
+2024-10-15,99.8286295250794,OECD China Leading Indicator
+2024-11-15,99.526537824013,OECD China Leading Indicator
+2024-12-16,100.092985477604,OECD China Leading Indicator
+2025-01-15,100.194127231474,OECD China Leading Indicator
+2025-02-17,100.086672416787,OECD China Leading Indicator
+2025-03-17,100.5240117022,OECD China Leading Indicator
+2025-04-15,100.488439330454,OECD China Leading Indicator
+2025-05-15,101.025987318248,OECD China Leading Indicator
+2025-06-16,100.39843819833901,OECD China Leading Indicator
+2025-07-15,100.25647867044901,OECD China Leading Indicator
+2011-06-24,197970.0,Manufacturer New Orders
+2011-07-05,194926.0,Manufacturer New Orders
+2011-08-03,194015.0,Manufacturer New Orders
+2011-08-31,199042.0,Manufacturer New Orders
+2011-10-04,194907.0,Manufacturer New Orders
+2011-11-03,198089.0,Manufacturer New Orders
+2011-12-05,198772.0,Manufacturer New Orders
+2012-01-04,199856.0,Manufacturer New Orders
+2012-02-03,198715.0,Manufacturer New Orders
+2012-03-05,202233.0,Manufacturer New Orders
+2012-04-03,203190.0,Manufacturer New Orders
+2012-05-02,204265.0,Manufacturer New Orders
+2012-06-04,203905.0,Manufacturer New Orders
+2012-07-03,204885.0,Manufacturer New Orders
+2012-08-02,200283.0,Manufacturer New Orders
+2012-08-31,205208.0,Manufacturer New Orders
+2012-10-04,208886.0,Manufacturer New Orders
+2012-11-02,211125.0,Manufacturer New Orders
+2012-12-05,212122.0,Manufacturer New Orders
+2013-01-04,209610.0,Manufacturer New Orders
+2013-02-04,208046.0,Manufacturer New Orders
+2013-03-06,209194.0,Manufacturer New Orders
+2013-04-02,215616.0,Manufacturer New Orders
+2013-05-03,208564.0,Manufacturer New Orders
+2013-06-05,206668.0,Manufacturer New Orders
+2013-07-02,208063.0,Manufacturer New Orders
+2013-08-02,205971.0,Manufacturer New Orders
+2013-09-05,213355.0,Manufacturer New Orders
+2013-11-04,211961.0,Manufacturer New Orders
+2013-12-05,211401.0,Manufacturer New Orders
+2014-01-06,213529.0,Manufacturer New Orders
+2014-02-04,213341.0,Manufacturer New Orders
+2014-03-06,211561.0,Manufacturer New Orders
+2014-04-02,214414.0,Manufacturer New Orders
+2014-05-02,212448.0,Manufacturer New Orders
+2014-06-03,214325.0,Manufacturer New Orders
+2014-07-02,214955.0,Manufacturer New Orders
+2014-08-05,214370.0,Manufacturer New Orders
+2014-09-03,214651.0,Manufacturer New Orders
+2014-10-02,211463.0,Manufacturer New Orders
+2014-11-04,210725.0,Manufacturer New Orders
+2014-12-05,206844.0,Manufacturer New Orders
+2015-01-06,205673.0,Manufacturer New Orders
+2015-02-03,196978.0,Manufacturer New Orders
+2015-03-05,189413.0,Manufacturer New Orders
+2015-04-02,194281.0,Manufacturer New Orders
+2015-05-04,195125.0,Manufacturer New Orders
+2015-06-02,192754.0,Manufacturer New Orders
+2015-07-02,194331.0,Manufacturer New Orders
+2015-08-04,195035.0,Manufacturer New Orders
+2015-09-02,193370.0,Manufacturer New Orders
+2015-10-02,190066.0,Manufacturer New Orders
+2015-11-03,188931.0,Manufacturer New Orders
+2015-12-03,187767.0,Manufacturer New Orders
+2016-01-06,187397.0,Manufacturer New Orders
+2016-02-04,184379.0,Manufacturer New Orders
+2016-03-03,181884.0,Manufacturer New Orders
+2016-04-04,179654.0,Manufacturer New Orders
+2016-05-04,180702.0,Manufacturer New Orders
+2016-06-03,183279.0,Manufacturer New Orders
+2016-07-05,182327.0,Manufacturer New Orders
+2016-08-04,185380.0,Manufacturer New Orders
+2016-09-06,184301.0,Manufacturer New Orders
+2016-10-05,184500.0,Manufacturer New Orders
+2016-11-03,186854.0,Manufacturer New Orders
+2016-12-06,188564.0,Manufacturer New Orders
+2017-01-06,187568.0,Manufacturer New Orders
+2017-02-03,195749.0,Manufacturer New Orders
+2017-03-06,197395.0,Manufacturer New Orders
+2017-04-04,197577.0,Manufacturer New Orders
+2017-05-04,195943.0,Manufacturer New Orders
+2017-06-05,195072.0,Manufacturer New Orders
+2017-07-05,194577.0,Manufacturer New Orders
+2017-08-03,193603.0,Manufacturer New Orders
+2017-09-05,194980.0,Manufacturer New Orders
+2017-10-05,197291.0,Manufacturer New Orders
+2017-11-03,199035.0,Manufacturer New Orders
+2017-12-04,201358.0,Manufacturer New Orders
+2018-01-05,205175.0,Manufacturer New Orders
+2018-02-02,206074.0,Manufacturer New Orders
+2018-03-06,208882.0,Manufacturer New Orders
+2018-04-04,208413.0,Manufacturer New Orders
+2018-05-03,210435.0,Manufacturer New Orders
+2018-06-04,208926.0,Manufacturer New Orders
+2018-07-03,208729.0,Manufacturer New Orders
+2018-08-02,211355.0,Manufacturer New Orders
+2018-09-06,213961.0,Manufacturer New Orders
+2018-10-04,213139.0,Manufacturer New Orders
+2018-11-02,215728.0,Manufacturer New Orders
+2018-12-06,216910.0,Manufacturer New Orders
+2019-02-04,210829.0,Manufacturer New Orders
+2019-02-27,208909.0,Manufacturer New Orders
+2019-03-19,207903.0,Manufacturer New Orders
+2019-04-08,209531.0,Manufacturer New Orders
+2019-05-02,213825.0,Manufacturer New Orders
+2019-06-04,213071.0,Manufacturer New Orders
+2019-07-03,212506.0,Manufacturer New Orders
+2019-08-02,211862.0,Manufacturer New Orders
+2019-09-05,214107.0,Manufacturer New Orders
+2019-10-03,212301.0,Manufacturer New Orders
+2019-11-04,211225.0,Manufacturer New Orders
+2019-12-05,210273.0,Manufacturer New Orders
+2020-01-07,212644.0,Manufacturer New Orders
+2020-02-04,214485.0,Manufacturer New Orders
+2020-03-05,210911.0,Manufacturer New Orders
+2020-04-02,209386.0,Manufacturer New Orders
+2020-05-04,186681.0,Manufacturer New Orders
+2020-06-03,154415.0,Manufacturer New Orders
+2020-07-02,161493.0,Manufacturer New Orders
+2020-08-04,189474.0,Manufacturer New Orders
+2020-09-02,202364.0,Manufacturer New Orders
+2020-10-02,201290.0,Manufacturer New Orders
+2020-11-03,201973.0,Manufacturer New Orders
+2020-12-04,200838.0,Manufacturer New Orders
+2021-01-06,204363.0,Manufacturer New Orders
+2021-02-04,209545.0,Manufacturer New Orders
+2021-03-04,212401.0,Manufacturer New Orders
+2021-04-05,208602.0,Manufacturer New Orders
+2021-05-04,214968.0,Manufacturer New Orders
+2021-06-04,194389.0,Manufacturer New Orders
+2021-07-02,196528.0,Manufacturer New Orders
+2021-08-03,201876.0,Manufacturer New Orders
+2021-09-02,206305.0,Manufacturer New Orders
+2021-10-04,205744.0,Manufacturer New Orders
+2021-11-03,206768.0,Manufacturer New Orders
+2021-12-03,213755.0,Manufacturer New Orders
+2022-01-06,215309.0,Manufacturer New Orders
+2022-02-03,215772.0,Manufacturer New Orders
+2022-03-03,217922.0,Manufacturer New Orders
+2022-04-04,221659.0,Manufacturer New Orders
+2022-05-03,234483.0,Manufacturer New Orders
+2022-06-02,225867.0,Manufacturer New Orders
+2022-07-05,234777.0,Manufacturer New Orders
+2022-08-03,242476.0,Manufacturer New Orders
+2022-09-02,235192.0,Manufacturer New Orders
+2022-10-04,235203.0,Manufacturer New Orders
+2022-11-03,237966.0,Manufacturer New Orders
+2022-12-05,241585.0,Manufacturer New Orders
+2023-01-06,235498.0,Manufacturer New Orders
+2023-02-02,230093.0,Manufacturer New Orders
+2023-03-06,233379.0,Manufacturer New Orders
+2023-04-04,229532.0,Manufacturer New Orders
+2023-05-02,224750.0,Manufacturer New Orders
+2023-06-05,243967.0,Manufacturer New Orders
+2023-07-05,241009.0,Manufacturer New Orders
+2023-08-03,240537.0,Manufacturer New Orders
+2023-09-05,245165.0,Manufacturer New Orders
+2023-10-04,252515.0,Manufacturer New Orders
+2023-11-02,253849.0,Manufacturer New Orders
+2023-12-04,244490.0,Manufacturer New Orders
+2024-01-05,245980.0,Manufacturer New Orders
+2024-02-02,246789.0,Manufacturer New Orders
+2024-03-05,242321.0,Manufacturer New Orders
+2024-04-02,248962.0,Manufacturer New Orders
+2024-05-02,251771.0,Manufacturer New Orders
+2024-06-04,255500.0,Manufacturer New Orders
+2024-07-03,251823.0,Manufacturer New Orders
+2024-08-02,250118.0,Manufacturer New Orders
+2024-09-04,250286.0,Manufacturer New Orders
+2024-10-03,248590.0,Manufacturer New Orders
+2024-11-04,247800.0,Manufacturer New Orders
+2025-01-06,248367.0,Manufacturer New Orders
+2025-02-04,248851.0,Manufacturer New Orders
+2025-03-05,248642.0,Manufacturer New Orders
+2025-04-02,250897.0,Manufacturer New Orders
+2025-05-02,251026.0,Manufacturer New Orders
+2025-06-03,243446.0,Manufacturer New Orders
+2025-07-03,243518.0,Manufacturer New Orders
