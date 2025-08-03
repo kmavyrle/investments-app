@@ -1,2 +1,5 @@
-plotly @ file:///C:/ci/plotly_1658160673416/work
-yfinance>=0.2.61
+yfinance==0.2.61
+streamlit==1.32.0
+pandas==2.0.3
+numpy==1.24.0
+protobuf==3.20.3  # Resolves Google protobuf conflicts
