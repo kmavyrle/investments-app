@@ -2,4 +2,5 @@ yfinance==0.2.61
 streamlit==1.32.0
 pandas==2.0.3
 numpy==1.24.0
+plotly==5.18.0
 protobuf==3.20.3  # Resolves Google protobuf conflicts
