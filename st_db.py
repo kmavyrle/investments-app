@@ -3,13 +3,13 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import datetime
-
+import yfinance as yf
 
 import plotly.express as px
 import plotly.graph_objects as go
 
 
-import yfinance as yf
+
 # Page config
 st.set_page_config(
     page_title="Dashboard",
@@ -130,6 +130,7 @@ elif page == "Macro":
         #print(macro_df)
         col1,col2 = st.columns(2)
         with col1:
+
             st_macro_option = st.selectbox("Macro Indicator",macro_options)
         with col2:
             start_dt = st.text_input('Enter Start Date: ', value = '2021-01-01')
@@ -137,10 +138,30 @@ elif page == "Macro":
         #st.subheader('Visualize')
         fig = px.line(macro_df,x = 'Date',y = st_macro_option)
         st.plotly_chart(fig)
-    #with tabs[1]:
-
+    with macro_tabs[1]:
+        ir_col1,ir_col2 = st.columns(2)
+        with ir_col1:
+            ir_hist = pd.read_csv("interest_rates.csv")
+            st.write(ir_hist)
 
 
 elif page == "Portfolio Analytics":
+    
     st.header("Portfolio Analytics")
-    st.write("Reports content goes here")
+    posn = pd.read_excel("mk_posn_report.xlsx")
+    col1,col2,col3 = st.columns(3)
+
+    with col1:
+        st.subheader('Position Breakdown')
+        posn_chart = px.pie(posn,names ='Symbol',values='notional_usd'  )
+        st.plotly_chart(posn_chart)
+    with col2:
+        st.subheader('Sector Breakdown')
+        sector_chart = px.pie(posn, names = 'Sector', values = 'notional_usd')
+        st.plotly_chart(sector_chart)
+    with col3:
+        st.subheader('Geography Breakdown')
+        geography_chart = px.pie(posn,names = 'Geography',values = 'notional_usd')
+        st.plotly_chart(geography_chart)
+    st.write(posn)
+    #st.write("Reports content goes here")
