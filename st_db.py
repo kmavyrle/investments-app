@@ -8,6 +8,8 @@ import yfinance as yf
 import plotly.express as px
 import plotly.graph_objects as go
 
+import pyOptions as Op
+
 
 
 # Page config
@@ -34,6 +36,9 @@ with st.sidebar:
     
     if st.button("Portfolio Analytics", use_container_width=True):
         st.session_state.page = "Portfolio Analytics"
+    
+    if st.button("Options", use_container_width=True):
+        st.session_state.page = "Options"
     
     # Initialize page if not set
     if 'page' not in st.session_state:
@@ -165,3 +170,62 @@ elif page == "Portfolio Analytics":
         st.plotly_chart(geography_chart)
     st.write(posn)
     #st.write("Reports content goes here")
+
+elif page == "Options":
+    st.header("Options")
+    noptions = st.text_input('Enter Number of Options', value =1) 
+    col1,col2,col3,col4,col5,col6 = st.columns(6)
+    
+    with col1:
+        S = st.text_input('Enter S0: ', value = 100)
+        S2 = st.text_input('Enter S0_2: ', value = 100)
+    with col2:
+        expiry = st.text_input('Enter Expiry Date: ', value = '2030-12-31')
+        expiry2 = st.text_input('Enter Expiry Date 2: ', value = '2030-12-31')
+    with col3:
+        option_type = st.selectbox("Select Option Type", ["c", "p"])
+        option_type2 = st.selectbox("Select Option Type 2", ["c", "p"])
+    with col4:
+        strike_price = st.number_input("Enter Strike Price", value=100)
+        strike_price2 = st.number_input("Enter Strike Price 2", value=100)
+    with col5:
+        iv = st.text_input("Enter Implied Vol", value=0.2)
+        iv2 = st.text_input("Enter Implied Vol 2", value=0.2)  
+    with col6:
+        operator = st.selectbox("Select Operator", ["-", "+"])
+        operator2 = st.selectbox("Select Operator 2", ["-", "+"])
+
+
+    noptions = int(noptions)
+    expiry = datetime.datetime.strptime(expiry, '%Y-%m-%d').date()
+    dte = (expiry - datetime.date.today()).days
+    dte = dte/365
+    opt = Op.Option(float(S),float(strike_price),0,dte,float(iv),cp = option_type)
+    if noptions == 2:
+        expiry2 = datetime.datetime.strptime(expiry2, '%Y-%m-%d').date()
+        dte2 = (expiry2 - datetime.date.today()).days
+        dte2 = dte2/365
+        opt2 = Op.Option(float(S2),float(strike_price2),0,dte2,float(iv2),cp = option_type2)
+
+
+
+    st.write("Option Price 1: ",round(opt.bsprice(),4))
+    if noptions == 2:
+        st.write("Option Price 2: ",round(opt2.bsprice(),4))
+
+    payoff1 = opt.get_payoffs(np.arange(0, 200, 1))
+    if noptions == 2:
+        payoff2 = opt2.get_payoffs(np.arange(0, 200, 1))
+        payoffs = pd.concat([payoff1, payoff2], axis=1)
+        payoffs.columns = ['Payoff 1', 'Payoff 2']
+        if operator == '+':
+            payoffs['Payoff'] = payoffs["Payoff 1"] + payoffs['Payoff 2']
+        elif operator == '-':
+            payoffs['Payoff'] = payoffs["Payoff 1"] - payoffs['Payoff 2']
+        payoffs = pd.DataFrame(payoffs, columns=['Payoff'])
+    else:
+        payoffs = payoff1
+    st.plotly_chart(px.line(payoffs, x=payoffs.index, y='Payoff', title='Payoff Profile')) 
+
+
+
