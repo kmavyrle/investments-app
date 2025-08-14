@@ -225,7 +225,6 @@ elif page == "Options":
         payoffs = pd.concat([payoff1, payoff2], axis=1)
         payoffs.columns = ['Payoff 1', 'Payoff 2']
         payoffs['Payoff'] = float(operator)*payoffs["Payoff 1"] + float(operator2) * payoffs['Payoff 2']
-
         payoffs = pd.DataFrame(payoffs, columns=['Payoff'])
     else:
         payoffs = payoff1
