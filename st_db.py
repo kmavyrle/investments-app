@@ -172,63 +172,64 @@ elif page == "Portfolio Analytics":
     #st.write("Reports content goes here")
 
 elif page == "Options":
-    st.header("Options")
-    noptions = st.text_input('Enter Number of Options', value =1) 
-    col1,col2,col3,col4,col5,col6= st.columns(6)
-    
-    with col1:
-        S = st.text_input('Enter S0: ', value = 100)
-        S2 = st.text_input('Enter S0_2: ', value = 100)
-    with col2:
-        expiry = st.text_input('Enter Expiry: ', value = '2030-12-31')
-        expiry2 = st.text_input('Enter Expiry 2: ', value = '2030-12-31')
-    with col3:
-        option_type = st.selectbox("Option Type", ["c", "p"])
-        option_type2 = st.selectbox("Option Type 2", ["c", "p"])
-    with col4:
-        strike_price = st.number_input("Strike", value=100)
-        strike_price2 = st.number_input("Strike 2", value=100)
-    with col5:
-        iv = st.text_input("Enter IV", value=0.2)
-        iv2 = st.text_input("Enter IV    2", value=0.2)  
-    with col6:
-        operator = st.text_input("Volume & dir",value = "1")
-        operator2 = st.text_input("Volume & dir 2",value = "1")
+    option_tabs = st.tabs(["Option Pricer","Vol Surface"])
+        with option_tabs[0]:
+        noptions = st.text_input('Enter Number of Options', value =1) 
+        col1,col2,col3,col4,col5,col6= st.columns(6)
+        
+        with col1:
+            S = st.text_input('Enter S0: ', value = 100)
+            S2 = st.text_input('Enter S0_2: ', value = 100)
+        with col2:
+            expiry = st.text_input('Enter Expiry: ', value = '2030-12-31')
+            expiry2 = st.text_input('Enter Expiry 2: ', value = '2030-12-31')
+        with col3:
+            option_type = st.selectbox("Option Type", ["c", "p"])
+            option_type2 = st.selectbox("Option Type 2", ["c", "p"])
+        with col4:
+            strike_price = st.number_input("Strike", value=100)
+            strike_price2 = st.number_input("Strike 2", value=100)
+        with col5:
+            iv = st.text_input("Enter IV", value=0.2)
+            iv2 = st.text_input("Enter IV    2", value=0.2)  
+        with col6:
+            operator = st.text_input("Volume & dir",value = "1")
+            operator2 = st.text_input("Volume & dir 2",value = "1")
 
 
-    noptions = int(noptions)
-    expiry = datetime.datetime.strptime(expiry, '%Y-%m-%d').date()
-    dte = (expiry - datetime.date.today()).days
-    dte = dte/365
-    opt = Op.Option(float(S),float(strike_price),0,dte,float(iv),cp = option_type)
-    if noptions == 2:
-        expiry2 = datetime.datetime.strptime(expiry2, '%Y-%m-%d').date()
-        dte2 = (expiry2 - datetime.date.today()).days
-        dte2 = dte2/365
-        opt2 = Op.Option(float(S2),float(strike_price2),0,dte2,float(iv2),cp = option_type2)
+        noptions = int(noptions)
+        expiry = datetime.datetime.strptime(expiry, '%Y-%m-%d').date()
+        dte = (expiry - datetime.date.today()).days
+        dte = dte/365
+        opt = Op.Option(float(S),float(strike_price),0,dte,float(iv),cp = option_type)
+        if noptions == 2:
+            expiry2 = datetime.datetime.strptime(expiry2, '%Y-%m-%d').date()
+            dte2 = (expiry2 - datetime.date.today()).days
+            dte2 = dte2/365
+            opt2 = Op.Option(float(S2),float(strike_price2),0,dte2,float(iv2),cp = option_type2)
 
 
-    st.subheader("Option Details")
-    st.write("Option Price 1: ",round(opt.bsprice(),4))
-    if noptions == 2:
-        st.write("Option Price 2: ",round(opt2.bsprice(),4))
+        st.subheader("Option Details")
+        st.write("Option Price 1: ",round(opt.bsprice(),4))
+        if noptions == 2:
+            st.write("Option Price 2: ",round(opt2.bsprice(),4))
 
-    st.subheader("Payoff Profile")
-    col7,col8 = st.columns(2)
-    with col7:
-        lower_bound = st.number_input("Enter Lower Bound", value=0)
-    with col8:  
-        upper_bound = st.number_input("Enter Upper Bound", value=200)
-    payoff1 = opt.get_payoffs(np.arange(lower_bound, upper_bound, 1))
-    if noptions == 2:
-        payoff2 = opt2.get_payoffs(np.arange(lower_bound, upper_bound, 1))
-        payoffs = pd.concat([payoff1, payoff2], axis=1)
-        payoffs.columns = ['Payoff 1', 'Payoff 2']
-        payoffs['Payoff'] = float(operator)*payoffs["Payoff 1"] + float(operator2) * payoffs['Payoff 2']
-        payoffs = pd.DataFrame(payoffs, columns=['Payoff'])
-    else:
-        payoffs = payoff1
-    st.plotly_chart(px.line(payoffs, x=payoffs.index, y='Payoff', title='Payoff Profile')) 
+        st.subheader("Payoff Profile")
+        col7,col8 = st.columns(2)
+        with col7:
+            lower_bound = st.number_input("Enter Lower Bound", value=0)
+        with col8:  
+            upper_bound = st.number_input("Enter Upper Bound", value=200)
+        payoff1 = opt.get_payoffs(np.arange(lower_bound, upper_bound, 1))
+        if noptions == 2:
+            payoff2 = opt2.get_payoffs(np.arange(lower_bound, upper_bound, 1))
+            payoffs = pd.concat([payoff1, payoff2], axis=1)
+            payoffs.columns = ['Payoff 1', 'Payoff 2']
+            payoffs['Payoff'] = float(operator)*payoffs["Payoff 1"] + float(operator2) * payoffs['Payoff 2']
+            payoffs = pd.DataFrame(payoffs, columns=['Payoff'])
+        else:
+            payoffs = payoff1
+        st.plotly_chart(px.line(payoffs, x=payoffs.index, y='Payoff', title='Payoff Profile')) 
 
 
 
