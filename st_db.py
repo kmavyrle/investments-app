@@ -173,7 +173,7 @@ elif page == "Portfolio Analytics":
 
 elif page == "Options":
     option_tabs = st.tabs(["Option Pricer","Vol Surface"])
-        with option_tabs[0]:
+    with option_tabs[0]:
         noptions = st.text_input('Enter Number of Options', value =1) 
         col1,col2,col3,col4,col5,col6= st.columns(6)
         
