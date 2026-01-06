@@ -5,3 +5,4 @@ streamlit
 yfinance
 scipy
 cvxpy
+google-api-python-client
