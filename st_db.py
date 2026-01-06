@@ -8,19 +8,35 @@ import yfinance as yf
 import plotly.express as px
 import plotly.graph_objects as go
 
+from saber import PerformanceAnalytics as pa
+from saber import riskEngine as re
+from saber import DataMgmt as dm
+
+from PIL import Image
 import pyOptions as Op
 
 
-
+image = Image.open('Purple Eye with Glowing Star Symbol.png')
+risk = re.riskMgr()
 # Page config
 st.set_page_config(
-    page_title="Dashboard",
-    page_icon="📊",
+    page_title="4Sight",
+    page_icon = image,
     layout="wide"
 )
 
+### Create Key Classes
+dl = dm.DataLake()
+
+### Load Datasets
+us_full_acc_data = dl.read_data("raw",'fundamental','equities','us_full_acc_data.csv',index_col = 'date')
+
+
+
 # Sidebar
 with st.sidebar:
+    image = Image.open('4Sightlogo2.jpg')
+    st.image(image)
     st.title("Settings")
     
     #st.title("Settings")
@@ -33,6 +49,9 @@ with st.sidebar:
     
     if st.button("Macro", use_container_width=True):
         st.session_state.page = "Macro"
+
+    if st.button("Equity Fundamentals", use_container_width=True):
+        st.session_state.page = "Equity Fundamentals"
     
     if st.button("Portfolio Analytics", use_container_width=True):
         st.session_state.page = "Portfolio Analytics"
@@ -48,10 +67,10 @@ with st.sidebar:
 
 
 # Main content
-st.title("Dashboard")
+st.markdown("## 4Sight Analytics")
 
 if page == "Price Monitor":
-    st.header("Price Monitor")
+    st.markdown("### Price Monitor")
     tabs = st.tabs(["Returns Plot"])
     col1,col2 = st.columns(2)
     with col1:
@@ -149,27 +168,117 @@ elif page == "Macro":
             ir_hist = pd.read_csv("interest_rates.csv")
             st.write(ir_hist)
 
+elif page == "Equity Fundamentals":
+    eq_tabs = ["Equity"]
+    eq_tickers = sorted(us_full_acc_data["ticker"].unique())
+    acc_labels = us_full_acc_data.columns[5:]
+
+    with st.container():
+        col1, col2 = st.columns(2)
+
+        with col1:
+            selected_ticker = st.selectbox(
+                "Select stock ticker",
+                eq_tickers
+            )
+
+        with col2:
+            selected_metric = st.selectbox(
+                "Select accounting metric",
+                acc_labels
+            )
+
+    df_plot = (
+        us_full_acc_data
+        .reset_index()
+        .pivot_table(
+            index="date",
+            columns="ticker",
+            values=selected_metric
+        )[[selected_ticker]]
+        .dropna()
+        .reset_index()
+    )
+
+    fig = px.bar(
+        df_plot,
+        x="date",
+        y=selected_ticker,
+        title=f"{selected_ticker} – {selected_metric}",
+        labels={
+            "date": "Date",
+            selected_ticker: selected_metric
+        }
+    )
+
+    st.plotly_chart(fig, use_container_width=True)
+
+
 
 elif page == "Portfolio Analytics":
-    
-    st.header("Portfolio Analytics")
-    posn = pd.read_excel("mk_posn_report.xlsx")
-    col1,col2,col3 = st.columns(3)
+    port_tabs = st.tabs(['Equities Exposure','4Sight Agentic Trader'])
+    with port_tabs[0]:
+        st.markdown("### Portfolio Analytics")
+        posn = pd.read_excel("mk_posn_report.xlsx")
+        col1,col2,col3 = st.columns(3)
 
-    with col1:
-        st.subheader('Position Breakdown')
-        posn_chart = px.pie(posn,names ='Symbol',values='notional_usd'  )
-        st.plotly_chart(posn_chart)
-    with col2:
-        st.subheader('Sector Breakdown')
-        sector_chart = px.pie(posn, names = 'Sector', values = 'notional_usd')
-        st.plotly_chart(sector_chart)
-    with col3:
-        st.subheader('Geography Breakdown')
-        geography_chart = px.pie(posn,names = 'Geography',values = 'notional_usd')
-        st.plotly_chart(geography_chart)
-    st.write(posn)
+        with col1:
+            st.subheader('Position Breakdown')
+            posn_chart = px.pie(posn,names ='Symbol',values='notional_usd'  )
+            st.plotly_chart(posn_chart)
+        with col2:
+            st.subheader('Sector Breakdown')
+            sector_chart = px.pie(posn, names = 'Sector', values = 'notional_usd')
+            st.plotly_chart(sector_chart)
+        with col3:
+            st.subheader('Geography Breakdown')
+            geography_chart = px.pie(posn,names = 'Geography',values = 'notional_usd')
+            st.plotly_chart(geography_chart)
+        st.write(posn)
     #st.write("Reports content goes here")
+    with port_tabs[1]:
+        with st.container(border = True):
+            
+            pnl = pa.get_daily_pnl()
+            start = pd.DataFrame([0,0,0,0,0,0,0,0,0,0])
+            start = start.T
+            start.columns = pnl.columns
+            start.index = ['2025-09-20']
+            start.index.names = ['Date']
+            pnl = pd.concat([start,pnl])
+            
+            #print(pnl)
+
+            sharpe = round((pnl['TOTAL'].mean()/pnl['TOTAL'].std())*np.sqrt(252),2)
+            prev_sharpe = round((pnl.iloc[:-1]['TOTAL'].mean()/pnl.iloc[:-1]['TOTAL'].std())*np.sqrt(252),2)
+            sharpe_chg = round(sharpe-prev_sharpe,2)
+            pnl = pnl.cumsum()
+            latest_pnl = int(pnl['TOTAL'].iloc[-1])
+            prev_pnl = int(pnl['TOTAL'].iloc[-2])
+            pnl_chg = latest_pnl-prev_pnl
+                
+            portfolio_var = risk.get_portfolio_var()
+            p_var = round(portfolio_var,2)
+            col1,col2 = st.columns([0.3,1])
+            with col1:
+                st.metric(label = 'Sharpe Ratio',value = sharpe,delta = sharpe_chg)
+                st.metric(label = 'Total PnL', value = "$"+str(latest_pnl),delta = prev_pnl )
+                st.metric(label = '95% CVaR', value = p_var)
+                st.write(pa.get_portfolio_details())
+            with col2:
+                st.markdown("#### Daily PnL Chart")
+                pnl_chart = px.line(pnl.reset_index(),x ='Date',y = pnl.columns)
+                pnl_chart.update_traces(line = dict(width = 1.5))
+                pnl_chart['data'][-1]['line']['color'] = 'darkblue'
+                pnl_chart['data'][-1]['line']['width'] = 4
+                st.plotly_chart(pnl_chart)
+                
+            
+            
+            
+
+        st.markdown("#### Daily PnL")
+        st.write(pnl)
 
 elif page == "Options":
     option_tabs = st.tabs(["Option Pricer","Vol Surface"])
