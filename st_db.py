@@ -8,8 +8,8 @@ import yfinance as yf
 import plotly.express as px
 import plotly.graph_objects as go
 
-#from saber import PerformanceAnalytics as pa
-#from saber import riskEngine as re
+from saber import PerformanceAnalytics as pa
+from saber import riskEngine as re
 from saber import DataMgmt as dm
 
 from PIL import Image
@@ -17,7 +17,7 @@ import pyOptions as Op
 
 
 image = Image.open('Purple Eye with Glowing Star Symbol.png')
-#risk = re.riskMgr()
+risk = re.riskMgr()
 # Page config
 st.set_page_config(
     page_title="4Sight",
