@@ -4,7 +4,7 @@ import os
 
 
 class DataLake:
-    def __init__(self,base_path = r"C:\Users\kmavy\Documents\mydocs\Investments\data_lake"):
+    def __init__(self,base_path = r"data_lake"):
         self.base_path = base_path
         
     def _path(self, dataclass, dataype, asset_class, filename):
