@@ -18,7 +18,8 @@ class DataLake:
         asset_class: str, equities - us,cn,in,kr etc
         index_col: name of the intended index column
         '''
-        path = self._path(dataclass,dataype,asset_class,filename)
+        #path = self._path(dataclass,dataype,asset_class,filename)
+        path = os.path.join(r"lake",dataclass,datatype,asset_class,filename)
         df = pd.read_csv(path,index_col=index_col,parse_dates=True)
         return df
 
