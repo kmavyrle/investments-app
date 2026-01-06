@@ -19,7 +19,7 @@ image = Image.open('Purple Eye with Glowing Star Symbol.png')
 #risk = re.riskMgr()
 # Page config
 st.set_page_config(
-    page_title="4Sight",
+    page_title="DB",
     page_icon = image,
     layout="wide"
 )
@@ -66,7 +66,7 @@ with st.sidebar:
 
 
 # Main content
-st.markdown("## 4Sight Analytics")
+st.markdown("## Analytics")
 
 if page == "Price Monitor":
     st.markdown("### Price Monitor")
@@ -215,7 +215,7 @@ elif page == "Equity Fundamentals":
 
 
 elif page == "Portfolio Analytics":
-    port_tabs = st.tabs(['Equities Exposure','4Sight Agentic Trader'])
+    port_tabs = st.tabs(['Equities Exposure','Agentic Trader'])
     with port_tabs[0]:
         st.markdown("### Portfolio Analytics")
         posn = pd.read_excel("mk_posn_report.xlsx")
