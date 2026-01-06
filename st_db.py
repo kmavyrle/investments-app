@@ -25,10 +25,10 @@ st.set_page_config(
 )
 
 ### Create Key Classes
-dl = dm.DataLake()
+#dl = dm.DataLake()
 
 ### Load Datasets
-us_full_acc_data = dl.read_data("raw",'fundamental','equities','us_full_acc_data.csv',index_col = 'date')
+#us_full_acc_data = dl.read_data("raw",'fundamental','equities','us_full_acc_data.csv',index_col = 'date')
 
 
 
