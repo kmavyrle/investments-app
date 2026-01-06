@@ -34,8 +34,8 @@ st.set_page_config(
 
 # Sidebar
 with st.sidebar:
-    image = Image.open('4Sightlogo2.jpg')
-    st.image(image)
+    #image = Image.open('4Sightlogo2.jpg')
+    #st.image(image)
     st.title("Settings")
     
     #st.title("Settings")
