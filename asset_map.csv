@@ -1,0 +1,38 @@
+Name,Symbol
+US Equities,US500
+US Tech,USTEC
+China Equities,CHINA50
+Oil,XBRUSD
+Gold,XAUUSD
+DollarPeso,USDMXN
+Ethereum,ETHUSD
+AusieYen,AUDJPY
+DollarYen,USDJPY
+EuroYen,EURJPY
+AussieDollar,AUDUSD
+EuroDollar,EURUSD
+AussieKiwi,AUDNZD
+EuroAusie,EURAUD
+Silver,XAGUSD
+CableDollar,GBPUSD
+DollarForint,USDHUF
+DollarRand,USDZAR
+BP,BP.LSE
+Bitcoin,BTCUSD
+JPM,JPM.NYSE
+Dollar CAD,USDCAD
+ExxonMobil24,XOM.NYSE-24
+EuroSterling,EURGBP
+VIX Jan 26,VIX_F6
+VIX Feb 26,VIX_G6
+VIX Mar 26,VIX_H6
+VIX Apr 26,VIX_J6
+VIX May 26,VIX_K6
+VIX Jun 26,VIX_M6
+VIX Jul 26,VIX_N6
+VIX Aug 26,VIX_Q6
+VIX Sep 26,VIX_U6
+VIX Oct 26,VIX_V6
+VIX Nov 26,VIX_X6
+VIX Dec 26,VIX_Z6
+US 10Yr Mar,UST30Y_H6

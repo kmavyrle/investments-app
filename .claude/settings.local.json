@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/kmavy/Documents/mydocs/4Sight/attachments/**)",
+      "Bash(dir:*)",
+      "Read(//c/Users/kmavy/Documents/mydocs/Training Arc/Coder Training Arc/Artificial Intelligence and Machine Learning/**)",
+      "Bash(python -c \":*)"
+    ]
+  }
+}

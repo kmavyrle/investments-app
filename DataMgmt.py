@@ -4,7 +4,7 @@ import os
 
 
 class DataLake:
-    def __init__(self,base_path = r"data_lake"):
+    def __init__(self,base_path = r"C:\Users\kmavy\Documents\mydocs\Investments\data_lake"):
         self.base_path = base_path
         
     def _path(self, dataclass, dataype, asset_class, filename):
@@ -28,6 +28,7 @@ class DataLake:
         Function performs an incremental update of a saved DataFrame with a new DataFrame.
         '''
         # Union index
+        #saved_df = saved_df[~saved_df.index.duplicated(keep="last")]
         idx = saved_df.index.union(new_df.index)
         saved = saved_df.reindex(idx)
 
